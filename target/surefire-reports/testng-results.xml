@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="0" failed="1" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-06-08T00:41:01 IST" name="Suite" finished-at="2020-06-08T00:41:23 IST" duration-ms="21345">
+    <groups>
+      <group name="cucumber">
+        <method signature="RunnerBase.scenario(io.cucumber.testng.PickleWrapper, io.cucumber.testng.FeatureWrapper)[pri:0, instance:com.qa.runners.MyTestNGRunnerTest@b3ca52e]" name="scenario" class="com.qa.runners.RunnerBase"/>
+      </group> <!-- cucumber -->
+    </groups>
+    <test started-at="2020-06-08T00:41:01 IST" name="Pixel 2" finished-at="2020-06-08T00:41:23 IST" duration-ms="21345">
+      <class name="com.qa.runners.MyTestNGRunnerTest">
+        <test-method is-config="true" signature="setUpClass(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.qa.runners.MyTestNGRunnerTest@b3ca52e]" started-at="2020-06-08T00:41:01 IST" name="setUpClass" finished-at="2020-06-08T00:41:13 IST" duration-ms="11754" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Android]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[emulator-5554]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Pixel 2]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[10000]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpClass -->
+        <test-method signature="scenario(io.cucumber.testng.PickleWrapper, io.cucumber.testng.FeatureWrapper)[pri:0, instance:com.qa.runners.MyTestNGRunnerTest@b3ca52e]" started-at="2020-06-08T00:41:13 IST" name="scenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2020-06-08T00:41:20 IST" duration-ms="6334" status="FAIL">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Verify Pro Tip screen"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Pro Tip scenarios"]]>
+              </value>
+            </param>
+          </params>
+          <exception class="org.junit.ComparisonFailure">
+            <message>
+              <![CDATA[expected:<PRO TI[P]> but was:<PRO TI[]>]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.junit.ComparisonFailure: expected:<PRO TI[P]> but was:<PRO TI[]>
+at org.junit.Assert.assertEquals(Assert.java:115)
+at org.junit.Assert.assertEquals(Assert.java:144)
+at com.qa.stepdef.ProTipPageStepDef.iShouldSeeProTipPageWithRotaotetext(ProTipPageStepDef.java:36)
+at ✽.I should see Pro Tip page with rotaotetext "PRO TI"(file:///Users/sharadgupta/Documents/automation/AppiumCucumburFramework-testng/src/test/resources/ProTips.feature:9)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.junit.ComparisonFailure -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- scenario -->
+        <test-method is-config="true" signature="tearDownClass()[pri:0, instance:com.qa.runners.MyTestNGRunnerTest@b3ca52e]" started-at="2020-06-08T00:41:20 IST" name="tearDownClass" finished-at="2020-06-08T00:41:23 IST" duration-ms="3228" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownClass -->
+      </class> <!-- com.qa.runners.MyTestNGRunnerTest -->
+    </test> <!-- Pixel 2 -->
+  </suite> <!-- Suite -->
+</testng-results>

@@ -1,0 +1,28 @@
+[Android_Android INFO ] 2020-06-07 23:43:43.637 ServerManager:21 - STARTING APPIUM SEVER
+[Android_Android INFO ] 2020-06-07 23:43:45.714 ServerManager:31 - APPIUM SEVER STARTED
+[Android_Android INFO ] 2020-06-07 23:43:45.733 DriverManager:26 - initializing Appium driver
+[Android_Android INFO ] 2020-06-07 23:43:45.750 PropertyManager:18 - Loading config properties
+[Android_Android INFO ] 2020-06-07 23:43:45.751 CapabilitiesManager:16 - getting capabilities
+[Android_Android INFO ] 2020-06-07 23:43:45.753 CapabilitiesManager:32 - appUrl is/Users/sharadgupta/Documents/automation/AppiumCucumburFramework-testng/src/test/resources/app/btv.apk
+[Android_Android FATAL] 2020-06-07 23:43:46.483 DriverManager:45 - Driver init. failure abort !!!
+[Android_Android INFO ] 2020-06-07 23:47:05.609 ServerManager:21 - STARTING APPIUM SEVER
+[Android_Android INFO ] 2020-06-07 23:47:07.353 ServerManager:31 - APPIUM SEVER STARTED
+[Android_Android INFO ] 2020-06-07 23:47:07.376 DriverManager:26 - initializing Appium driver
+[Android_Android INFO ] 2020-06-07 23:47:07.391 PropertyManager:18 - Loading config properties
+[Android_Android INFO ] 2020-06-07 23:47:07.392 CapabilitiesManager:16 - getting capabilities
+[Android_Android INFO ] 2020-06-07 23:47:07.394 CapabilitiesManager:32 - appUrl is/Users/sharadgupta/Documents/automation/AppiumCucumburFramework-testng/src/test/resources/app/btv.apk
+[Android_Android FATAL] 2020-06-07 23:47:08.068 DriverManager:45 - Driver init. failure abort !!!
+[Android_Android INFO ] 2020-06-07 23:50:34.293 ServerManager:21 - STARTING APPIUM SEVER
+[Android_Android INFO ] 2020-06-07 23:50:36.427 ServerManager:31 - APPIUM SEVER STARTED
+[Android_Android INFO ] 2020-06-07 23:50:36.450 DriverManager:26 - initializing Appium driver
+[Android_Android INFO ] 2020-06-07 23:50:36.464 PropertyManager:18 - Loading config properties
+[Android_Android INFO ] 2020-06-07 23:50:36.465 CapabilitiesManager:16 - getting capabilities
+[Android_Android INFO ] 2020-06-07 23:50:36.468 CapabilitiesManager:32 - appUrl is/Users/sharadgupta/Documents/automation/AppiumCucumburFramework-testng/src/test/resources/app/btv.apk
+[Android_Android FATAL] 2020-06-07 23:50:37.195 DriverManager:45 - Driver init. failure abort !!!
+[Android_Android INFO ] 2020-06-07 23:51:44.109 ServerManager:21 - STARTING APPIUM SEVER
+[Android_Android INFO ] 2020-06-07 23:51:45.874 ServerManager:31 - APPIUM SEVER STARTED
+[Android_Android INFO ] 2020-06-07 23:51:45.898 DriverManager:26 - initializing Appium driver
+[Android_Android INFO ] 2020-06-07 23:51:45.917 PropertyManager:18 - Loading config properties
+[Android_Android INFO ] 2020-06-07 23:51:45.919 CapabilitiesManager:16 - getting capabilities
+[Android_Android INFO ] 2020-06-07 23:51:45.921 CapabilitiesManager:32 - appUrl is/Users/sharadgupta/Documents/automation/AppiumCucumburFramework-testng/src/test/resources/app/btv.apk
+[Android_Android FATAL] 2020-06-07 23:51:46.570 DriverManager:45 - Driver init. failure abort !!!

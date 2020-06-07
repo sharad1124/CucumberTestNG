@@ -1,0 +1,56 @@
+2020-06-07 18:32:05:610 [Appium] Welcome to Appium v1.17.0
+2020-06-07 18:32:05:611 [Appium] Non-default server args:
+2020-06-07 18:32:05:612 [Appium]   port: 46543
+2020-06-07 18:32:05:612 [Appium]   sessionOverride: true
+2020-06-07 18:32:05:612 [Appium]   logFile: /Users/sharadgupta/Documents/automation/AppiumCucumburFramework-testng/Android_Android/Server.log
+2020-06-07 18:32:05:634 [Appium] Appium REST http interface listener started on 0.0.0.0:46543
+2020-06-07 18:32:05:651 [HTTP] --> GET /wd/hub/status
+2020-06-07 18:32:05:651 [HTTP] {}
+2020-06-07 18:32:05:653 [GENERIC] Calling AppiumDriver.getStatus() with args: []
+2020-06-07 18:32:05:654 [GENERIC] Responding to client with driver.getStatus() result: {"build":{"version":"1.17.0"}}
+2020-06-07 18:32:05:657 [HTTP] <-- GET /wd/hub/status 200 5 ms - 68
+2020-06-07 18:32:05:658 [HTTP] 
+2020-06-07 18:32:05:661 [HTTP] --> GET /wd/hub/status
+2020-06-07 18:32:05:661 [HTTP] {}
+2020-06-07 18:32:05:661 [GENERIC] Calling AppiumDriver.getStatus() with args: []
+2020-06-07 18:32:05:661 [GENERIC] Responding to client with driver.getStatus() result: {"build":{"version":"1.17.0"}}
+2020-06-07 18:32:05:662 [HTTP] <-- GET /wd/hub/status 200 1 ms - 68
+2020-06-07 18:32:05:662 [HTTP] 
+2020-06-07 18:32:06:078 [HTTP] --> POST /wd/hub/session
+2020-06-07 18:32:06:078 [HTTP] {"desiredCapabilities":{"app":"/Users/sharadgupta/Documents/automation/AppiumCucumburFramework-testng/src/test/resources/app/btv.apk","appActivity":".modules.splash.SplashActivity","appPackage":"com.earningvideo","automationName":"UiAutomator2","autoGrantPermissions":"true","unicodeKeyboard":"true","platformName":"Android","udid":"Android","deviceName":"Android","resetKeyboard":"true","systemPort":"Android"},"capabilities":{"firstMatch":[{"appium:app":"/Users/sharadgupta/Documents/automation/AppiumCucumburFramework-testng/src/test/resources/app/btv.apk","appium:appActivity":".modules.splash.SplashActivity","appium:appPackage":"com.earningvideo","appium:autoGrantPermissions":"true","appium:automationName":"UiAutomator2","appium:deviceName":"Android","platformName":"android","appium:resetKeyboard":"true","appium:systemPort":"Android","appium:udid":"Android","appium:unicodeKeyboard":"true"}]}}
+2020-06-07 18:32:06:079 [W3C] Calling AppiumDriver.createSession() with args: [{"app":"/Users/sharadgupta/Documents/automation/AppiumCucumburFramework-testng/src/test/resources/app/btv.apk","appActivity":".modules.splash.SplashActivity","appPackage":"com.earningvideo","automationName":"UiAutomator2","autoGrantPermissions":"true","unicodeKeyboard":"true","platformName":"Android","udid":"Android","deviceName":"Android","resetKeyboard":"true","systemPort":"Android"},null,{"firstMatch":[{"appium:app":"/Users/sharadgupta/Documents/automation/AppiumCucumburFramework-testng/src/test/resources/app/btv.apk","appium:appActivity":".modules.splash.SplashActivity","appium:appPackage":"com.earningvideo","appium:autoGrantPermissions":"true","appium:automationName":"UiAutomator2","appium:deviceName":"Android","platformName":"android","appium:resetKeyboard":"true","appium:systemPort":"Android","appium:udid":"Android","appium:unicodeKeyboard":"true"}]}]
+2020-06-07 18:32:06:079 [BaseDriver] Event 'newSessionRequested' logged at 1591554726079 (00:02:06 GMT+0530 (India Standard Time))
+2020-06-07 18:32:06:319 [Appium] Appium v1.17.0 creating new AndroidUiautomator2Driver (v1.44.2) session
+2020-06-07 18:32:06:320 [Appium] There are no active sessions for cleanup
+2020-06-07 18:32:06:321 [BaseDriver] W3C capabilities and MJSONWP desired capabilities were provided
+2020-06-07 18:32:06:321 [BaseDriver] Creating session with W3C capabilities: {
+2020-06-07 18:32:06:321 [BaseDriver]   "alwaysMatch": {
+2020-06-07 18:32:06:322 [BaseDriver]     "platformName": "android",
+2020-06-07 18:32:06:322 [BaseDriver]     "appium:app": "/Users/sharadgupta/Documents/automation/AppiumCucumburFramework-testng/src/test/resources/app/btv.apk",
+2020-06-07 18:32:06:322 [BaseDriver]     "appium:appActivity": ".modules.splash.SplashActivity",
+2020-06-07 18:32:06:322 [BaseDriver]     "appium:appPackage": "com.earningvideo",
+2020-06-07 18:32:06:322 [BaseDriver]     "appium:autoGrantPermissions": "true",
+2020-06-07 18:32:06:322 [BaseDriver]     "appium:automationName": "UiAutomator2",
+2020-06-07 18:32:06:322 [BaseDriver]     "appium:deviceName": "Android",
+2020-06-07 18:32:06:322 [BaseDriver]     "appium:resetKeyboard": "true",
+2020-06-07 18:32:06:322 [BaseDriver]     "appium:systemPort": "Android",
+2020-06-07 18:32:06:323 [BaseDriver]     "appium:udid": "Android",
+2020-06-07 18:32:06:323 [BaseDriver]     "appium:unicodeKeyboard": "true"
+2020-06-07 18:32:06:323 [BaseDriver]   },
+2020-06-07 18:32:06:323 [BaseDriver]   "firstMatch": [
+2020-06-07 18:32:06:323 [BaseDriver]     {}
+2020-06-07 18:32:06:323 [BaseDriver]   ]
+2020-06-07 18:32:06:323 [BaseDriver] }
+2020-06-07 18:32:06:326 [UiAutomator2] Deleting UiAutomator2 session
+2020-06-07 18:32:06:327 [BaseDriver] Event 'newSessionStarted' logged at 1591554726327 (00:02:06 GMT+0530 (India Standard Time))
+2020-06-07 18:32:06:374 [W3C] Encountered internal error running command: InvalidArgumentError: 'systemPort' must be of type number
+2020-06-07 18:32:06:374 [W3C]     at validateCaps (/usr/local/lib/node_modules/appium/node_modules/appium-base-driver/lib/basedriver/capabilities.js:52:11)
+2020-06-07 18:32:06:374 [W3C]     at parseCaps (/usr/local/lib/node_modules/appium/node_modules/appium-base-driver/lib/basedriver/capabilities.js:158:20)
+2020-06-07 18:32:06:374 [W3C]     at processCapabilities (/usr/local/lib/node_modules/appium/node_modules/appium-base-driver/lib/basedriver/capabilities.js:203:43)
+2020-06-07 18:32:06:375 [W3C]     at AndroidUiautomator2Driver.createSession (/usr/local/lib/node_modules/appium/node_modules/appium-base-driver/lib/basedriver/commands/session.js:37:14)
+2020-06-07 18:32:06:375 [W3C]     at AndroidUiautomator2Driver.createSession (/usr/local/lib/node_modules/appium/node_modules/appium-uiautomator2-driver/lib/driver.js:160:43)
+2020-06-07 18:32:06:375 [W3C]     at AppiumDriver.createSession (/usr/local/lib/node_modules/appium/lib/appium.js:358:43)
+2020-06-07 18:32:06:375 [W3C]     at processTicksAndRejections (internal/process/task_queues.js:97:5)
+2020-06-07 18:32:06:375 [W3C] Destroying socket connection
+2020-06-07 18:32:06:376 [HTTP] <-- POST /wd/hub/session 400 297 ms - 1016
+2020-06-07 18:32:06:376 [HTTP] 

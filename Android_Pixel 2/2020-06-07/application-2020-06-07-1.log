@@ -1,0 +1,32 @@
+[Android_Pixel 2 INFO ] 2020-06-07 23:58:09.000 ServerManager:21 - STARTING APPIUM SEVER
+[Android_Pixel 2 INFO ] 2020-06-07 23:58:10.744 ServerManager:31 - APPIUM SEVER STARTED
+[Android_Pixel 2 INFO ] 2020-06-07 23:58:10.759 DriverManager:26 - initializing Appium driver
+[Android_Pixel 2 INFO ] 2020-06-07 23:58:10.774 PropertyManager:18 - Loading config properties
+[Android_Pixel 2 INFO ] 2020-06-07 23:58:10.775 CapabilitiesManager:16 - getting capabilities
+[Android_Pixel 2 INFO ] 2020-06-07 23:58:10.777 CapabilitiesManager:32 - appUrl is/Users/sharadgupta/Documents/automation/AppiumCucumburFramework-testng/src/test/resources/app/btv.apk
+[Android_Pixel 2 INFO ] 2020-06-07 23:58:20.538 DriverManager:40 - driver is initialize
+[Android_Pixel 2 INFO ] 2020-06-07 23:58:22.829 ProTipsPage:28 - Pro Tip Button Clicked
+[Android_Pixel 2 INFO ] 2020-06-07 23:58:24.320 BasePage:97 - Pro Tip page title is - PRO TIP
+[Android_Pixel 2 INFO ] 2020-06-07 23:58:24.354 ProTipsPage:23 - Pro Tip button is enabled----->true
+[Android_Pixel 2 INFO ] 2020-06-07 23:58:24.446 BasePage:97 - Pro Tip page Lighting text is - Lighting
+[Android_Pixel 2 INFO ] 2020-06-07 23:58:24.506 BasePage:97 - Pro Tip page Professional textProfessional looking Office
+[Android_Pixel 2 INFO ] 2020-06-07 23:58:24.507 ProTipsPage:34 - Pro Tip back button clicked
+[Android_Pixel 2 INFO ] 2020-06-07 23:58:25.737 BasePage:97 - Rotate screen text -->>PRO TIP
+[Android_Pixel 2 INFO ] 2020-06-07 23:58:25.764 ProTipsPage:18 - Pro Tip button is enabled----->true
+[Android_Pixel 2 INFO ] 2020-06-07 23:58:26.768 VideoManager:35 - video path: Android_Pixel 2/Videos/Verify Pro Tip screen.mp4
+[Android_Pixel 2 INFO ] 2020-06-07 23:58:48.084 ServerManager:21 - STARTING APPIUM SEVER
+[Android_Pixel 2 INFO ] 2020-06-07 23:58:49.810 ServerManager:31 - APPIUM SEVER STARTED
+[Android_Pixel 2 INFO ] 2020-06-07 23:58:49.830 DriverManager:26 - initializing Appium driver
+[Android_Pixel 2 INFO ] 2020-06-07 23:58:49.845 PropertyManager:18 - Loading config properties
+[Android_Pixel 2 INFO ] 2020-06-07 23:58:49.847 CapabilitiesManager:16 - getting capabilities
+[Android_Pixel 2 INFO ] 2020-06-07 23:58:49.848 CapabilitiesManager:32 - appUrl is/Users/sharadgupta/Documents/automation/AppiumCucumburFramework-testng/src/test/resources/app/btv.apk
+[Android_Pixel 2 INFO ] 2020-06-07 23:58:58.090 DriverManager:40 - driver is initialize
+[Android_Pixel 2 INFO ] 2020-06-07 23:59:00.267 ProTipsPage:28 - Pro Tip Button Clicked
+[Android_Pixel 2 INFO ] 2020-06-07 23:59:02.535 BasePage:97 - Pro Tip page title is - PRO TIP
+[Android_Pixel 2 INFO ] 2020-06-07 23:59:02.581 ProTipsPage:23 - Pro Tip button is enabled----->true
+[Android_Pixel 2 INFO ] 2020-06-07 23:59:02.710 BasePage:97 - Pro Tip page Lighting text is - Lighting
+[Android_Pixel 2 INFO ] 2020-06-07 23:59:02.795 BasePage:97 - Pro Tip page Professional textProfessional looking Office
+[Android_Pixel 2 INFO ] 2020-06-07 23:59:02.796 ProTipsPage:34 - Pro Tip back button clicked
+[Android_Pixel 2 INFO ] 2020-06-07 23:59:04.066 BasePage:97 - Rotate screen text -->>PRO TIP
+[Android_Pixel 2 INFO ] 2020-06-07 23:59:04.092 ProTipsPage:18 - Pro Tip button is enabled----->true
+[Android_Pixel 2 INFO ] 2020-06-07 23:59:05.013 VideoManager:35 - video path: Android_Pixel 2/Videos/Verify Pro Tip screen.mp4
