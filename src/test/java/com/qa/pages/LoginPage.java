@@ -13,30 +13,43 @@ public class LoginPage extends BasePage{
     @AndroidFindBy(id = "com.earningvideo:id/header_text_view") private MobileElement loginheading;
 
 
+    public boolean loginTextFound() {
+        utils.log().info("Login Screen is enabled----->" + loginheading.isDisplayed());
+        return loginheading.isDisplayed();
+    }
 
+    public boolean loginButtonDisplay() {
+        utils.log().info("Login Screen is enabled----->" + loginButton.isDisplayed());
+        return loginButton.isDisplayed();
+    }
     public String getPageTitle() {
         return getText(loginheading, "Login page title is - ");
     }
+
+    public String getLoginButtonText() {
+        return getText(loginButton, "Login Button Text - ");
+    }
+
 
     public String getTitle() {
         return getAttribute(loginheading,"text");
     }
 
 
-    public LoginPage enterEmailid(String email) {
-        sendKeys(emailTextField, email, "enter email id is >>>" + email);
+    public LoginPage enterEmailid(String username) {
+        clear(emailTextField);
+        sendKeys(emailTextField, username, username);
         return this;
 
     }
 
     public LoginPage enterPasswrod(String password) {
-        sendKeys(passwordTextField, password,"enter Password is >>>" + password);
+        clear(passwordTextField);
+        sendKeys(passwordTextField, password,password);
         return this;
 
     }
-    public boolean loginButtonPresent() {
-        return loginButton.isDisplayed();
-    }
+
 
 
     public DashboardPage pressLoginButton() {

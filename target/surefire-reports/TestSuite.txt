@@ -1,7 +1,33 @@
 -------------------------------------------------------------------------------
 Test set: TestSuite
 -------------------------------------------------------------------------------
-Tests run: 1, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 21.717 s <<< FAILURE! - in TestSuite
-scenario(com.qa.runners.MyTestNGRunnerTest)  Time elapsed: 6.342 s  <<< FAILURE!
-org.junit.ComparisonFailure: expected:<PRO TI[P]> but was:<PRO TI[]>
+Tests run: 2, Failures: 2, Errors: 0, Skipped: 0, Time elapsed: 165.799 s <<< FAILURE! - in TestSuite
+scenario(com.qa.runners.MyTestNGRunnerTest)  Time elapsed: 135.033 s  <<< FAILURE!
+org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of Located by By.chained({By.id: com.earningvideo:id/toolbar_title}) (tried for 60 second(s) with 500 milliseconds interval)
+Caused by: org.openqa.selenium.NoSuchElementException: Can't locate an element by this strategy: By.chained({By.id: com.earningvideo:id/toolbar_title})
+Caused by: org.openqa.selenium.TimeoutException: Expected condition failed: waiting for io.appium.java_client.pagefactory.AppiumElementLocator$WaitingFunction@7eba9497 (tried for 1 second(s) with 500 milliseconds interval)
+Caused by: org.openqa.selenium.NoSuchElementException: 
+Cannot locate an element using By.chained({By.id: com.earningvideo:id/toolbar_title})
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'INLaptop140.local', ip: 'fe80:0:0:0:1c2b:550d:90fa:162%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.14.6', java.version: '11.0.1'
+Driver info: driver.version: AndroidDriver
+
+scenario(com.qa.runners.MyTestNGRunnerTest)  Time elapsed: 15.809 s  <<< FAILURE!
+org.openqa.selenium.WebDriverException: 
+org.openqa.selenium.WebDriverException: An unknown server-side error occurred while processing the command. Original error: Could not proxy command to remote server. Original error: Error: read ECONNRESET
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'INLaptop140.local', ip: 'fe80:0:0:0:1c2b:550d:90fa:162%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.14.6', java.version: '11.0.1'
+Driver info: io.appium.java_client.android.AndroidDriver
+Capabilities {app: /Users/sharadgupta/Document..., appActivity: .modules.splash.SplashActivity, appPackage: com.earningvideo, autoGrantPermissions: true, automationName: UiAutomator2, databaseEnabled: false, desired: {app: /Users/sharadgupta/Document..., appActivity: .modules.splash.SplashActivity, appPackage: com.earningvideo, autoGrantPermissions: true, automationName: UiAutomator2, deviceName: Pixel 2, platformName: android, resetKeyboard: true, systemPort: 10000, udid: emulator-5554, unicodeKeyboard: true}, deviceApiLevel: 29, deviceManufacturer: Google, deviceModel: Android SDK built for x86, deviceName: emulator-5554, deviceScreenDensity: 420, deviceScreenSize: 1080x1920, deviceUDID: emulator-5554, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, pixelRatio: 2.625, platform: LINUX, platformName: Android, platformVersion: 10, resetKeyboard: true, statBarHeight: 63, systemPort: 10000, takesScreenshot: true, udid: emulator-5554, unicodeKeyboard: true, viewportRect: {height: 1731, left: 0, top: 63, width: 1080}, warnings: {}, webStorageEnabled: false}
+Session ID: 350da408-7366-415a-b234-e6b6df842341
+*** Element info: {Using=id, value=com.earningvideo:id/record_button}
+Caused by: org.openqa.selenium.WebDriverException: 
+An unknown server-side error occurred while processing the command. Original error: Could not proxy command to remote server. Original error: Error: read ECONNRESET
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'INLaptop140.local', ip: 'fe80:0:0:0:1c2b:550d:90fa:162%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.14.6', java.version: '11.0.1'
+Driver info: io.appium.java_client.android.AndroidDriver
+Capabilities {app: /Users/sharadgupta/Document..., appActivity: .modules.splash.SplashActivity, appPackage: com.earningvideo, autoGrantPermissions: true, automationName: UiAutomator2, databaseEnabled: false, desired: {app: /Users/sharadgupta/Document..., appActivity: .modules.splash.SplashActivity, appPackage: com.earningvideo, autoGrantPermissions: true, automationName: UiAutomator2, deviceName: Pixel 2, platformName: android, resetKeyboard: true, systemPort: 10000, udid: emulator-5554, unicodeKeyboard: true}, deviceApiLevel: 29, deviceManufacturer: Google, deviceModel: Android SDK built for x86, deviceName: emulator-5554, deviceScreenDensity: 420, deviceScreenSize: 1080x1920, deviceUDID: emulator-5554, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, pixelRatio: 2.625, platform: LINUX, platformName: Android, platformVersion: 10, resetKeyboard: true, statBarHeight: 63, systemPort: 10000, takesScreenshot: true, udid: emulator-5554, unicodeKeyboard: true, viewportRect: {height: 1731, left: 0, top: 63, width: 1080}, warnings: {}, webStorageEnabled: false}
+Session ID: 350da408-7366-415a-b234-e6b6df842341
+*** Element info: {Using=id, value=com.earningvideo:id/record_button}
 

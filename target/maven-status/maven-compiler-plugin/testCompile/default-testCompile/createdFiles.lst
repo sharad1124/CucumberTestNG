@@ -1,2 +1,3 @@
 com/qa/runners/MyTestNGRunnerTest.class
 com/qa/runners/RunnerBase.class
+com/qa/stepdef/MarketingPageStepDef.class

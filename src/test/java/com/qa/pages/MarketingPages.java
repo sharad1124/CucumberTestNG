@@ -14,10 +14,17 @@ import io.appium.java_client.pagefactory.AndroidFindBy;
 
 
         public String getWelcomeText() {
+
             return getAttribute(markettext,"text");
         }
 
+        public boolean startRecordingTextFound() {
+            utils.log().info("Welcome  is enabled----->" + startRecording.isDisplayed());
+            return startRecording.isDisplayed();
+        }
+
         public boolean recordingButtonTap() {
+
             return startRecording.isDisplayed();
         }
 
@@ -42,10 +49,11 @@ import io.appium.java_client.pagefactory.AndroidFindBy;
 
 
         public LoginPage stopVideoButton() {
-
             click(stopVideo);
             return new LoginPage();
         }
+
+
 
         public LoginPage marketingScreens() {
             recordingButton();

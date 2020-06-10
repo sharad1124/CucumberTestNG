@@ -45,10 +45,11 @@ public class DashboardPage extends BasePage{
 
 
     public String getHeadingText() {
-        return getAttribute(hedingText,"text");
+        return getText(hedingText,"rotate_pro_tip_text_view -->>");
     }
 
     public boolean dashboardTextVisible() {
+
         return hedingText.isDisplayed();
     }
 

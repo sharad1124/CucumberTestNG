@@ -50,9 +50,9 @@ $(document).ready(function() {
     var chartData = {
         datasets: [{
             data: [
-                5,
-                1,
-                0,
+                4,
+                2,
+                4,
                 0,
                 0
             ],
@@ -93,7 +93,7 @@ $(document).ready(function() {
                         var allData = data.datasets[tooltipItem.datasetIndex].data;
                         var tooltipLabel = data.labels[tooltipItem.index];
                         var tooltipData = allData[tooltipItem.index];
-                        var tooltipPercentage = Math.round(10000 * tooltipData / 6) / 100;
+                        var tooltipPercentage = Math.round(10000 * tooltipData / 10) / 100;
                         return tooltipLabel + ": " + tooltipData + " (" + tooltipPercentage + "%)";
                     }
                 }
@@ -107,7 +107,7 @@ $(document).ready(function() {
         datasets: [{
             data: [
                 0,
-                1
+                2
             ],
             backgroundColor: [
                 "#00B000",
@@ -140,7 +140,7 @@ $(document).ready(function() {
                         var allData = data.datasets[tooltipItem.datasetIndex].data;
                         var tooltipLabel = data.labels[tooltipItem.index];
                         var tooltipData = allData[tooltipItem.index];
-                        var tooltipPercentage = Math.round(10000 * tooltipData / 1) / 100;
+                        var tooltipPercentage = Math.round(10000 * tooltipData / 2) / 100;
                         return tooltipLabel + ": " + tooltipData + " (" + tooltipPercentage + "%)";
                     }
                 }
@@ -228,7 +228,7 @@ $(document).ready(function() {
   <tbody>
     <tr class="info">
       <td>No Name (add projectName to cucumber-reporting.properties)</td>
-      <td>08 Jun 2020, 00:41</td>
+      <td>10 Jun 2020, 23:56</td>
     </tr>
   </tbody>
 </table>
@@ -323,20 +323,20 @@ $(document).ready(function() {
 
   <tbody>
       <tr>
-        <td class="tagname"><a href="report-feature_1027596942.html">Pro Tip scenarios</a></td>
+        <td class="tagname"><a href="report-feature_2203407154.html">Login scenarios</a></td>
 
-        <td      class="passed"    >5</td>
-        <td      class="failed"    >1</td>
+        <td      class="passed"    >4</td>
+        <td      class="failed"    >2</td>
+        <td     class="skipped"   >4</td>
         <td >0</td>
         <td >0</td>
-        <td >0</td>
-        <td class="total">6</td>
+        <td class="total">10</td>
 
         <td >0</td>
-        <td  class="failed"    >1</td>
-        <td class="total">1</td>
+        <td  class="failed"    >2</td>
+        <td class="total">2</td>
 
-        <td class="duration" data-value="4476043000">4.476</td>
+        <td class="duration" data-value="147873226000">2:27.873</td>
         <td class="failed">Failed</td>
       </tr>
   </tbody>
@@ -344,25 +344,25 @@ $(document).ready(function() {
   <tfoot class="total">
     <tr>
       <td></td>
-      <td>5</td>
-      <td>1</td>
+      <td>4</td>
+      <td>2</td>
+      <td>4</td>
       <td>0</td>
       <td>0</td>
-      <td>0</td>
-      <td>6</td>
+      <td>10</td>
 
       <td>0</td>
-      <td>1</td>
-      <td>1</td>
+      <td>2</td>
+      <td>2</td>
 
-      <td class="duration">4.476</td>
+      <td class="duration">2:27.873</td>
       <td>1</td>
     </tr>
     <tr>
       <td></td>
-      <td>83.33%</td>
-      <td>16.67%</td>
-      <td>0.00%</td>
+      <td>40.00%</td>
+      <td>20.00%</td>
+      <td>40.00%</td>
       <td>0.00%</td>
       <td>0.00%</td>
       <td></td>

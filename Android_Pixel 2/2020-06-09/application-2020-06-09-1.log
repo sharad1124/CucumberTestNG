@@ -1,0 +1,345 @@
+[Android_Pixel 2 INFO ] 2020-06-09 22:22:43.468 ServerManager:21 - STARTING APPIUM SEVER
+[Android_Pixel 2 INFO ] 2020-06-09 22:22:45.931 ServerManager:31 - APPIUM SEVER STARTED
+[Android_Pixel 2 INFO ] 2020-06-09 22:22:45.948 DriverManager:26 - initializing Appium driver
+[Android_Pixel 2 INFO ] 2020-06-09 22:22:45.968 PropertyManager:18 - Loading config properties
+[Android_Pixel 2 INFO ] 2020-06-09 22:22:45.969 CapabilitiesManager:16 - getting capabilities
+[Android_Pixel 2 INFO ] 2020-06-09 22:22:45.971 CapabilitiesManager:32 - appUrl is/Users/sharadgupta/Documents/automation/AppiumCucumburFramework-testng/src/test/resources/app/btv.apk
+[Android_Pixel 2 INFO ] 2020-06-09 22:22:56.773 DriverManager:40 - driver is initialize
+[Android_Pixel 2 INFO ] 2020-06-09 22:22:58.961 ProTipsPage:67 - Pro Tip Button Clicked
+[Android_Pixel 2 INFO ] 2020-06-09 22:23:00.517 BasePage:97 - toolbar_title ---->>>PRO TIP
+[Android_Pixel 2 INFO ] 2020-06-09 22:23:00.552 ProTipsPage:36 - toolbar_title is enabled----->true
+[Android_Pixel 2 INFO ] 2020-06-09 22:23:00.659 BasePage:97 - lighting_text_view ---->>>Lighting
+[Android_Pixel 2 INFO ] 2020-06-09 22:23:01.175 ProTipsPage:41 - lighting_text_view is enabled----->true
+[Android_Pixel 2 INFO ] 2020-06-09 22:23:01.260 BasePage:97 - professional_text_view - -->>>Professional looking Office
+[Android_Pixel 2 INFO ] 2020-06-09 22:23:01.287 ProTipsPage:46 - professional_text_view is enabled----->true
+[Android_Pixel 2 INFO ] 2020-06-09 22:23:01.379 BasePage:97 - camera_person_text_view ---->>>Camera person
+[Android_Pixel 2 INFO ] 2020-06-09 22:23:02.589 VideoManager:35 - video path: Android_Pixel 2/Videos/Verify Pro Tip screen.mp4
+[Android_Pixel 2 INFO ] 2020-06-09 22:28:17.645 ServerManager:21 - STARTING APPIUM SEVER
+[Android_Pixel 2 INFO ] 2020-06-09 22:28:19.398 ServerManager:31 - APPIUM SEVER STARTED
+[Android_Pixel 2 INFO ] 2020-06-09 22:28:19.421 DriverManager:26 - initializing Appium driver
+[Android_Pixel 2 INFO ] 2020-06-09 22:28:19.437 PropertyManager:18 - Loading config properties
+[Android_Pixel 2 INFO ] 2020-06-09 22:28:19.439 CapabilitiesManager:16 - getting capabilities
+[Android_Pixel 2 INFO ] 2020-06-09 22:28:19.441 CapabilitiesManager:32 - appUrl is/Users/sharadgupta/Documents/automation/AppiumCucumburFramework-testng/src/test/resources/app/btv.apk
+[Android_Pixel 2 INFO ] 2020-06-09 22:28:27.807 DriverManager:40 - driver is initialize
+[Android_Pixel 2 INFO ] 2020-06-09 22:28:29.941 ProTipsPage:67 - Pro Tip Button Clicked
+[Android_Pixel 2 INFO ] 2020-06-09 22:28:31.453 BasePage:97 - toolbar_title ---->>>PRO TIP
+[Android_Pixel 2 INFO ] 2020-06-09 22:28:31.484 ProTipsPage:36 - toolbar_title is enabled----->true
+[Android_Pixel 2 INFO ] 2020-06-09 22:28:31.572 BasePage:97 - lighting_text_view ---->>>Lighting
+[Android_Pixel 2 INFO ] 2020-06-09 22:28:31.599 ProTipsPage:41 - lighting_text_view is enabled----->true
+[Android_Pixel 2 INFO ] 2020-06-09 22:28:31.684 BasePage:97 - professional_text_view - -->>>Professional looking Office
+[Android_Pixel 2 INFO ] 2020-06-09 22:28:31.712 ProTipsPage:46 - professional_text_view is enabled----->true
+[Android_Pixel 2 INFO ] 2020-06-09 22:28:31.796 BasePage:97 - camera_person_text_view ---->>>Camera person
+[Android_Pixel 2 INFO ] 2020-06-09 22:28:31.823 ProTipsPage:51 - camera_person_text_view is enabled----->true
+[Android_Pixel 2 INFO ] 2020-06-09 22:28:31.895 BasePage:97 - Record_horizontally_text_view ---->>>Record Horizontally only
+[Android_Pixel 2 INFO ] 2020-06-09 22:28:33.110 VideoManager:35 - video path: Android_Pixel 2/Videos/Verify Pro Tip screen.mp4
+[Android_Pixel 2 INFO ] 2020-06-09 22:29:06.830 ServerManager:21 - STARTING APPIUM SEVER
+[Android_Pixel 2 INFO ] 2020-06-09 22:29:07.603 ServerManager:31 - APPIUM SEVER STARTED
+[Android_Pixel 2 INFO ] 2020-06-09 22:29:07.617 DriverManager:26 - initializing Appium driver
+[Android_Pixel 2 INFO ] 2020-06-09 22:29:07.629 PropertyManager:18 - Loading config properties
+[Android_Pixel 2 INFO ] 2020-06-09 22:29:07.630 CapabilitiesManager:16 - getting capabilities
+[Android_Pixel 2 INFO ] 2020-06-09 22:29:07.632 CapabilitiesManager:32 - appUrl is/Users/sharadgupta/Documents/automation/AppiumCucumburFramework-testng/src/test/resources/app/btv.apk
+[Android_Pixel 2 INFO ] 2020-06-09 22:29:15.682 DriverManager:40 - driver is initialize
+[Android_Pixel 2 INFO ] 2020-06-09 22:29:17.742 ProTipsPage:67 - Pro Tip Button Clicked
+[Android_Pixel 2 INFO ] 2020-06-09 22:29:19.212 BasePage:97 - toolbar_title ---->>>PRO TIP
+[Android_Pixel 2 INFO ] 2020-06-09 22:29:19.246 ProTipsPage:36 - toolbar_title is enabled----->true
+[Android_Pixel 2 INFO ] 2020-06-09 22:29:19.331 BasePage:97 - lighting_text_view ---->>>Lighting
+[Android_Pixel 2 INFO ] 2020-06-09 22:29:19.359 ProTipsPage:41 - lighting_text_view is enabled----->true
+[Android_Pixel 2 INFO ] 2020-06-09 22:29:19.439 BasePage:97 - professional_text_view - -->>>Professional looking Office
+[Android_Pixel 2 INFO ] 2020-06-09 22:29:19.465 ProTipsPage:46 - professional_text_view is enabled----->true
+[Android_Pixel 2 INFO ] 2020-06-09 22:29:19.545 BasePage:97 - camera_person_text_view ---->>>Camera person
+[Android_Pixel 2 INFO ] 2020-06-09 22:29:19.570 ProTipsPage:51 - camera_person_text_view is enabled----->true
+[Android_Pixel 2 INFO ] 2020-06-09 22:29:19.642 BasePage:97 - Record_horizontally_text_view ---->>>Record Horizontally only
+[Android_Pixel 2 INFO ] 2020-06-09 22:29:19.666 ProTipsPage:56 - Record_horizontally_text_view is enabled----->true
+[Android_Pixel 2 INFO ] 2020-06-09 22:29:19.738 BasePage:97 - video_length_text_view  ---->>>Video Length
+[Android_Pixel 2 INFO ] 2020-06-09 22:29:20.904 VideoManager:35 - video path: Android_Pixel 2/Videos/Verify Pro Tip screen.mp4
+[Android_Pixel 2 INFO ] 2020-06-09 22:29:45.678 ServerManager:21 - STARTING APPIUM SEVER
+[Android_Pixel 2 INFO ] 2020-06-09 22:29:46.426 ServerManager:31 - APPIUM SEVER STARTED
+[Android_Pixel 2 INFO ] 2020-06-09 22:29:46.443 DriverManager:26 - initializing Appium driver
+[Android_Pixel 2 INFO ] 2020-06-09 22:29:46.456 PropertyManager:18 - Loading config properties
+[Android_Pixel 2 INFO ] 2020-06-09 22:29:46.457 CapabilitiesManager:16 - getting capabilities
+[Android_Pixel 2 INFO ] 2020-06-09 22:29:46.459 CapabilitiesManager:32 - appUrl is/Users/sharadgupta/Documents/automation/AppiumCucumburFramework-testng/src/test/resources/app/btv.apk
+[Android_Pixel 2 INFO ] 2020-06-09 22:30:13.130 DriverManager:40 - driver is initialize
+[Android_Pixel 2 INFO ] 2020-06-09 22:30:14.814 ProTipsPage:67 - Pro Tip Button Clicked
+[Android_Pixel 2 INFO ] 2020-06-09 22:30:16.156 BasePage:97 - toolbar_title ---->>>PRO TIP
+[Android_Pixel 2 INFO ] 2020-06-09 22:30:16.188 ProTipsPage:36 - toolbar_title is enabled----->true
+[Android_Pixel 2 INFO ] 2020-06-09 22:30:16.287 BasePage:97 - lighting_text_view ---->>>Lighting
+[Android_Pixel 2 INFO ] 2020-06-09 22:30:16.314 ProTipsPage:41 - lighting_text_view is enabled----->true
+[Android_Pixel 2 INFO ] 2020-06-09 22:30:16.398 BasePage:97 - professional_text_view - -->>>Professional looking Office
+[Android_Pixel 2 INFO ] 2020-06-09 22:30:16.424 ProTipsPage:46 - professional_text_view is enabled----->true
+[Android_Pixel 2 INFO ] 2020-06-09 22:30:16.510 BasePage:97 - camera_person_text_view ---->>>Camera person
+[Android_Pixel 2 INFO ] 2020-06-09 22:30:16.550 ProTipsPage:51 - camera_person_text_view is enabled----->true
+[Android_Pixel 2 INFO ] 2020-06-09 22:30:16.621 BasePage:97 - Record_horizontally_text_view ---->>>Record Horizontally only
+[Android_Pixel 2 INFO ] 2020-06-09 22:30:16.646 ProTipsPage:56 - Record_horizontally_text_view is enabled----->true
+[Android_Pixel 2 INFO ] 2020-06-09 22:30:16.721 BasePage:97 - video_length_text_view  ---->>>Video Length
+[Android_Pixel 2 INFO ] 2020-06-09 22:30:16.749 ProTipsPage:62 - video_length_text_view is enabled----->true
+[Android_Pixel 2 INFO ] 2020-06-09 22:30:16.775 ProTipsPage:73 - Pro Tip back button clicked
+[Android_Pixel 2 INFO ] 2020-06-09 22:30:17.977 BasePage:97 - rotate_pro_tip_text_view -->>PRO TIP
+[Android_Pixel 2 INFO ] 2020-06-09 22:30:18.002 ProTipsPage:31 - rotate_pro_tip_text_view is enabled----->true
+[Android_Pixel 2 INFO ] 2020-06-09 22:30:19.016 VideoManager:35 - video path: Android_Pixel 2/Videos/Verify Pro Tip screen.mp4
+[Android_Pixel 2 INFO ] 2020-06-09 22:33:11.998 ServerManager:21 - STARTING APPIUM SEVER
+[Android_Pixel 2 INFO ] 2020-06-09 22:33:12.752 ServerManager:31 - APPIUM SEVER STARTED
+[Android_Pixel 2 INFO ] 2020-06-09 22:33:12.769 DriverManager:26 - initializing Appium driver
+[Android_Pixel 2 INFO ] 2020-06-09 22:33:12.783 PropertyManager:18 - Loading config properties
+[Android_Pixel 2 INFO ] 2020-06-09 22:33:12.784 CapabilitiesManager:16 - getting capabilities
+[Android_Pixel 2 INFO ] 2020-06-09 22:33:12.786 CapabilitiesManager:32 - appUrl is/Users/sharadgupta/Documents/automation/AppiumCucumburFramework-testng/src/test/resources/app/btv.apk
+[Android_Pixel 2 INFO ] 2020-06-09 22:33:21.150 DriverManager:40 - driver is initialize
+[Android_Pixel 2 INFO ] 2020-06-09 22:33:23.264 ProTipsPage:67 - Pro Tip Button Clicked
+[Android_Pixel 2 INFO ] 2020-06-09 22:33:24.858 BasePage:97 - toolbar_title ---->>>PRO TIP
+[Android_Pixel 2 INFO ] 2020-06-09 22:33:24.891 ProTipsPage:36 - toolbar_title is enabled----->true
+[Android_Pixel 2 INFO ] 2020-06-09 22:33:24.983 BasePage:97 - lighting_text_view ---->>>Lighting
+[Android_Pixel 2 INFO ] 2020-06-09 22:33:25.011 ProTipsPage:41 - lighting_text_view is enabled----->true
+[Android_Pixel 2 INFO ] 2020-06-09 22:33:25.100 BasePage:97 - professional_text_view - -->>>Professional looking Office
+[Android_Pixel 2 INFO ] 2020-06-09 22:33:25.128 ProTipsPage:46 - professional_text_view is enabled----->true
+[Android_Pixel 2 INFO ] 2020-06-09 22:33:25.209 BasePage:97 - camera_person_text_view ---->>>Camera person
+[Android_Pixel 2 INFO ] 2020-06-09 22:33:25.235 ProTipsPage:51 - camera_person_text_view is enabled----->true
+[Android_Pixel 2 INFO ] 2020-06-09 22:33:25.312 BasePage:97 - Record_horizontally_text_view ---->>>Record Horizontally only
+[Android_Pixel 2 INFO ] 2020-06-09 22:33:25.339 ProTipsPage:56 - Record_horizontally_text_view is enabled----->true
+[Android_Pixel 2 INFO ] 2020-06-09 22:33:25.417 BasePage:97 - video_length_text_view  ---->>>Video Length
+[Android_Pixel 2 INFO ] 2020-06-09 22:33:25.444 ProTipsPage:62 - video_length_text_view is enabled----->true
+[Android_Pixel 2 INFO ] 2020-06-09 22:33:25.470 ProTipsPage:73 - Pro Tip back button clicked
+[Android_Pixel 2 INFO ] 2020-06-09 22:33:26.692 BasePage:97 - rotate_pro_tip_text_view -->>PRO TIP
+[Android_Pixel 2 INFO ] 2020-06-09 22:33:26.716 ProTipsPage:31 - rotate_pro_tip_text_view is enabled----->true
+[Android_Pixel 2 INFO ] 2020-06-09 22:33:27.753 VideoManager:35 - video path: Android_Pixel 2/Videos/Verify Pro Tip screen.mp4
+[Android_Pixel 2 INFO ] 2020-06-09 22:34:30.702 VideoManager:35 - video path: Android_Pixel 2/Videos/Verify Pro Tip Description.mp4
+[Android_Pixel 2 INFO ] 2020-06-09 22:47:11.192 ServerManager:21 - STARTING APPIUM SEVER
+[Android_Pixel 2 INFO ] 2020-06-09 22:47:13.262 ServerManager:31 - APPIUM SEVER STARTED
+[Android_Pixel 2 INFO ] 2020-06-09 22:47:13.279 DriverManager:26 - initializing Appium driver
+[Android_Pixel 2 INFO ] 2020-06-09 22:47:13.298 PropertyManager:18 - Loading config properties
+[Android_Pixel 2 INFO ] 2020-06-09 22:47:13.299 CapabilitiesManager:16 - getting capabilities
+[Android_Pixel 2 INFO ] 2020-06-09 22:47:13.302 CapabilitiesManager:32 - appUrl is/Users/sharadgupta/Documents/automation/AppiumCucumburFramework-testng/src/test/resources/app/btv.apk
+[Android_Pixel 2 INFO ] 2020-06-09 22:47:21.795 DriverManager:40 - driver is initialize
+[Android_Pixel 2 INFO ] 2020-06-09 22:52:26.831 ServerManager:21 - STARTING APPIUM SEVER
+[Android_Pixel 2 INFO ] 2020-06-09 22:52:27.591 ServerManager:31 - APPIUM SEVER STARTED
+[Android_Pixel 2 INFO ] 2020-06-09 22:52:27.605 DriverManager:26 - initializing Appium driver
+[Android_Pixel 2 INFO ] 2020-06-09 22:52:27.617 PropertyManager:18 - Loading config properties
+[Android_Pixel 2 INFO ] 2020-06-09 22:52:27.618 CapabilitiesManager:16 - getting capabilities
+[Android_Pixel 2 INFO ] 2020-06-09 22:52:27.620 CapabilitiesManager:32 - appUrl is/Users/sharadgupta/Documents/automation/AppiumCucumburFramework-testng/src/test/resources/app/btv.apk
+[Android_Pixel 2 INFO ] 2020-06-09 22:52:36.349 DriverManager:40 - driver is initialize
+[Android_Pixel 2 INFO ] 2020-06-09 22:52:38.482 ProTipsPage:72 - Pro Tip Button Clicked
+[Android_Pixel 2 INFO ] 2020-06-09 22:52:39.985 BasePage:97 - toolbar_title ---->>>PRO TIP
+[Android_Pixel 2 INFO ] 2020-06-09 22:52:40.017 ProTipsPage:36 - toolbar_title is enabled----->true
+[Android_Pixel 2 INFO ] 2020-06-09 22:52:40.106 BasePage:97 - lighting_text_view ---->>>Lighting
+[Android_Pixel 2 INFO ] 2020-06-09 22:52:40.138 ProTipsPage:41 - lighting_text_view is enabled----->true
+[Android_Pixel 2 INFO ] 2020-06-09 22:52:40.228 BasePage:97 - make_sure_text_view ---->>>Make sure there is adequate light in front of your subject, not behind them.
+[Android_Pixel 2 INFO ] 2020-06-09 22:52:41.404 VideoManager:35 - video path: Android_Pixel 2/Videos/Verify Pro Tip screen.mp4
+[Android_Pixel 2 INFO ] 2020-06-09 23:02:00.772 ServerManager:21 - STARTING APPIUM SEVER
+[Android_Pixel 2 INFO ] 2020-06-09 23:02:02.824 ServerManager:31 - APPIUM SEVER STARTED
+[Android_Pixel 2 INFO ] 2020-06-09 23:02:02.840 DriverManager:26 - initializing Appium driver
+[Android_Pixel 2 INFO ] 2020-06-09 23:02:02.855 PropertyManager:18 - Loading config properties
+[Android_Pixel 2 INFO ] 2020-06-09 23:02:02.856 CapabilitiesManager:16 - getting capabilities
+[Android_Pixel 2 INFO ] 2020-06-09 23:02:02.858 CapabilitiesManager:32 - appUrl is/Users/sharadgupta/Documents/automation/AppiumCucumburFramework-testng/src/test/resources/app/btv.apk
+[Android_Pixel 2 INFO ] 2020-06-09 23:02:24.828 DriverManager:40 - driver is initialize
+[Android_Pixel 2 INFO ] 2020-06-09 23:02:27.404 ProTipsPage:82 - Pro Tip Button Clicked
+[Android_Pixel 2 INFO ] 2020-06-09 23:02:28.908 BasePage:97 - toolbar_title ---->>>PRO TIP
+[Android_Pixel 2 INFO ] 2020-06-09 23:02:28.942 ProTipsPage:36 - toolbar_title is enabled----->true
+[Android_Pixel 2 INFO ] 2020-06-09 23:02:29.033 BasePage:97 - lighting_text_view ---->>>Lighting
+[Android_Pixel 2 INFO ] 2020-06-09 23:02:29.060 ProTipsPage:41 - lighting_text_view is enabled----->true
+[Android_Pixel 2 INFO ] 2020-06-09 23:02:29.148 BasePage:97 - make_sure_text_view ---->>>Make sure there is adequate light in front of your subject, not behind them.
+[Android_Pixel 2 INFO ] 2020-06-09 23:02:30.327 VideoManager:35 - video path: Android_Pixel 2/Videos/Verify Pro Tip screen.mp4
+[Android_Pixel 2 INFO ] 2020-06-09 23:03:51.100 ServerManager:21 - STARTING APPIUM SEVER
+[Android_Pixel 2 INFO ] 2020-06-09 23:03:51.855 ServerManager:31 - APPIUM SEVER STARTED
+[Android_Pixel 2 INFO ] 2020-06-09 23:03:51.871 DriverManager:26 - initializing Appium driver
+[Android_Pixel 2 INFO ] 2020-06-09 23:03:51.882 PropertyManager:18 - Loading config properties
+[Android_Pixel 2 INFO ] 2020-06-09 23:03:51.883 CapabilitiesManager:16 - getting capabilities
+[Android_Pixel 2 INFO ] 2020-06-09 23:03:51.885 CapabilitiesManager:32 - appUrl is/Users/sharadgupta/Documents/automation/AppiumCucumburFramework-testng/src/test/resources/app/btv.apk
+[Android_Pixel 2 INFO ] 2020-06-09 23:03:59.884 DriverManager:40 - driver is initialize
+[Android_Pixel 2 INFO ] 2020-06-09 23:04:02.037 ProTipsPage:82 - Pro Tip Button Clicked
+[Android_Pixel 2 INFO ] 2020-06-09 23:04:03.515 BasePage:97 - toolbar_title ---->>>PRO TIP
+[Android_Pixel 2 INFO ] 2020-06-09 23:04:03.548 ProTipsPage:36 - toolbar_title is enabled----->true
+[Android_Pixel 2 INFO ] 2020-06-09 23:04:03.635 BasePage:97 - lighting_text_view ---->>>Lighting
+[Android_Pixel 2 INFO ] 2020-06-09 23:04:03.667 ProTipsPage:41 - lighting_text_view is enabled----->true
+[Android_Pixel 2 INFO ] 2020-06-09 23:04:03.750 BasePage:97 - make_sure_text_view ---->>>Make sure there is adequate light in front of your subject, not behind them.
+[Android_Pixel 2 INFO ] 2020-06-09 23:04:04.945 VideoManager:35 - video path: Android_Pixel 2/Videos/Verify Pro Tip screen.mp4
+[Android_Pixel 2 INFO ] 2020-06-09 23:06:03.894 ServerManager:21 - STARTING APPIUM SEVER
+[Android_Pixel 2 INFO ] 2020-06-09 23:06:04.637 ServerManager:31 - APPIUM SEVER STARTED
+[Android_Pixel 2 INFO ] 2020-06-09 23:06:04.652 DriverManager:26 - initializing Appium driver
+[Android_Pixel 2 INFO ] 2020-06-09 23:06:04.666 PropertyManager:18 - Loading config properties
+[Android_Pixel 2 INFO ] 2020-06-09 23:06:04.667 CapabilitiesManager:16 - getting capabilities
+[Android_Pixel 2 INFO ] 2020-06-09 23:06:04.669 CapabilitiesManager:32 - appUrl is/Users/sharadgupta/Documents/automation/AppiumCucumburFramework-testng/src/test/resources/app/btv.apk
+[Android_Pixel 2 INFO ] 2020-06-09 23:06:16.762 DriverManager:40 - driver is initialize
+[Android_Pixel 2 INFO ] 2020-06-09 23:06:18.955 ProTipsPage:82 - Pro Tip Button Clicked
+[Android_Pixel 2 INFO ] 2020-06-09 23:06:20.475 BasePage:97 - toolbar_title ---->>>PRO TIP
+[Android_Pixel 2 INFO ] 2020-06-09 23:06:20.507 ProTipsPage:36 - toolbar_title is enabled----->true
+[Android_Pixel 2 INFO ] 2020-06-09 23:06:20.598 BasePage:97 - lighting_text_view ---->>>Lighting
+[Android_Pixel 2 INFO ] 2020-06-09 23:06:20.625 ProTipsPage:41 - lighting_text_view is enabled----->true
+[Android_Pixel 2 INFO ] 2020-06-09 23:06:20.711 BasePage:97 - make_sure_text_view ---->>>Make sure there is adequate light in front of your subject, not behind them.
+[Android_Pixel 2 INFO ] 2020-06-09 23:06:20.743 ProTipsPage:46 - lighting_Description_view is enabled----->true
+[Android_Pixel 2 INFO ] 2020-06-09 23:06:20.828 BasePage:97 - professional_text_view - -->>>Professional looking Office
+[Android_Pixel 2 INFO ] 2020-06-09 23:06:20.854 ProTipsPage:51 - professional_text_view is enabled----->true
+[Android_Pixel 2 INFO ] 2020-06-09 23:06:20.933 BasePage:97 - make_sure_subject_text_view  ---->>>Make sure your subject has a neat and tidy background.
+[Android_Pixel 2 INFO ] 2020-06-09 23:06:22.114 VideoManager:35 - video path: Android_Pixel 2/Videos/Verify Pro Tip screen.mp4
+[Android_Pixel 2 INFO ] 2020-06-09 23:06:50.585 ServerManager:21 - STARTING APPIUM SEVER
+[Android_Pixel 2 INFO ] 2020-06-09 23:06:51.344 ServerManager:31 - APPIUM SEVER STARTED
+[Android_Pixel 2 INFO ] 2020-06-09 23:06:51.360 DriverManager:26 - initializing Appium driver
+[Android_Pixel 2 INFO ] 2020-06-09 23:06:51.373 PropertyManager:18 - Loading config properties
+[Android_Pixel 2 INFO ] 2020-06-09 23:06:51.374 CapabilitiesManager:16 - getting capabilities
+[Android_Pixel 2 INFO ] 2020-06-09 23:06:51.377 CapabilitiesManager:32 - appUrl is/Users/sharadgupta/Documents/automation/AppiumCucumburFramework-testng/src/test/resources/app/btv.apk
+[Android_Pixel 2 INFO ] 2020-06-09 23:06:59.422 DriverManager:40 - driver is initialize
+[Android_Pixel 2 INFO ] 2020-06-09 23:07:01.615 ProTipsPage:82 - Pro Tip Button Clicked
+[Android_Pixel 2 INFO ] 2020-06-09 23:07:03.128 BasePage:97 - toolbar_title ---->>>PRO TIP
+[Android_Pixel 2 INFO ] 2020-06-09 23:07:03.160 ProTipsPage:36 - toolbar_title is enabled----->true
+[Android_Pixel 2 INFO ] 2020-06-09 23:07:03.250 BasePage:97 - lighting_text_view ---->>>Lighting
+[Android_Pixel 2 INFO ] 2020-06-09 23:07:03.277 ProTipsPage:41 - lighting_text_view is enabled----->true
+[Android_Pixel 2 INFO ] 2020-06-09 23:07:03.359 BasePage:97 - make_sure_text_view ---->>>Make sure there is adequate light in front of your subject, not behind them.
+[Android_Pixel 2 INFO ] 2020-06-09 23:07:03.386 ProTipsPage:46 - lighting_Description_view is enabled----->true
+[Android_Pixel 2 INFO ] 2020-06-09 23:07:03.471 BasePage:97 - professional_text_view - -->>>Professional looking Office
+[Android_Pixel 2 INFO ] 2020-06-09 23:07:03.497 ProTipsPage:51 - professional_text_view is enabled----->true
+[Android_Pixel 2 INFO ] 2020-06-09 23:07:03.574 BasePage:97 - make_sure_subject_text_view  ---->>>Make sure your subject has a neat and tidy background.
+[Android_Pixel 2 INFO ] 2020-06-09 23:07:03.599 ProTipsPage:56 - lighting_Description_view is enabled----->true
+[Android_Pixel 2 INFO ] 2020-06-09 23:07:03.674 BasePage:97 - camera_person_text_view ---->>>Camera person
+[Android_Pixel 2 INFO ] 2020-06-09 23:07:03.701 ProTipsPage:61 - camera_person_text_view is enabled----->true
+[Android_Pixel 2 INFO ] 2020-06-09 23:07:03.775 BasePage:97 - position_device_text_view ---->>>Position yourself about 4-5 feet away from the CEO or Executive. Don’t zoom in. Stay in the same spot for all your recordings.
+[Android_Pixel 2 INFO ] 2020-06-09 23:07:04.945 VideoManager:35 - video path: Android_Pixel 2/Videos/Verify Pro Tip screen.mp4
+[Android_Pixel 2 INFO ] 2020-06-09 23:07:34.915 ServerManager:21 - STARTING APPIUM SEVER
+[Android_Pixel 2 INFO ] 2020-06-09 23:07:35.661 ServerManager:31 - APPIUM SEVER STARTED
+[Android_Pixel 2 INFO ] 2020-06-09 23:07:35.683 DriverManager:26 - initializing Appium driver
+[Android_Pixel 2 INFO ] 2020-06-09 23:07:35.699 PropertyManager:18 - Loading config properties
+[Android_Pixel 2 INFO ] 2020-06-09 23:07:35.700 CapabilitiesManager:16 - getting capabilities
+[Android_Pixel 2 INFO ] 2020-06-09 23:07:35.702 CapabilitiesManager:32 - appUrl is/Users/sharadgupta/Documents/automation/AppiumCucumburFramework-testng/src/test/resources/app/btv.apk
+[Android_Pixel 2 INFO ] 2020-06-09 23:07:43.942 DriverManager:40 - driver is initialize
+[Android_Pixel 2 INFO ] 2020-06-09 23:07:46.101 ProTipsPage:82 - Pro Tip Button Clicked
+[Android_Pixel 2 INFO ] 2020-06-09 23:07:47.543 BasePage:97 - toolbar_title ---->>>PRO TIP
+[Android_Pixel 2 INFO ] 2020-06-09 23:07:47.577 ProTipsPage:36 - toolbar_title is enabled----->true
+[Android_Pixel 2 INFO ] 2020-06-09 23:07:47.673 BasePage:97 - lighting_text_view ---->>>Lighting
+[Android_Pixel 2 INFO ] 2020-06-09 23:07:47.704 ProTipsPage:41 - lighting_text_view is enabled----->true
+[Android_Pixel 2 INFO ] 2020-06-09 23:07:47.792 BasePage:97 - make_sure_text_view ---->>>Make sure there is adequate light in front of your subject, not behind them.
+[Android_Pixel 2 INFO ] 2020-06-09 23:07:47.819 ProTipsPage:46 - lighting_Description_view is enabled----->true
+[Android_Pixel 2 INFO ] 2020-06-09 23:07:47.903 BasePage:97 - professional_text_view - -->>>Professional looking Office
+[Android_Pixel 2 INFO ] 2020-06-09 23:07:47.931 ProTipsPage:51 - professional_text_view is enabled----->true
+[Android_Pixel 2 INFO ] 2020-06-09 23:07:48.011 BasePage:97 - make_sure_subject_text_view  ---->>>Make sure your subject has a neat and tidy background.
+[Android_Pixel 2 INFO ] 2020-06-09 23:07:48.040 ProTipsPage:56 - lighting_Description_view is enabled----->true
+[Android_Pixel 2 INFO ] 2020-06-09 23:07:48.118 BasePage:97 - camera_person_text_view ---->>>Camera person
+[Android_Pixel 2 INFO ] 2020-06-09 23:07:48.144 ProTipsPage:61 - camera_person_text_view is enabled----->true
+[Android_Pixel 2 INFO ] 2020-06-09 23:07:48.225 BasePage:97 - position_device_text_view ---->>>Position yourself about 4-5 feet away from the CEO or Executive. Don’t zoom in. Stay in the same spot for all your recordings.
+[Android_Pixel 2 INFO ] 2020-06-09 23:07:48.256 ProTipsPage:66 - camera_person_text_view is enabled----->true
+[Android_Pixel 2 INFO ] 2020-06-09 23:07:48.337 BasePage:97 - Record_horizontally_text_view ---->>>Record Horizontally only
+[Android_Pixel 2 INFO ] 2020-06-09 23:07:48.363 ProTipsPage:71 - Record_horizontally_text_view is enabled----->true
+[Android_Pixel 2 INFO ] 2020-06-09 23:07:48.444 BasePage:97 - video_length_text_view  ---->>>Video Length
+[Android_Pixel 2 INFO ] 2020-06-09 23:07:48.473 ProTipsPage:77 - video_length_text_view is enabled----->true
+[Android_Pixel 2 INFO ] 2020-06-09 23:07:48.511 ProTipsPage:88 - Pro Tip back button clicked
+[Android_Pixel 2 INFO ] 2020-06-09 23:07:49.744 BasePage:97 - rotate_pro_tip_text_view -->>PRO TIP
+[Android_Pixel 2 INFO ] 2020-06-09 23:07:49.771 ProTipsPage:31 - rotate_pro_tip_text_view is enabled----->true
+[Android_Pixel 2 INFO ] 2020-06-09 23:07:50.802 VideoManager:35 - video path: Android_Pixel 2/Videos/Verify Pro Tip screen.mp4
+[Android_Pixel 2 INFO ] 2020-06-09 23:13:02.875 ServerManager:21 - STARTING APPIUM SEVER
+[Android_Pixel 2 INFO ] 2020-06-09 23:13:04.915 ServerManager:31 - APPIUM SEVER STARTED
+[Android_Pixel 2 INFO ] 2020-06-09 23:13:04.930 DriverManager:26 - initializing Appium driver
+[Android_Pixel 2 INFO ] 2020-06-09 23:13:04.945 PropertyManager:18 - Loading config properties
+[Android_Pixel 2 INFO ] 2020-06-09 23:13:04.947 CapabilitiesManager:16 - getting capabilities
+[Android_Pixel 2 INFO ] 2020-06-09 23:13:04.948 CapabilitiesManager:32 - appUrl is/Users/sharadgupta/Documents/automation/AppiumCucumburFramework-testng/src/test/resources/app/btv.apk
+[Android_Pixel 2 INFO ] 2020-06-09 23:13:21.310 DriverManager:40 - driver is initialize
+[Android_Pixel 2 INFO ] 2020-06-09 23:13:23.847 ProTipsPage:85 - Pro Tip Button Clicked
+[Android_Pixel 2 INFO ] 2020-06-09 23:13:25.334 BasePage:97 - toolbar_title ---->>>PRO TIP
+[Android_Pixel 2 INFO ] 2020-06-09 23:13:25.373 ProTipsPage:36 - toolbar_title is enabled----->true
+[Android_Pixel 2 INFO ] 2020-06-09 23:13:25.468 BasePage:97 - lighting_text_view ---->>>Lighting
+[Android_Pixel 2 INFO ] 2020-06-09 23:13:25.495 ProTipsPage:41 - lighting_text_view is enabled----->true
+[Android_Pixel 2 INFO ] 2020-06-09 23:13:25.583 BasePage:97 - make_sure_text_view ---->>>Make sure there is adequate light in front of your subject, not behind them.
+[Android_Pixel 2 INFO ] 2020-06-09 23:13:25.611 ProTipsPage:46 - lighting_Description_view is enabled----->true
+[Android_Pixel 2 INFO ] 2020-06-09 23:13:25.698 BasePage:97 - professional_text_view - -->>>Professional looking Office
+[Android_Pixel 2 INFO ] 2020-06-09 23:13:25.725 ProTipsPage:51 - professional_text_view is enabled----->true
+[Android_Pixel 2 INFO ] 2020-06-09 23:13:25.802 BasePage:97 - make_sure_subject_text_view  ---->>>Make sure your subject has a neat and tidy background.
+[Android_Pixel 2 INFO ] 2020-06-09 23:13:25.829 ProTipsPage:56 - lighting_Description_view is enabled----->true
+[Android_Pixel 2 INFO ] 2020-06-09 23:13:25.906 BasePage:97 - camera_person_text_view ---->>>Camera person
+[Android_Pixel 2 INFO ] 2020-06-09 23:13:25.931 ProTipsPage:61 - camera_person_text_view is enabled----->true
+[Android_Pixel 2 INFO ] 2020-06-09 23:13:26.010 BasePage:97 - position_device_text_view ---->>>Position yourself about 4-5 feet away from the CEO or Executive. Don’t zoom in. Stay in the same spot for all your recordings.
+[Android_Pixel 2 INFO ] 2020-06-09 23:13:26.036 ProTipsPage:66 - camera_person_text_view is enabled----->true
+[Android_Pixel 2 INFO ] 2020-06-09 23:13:26.116 BasePage:97 - Record_horizontally_text_view ---->>>Record Horizontally only
+[Android_Pixel 2 INFO ] 2020-06-09 23:13:26.142 ProTipsPage:71 - Record_horizontally_text_view is enabled----->true
+[Android_Pixel 2 INFO ] 2020-06-09 23:13:26.220 BasePage:97 - make_sure_device_is_horizon_text_view  ---->>>Make sure your device is horizontal.
+[Android_Pixel 2 INFO ] 2020-06-09 23:13:27.411 VideoManager:35 - video path: Android_Pixel 2/Videos/Verify Pro Tip screen.mp4
+[Android_Pixel 2 INFO ] 2020-06-09 23:36:19.863 ServerManager:21 - STARTING APPIUM SEVER
+[Android_Pixel 2 INFO ] 2020-06-09 23:36:21.930 ServerManager:31 - APPIUM SEVER STARTED
+[Android_Pixel 2 INFO ] 2020-06-09 23:36:21.949 DriverManager:26 - initializing Appium driver
+[Android_Pixel 2 INFO ] 2020-06-09 23:36:21.968 PropertyManager:18 - Loading config properties
+[Android_Pixel 2 INFO ] 2020-06-09 23:36:21.970 CapabilitiesManager:16 - getting capabilities
+[Android_Pixel 2 INFO ] 2020-06-09 23:36:21.972 CapabilitiesManager:32 - appUrl is/Users/sharadgupta/Documents/automation/AppiumCucumburFramework-testng/src/test/resources/app/btv.apk
+[Android_Pixel 2 FATAL] 2020-06-09 23:36:42.683 DriverManager:45 - Driver init. failure abort !!!
+[Android_Pixel 2 INFO ] 2020-06-09 23:37:58.064 ServerManager:21 - STARTING APPIUM SEVER
+[Android_Pixel 2 INFO ] 2020-06-09 23:38:00.142 ServerManager:31 - APPIUM SEVER STARTED
+[Android_Pixel 2 INFO ] 2020-06-09 23:38:00.165 DriverManager:26 - initializing Appium driver
+[Android_Pixel 2 INFO ] 2020-06-09 23:38:00.183 PropertyManager:18 - Loading config properties
+[Android_Pixel 2 INFO ] 2020-06-09 23:38:00.184 CapabilitiesManager:16 - getting capabilities
+[Android_Pixel 2 INFO ] 2020-06-09 23:38:00.186 CapabilitiesManager:32 - appUrl is/Users/sharadgupta/Documents/automation/AppiumCucumburFramework-testng/src/test/resources/app/btv.apk
+[Android_Pixel 2 FATAL] 2020-06-09 23:38:21.165 DriverManager:45 - Driver init. failure abort !!!
+[Android_Pixel 2 INFO ] 2020-06-09 23:39:44.476 ServerManager:21 - STARTING APPIUM SEVER
+[Android_Pixel 2 INFO ] 2020-06-09 23:39:46.221 ServerManager:31 - APPIUM SEVER STARTED
+[Android_Pixel 2 INFO ] 2020-06-09 23:39:46.245 DriverManager:26 - initializing Appium driver
+[Android_Pixel 2 INFO ] 2020-06-09 23:39:46.262 PropertyManager:18 - Loading config properties
+[Android_Pixel 2 INFO ] 2020-06-09 23:39:46.263 CapabilitiesManager:16 - getting capabilities
+[Android_Pixel 2 INFO ] 2020-06-09 23:39:46.265 CapabilitiesManager:32 - appUrl is/Users/sharadgupta/Documents/automation/AppiumCucumburFramework-testng/src/test/resources/app/btv.apk
+[Android_Pixel 2 INFO ] 2020-06-09 23:39:54.625 DriverManager:40 - driver is initialize
+[Android_Pixel 2 INFO ] 2020-06-09 23:39:56.812 ProTipsPage:90 - Pro Tip Button Clicked
+[Android_Pixel 2 INFO ] 2020-06-09 23:39:58.330 BasePage:97 - toolbar_title ---->>>PRO TIP
+[Android_Pixel 2 INFO ] 2020-06-09 23:39:58.364 ProTipsPage:36 - toolbar_title is enabled----->true
+[Android_Pixel 2 INFO ] 2020-06-09 23:39:58.453 BasePage:97 - lighting_text_view ---->>>Lighting
+[Android_Pixel 2 INFO ] 2020-06-09 23:39:58.480 ProTipsPage:41 - lighting_text_view is enabled----->true
+[Android_Pixel 2 INFO ] 2020-06-09 23:39:58.563 BasePage:97 - make_sure_text_view ---->>>Make sure there is adequate light in front of your subject, not behind them.
+[Android_Pixel 2 INFO ] 2020-06-09 23:39:58.591 ProTipsPage:46 - lighting_Description_view is enabled----->true
+[Android_Pixel 2 INFO ] 2020-06-09 23:39:58.670 BasePage:97 - professional_text_view - -->>>Professional looking Office
+[Android_Pixel 2 INFO ] 2020-06-09 23:39:58.694 ProTipsPage:51 - professional_text_view is enabled----->true
+[Android_Pixel 2 INFO ] 2020-06-09 23:39:58.770 BasePage:97 - make_sure_subject_text_view  ---->>>Make sure your subject has a neat and tidy background.
+[Android_Pixel 2 INFO ] 2020-06-09 23:39:58.796 ProTipsPage:56 - make_sure_subject_text_view is enabled----->true
+[Android_Pixel 2 INFO ] 2020-06-09 23:39:58.868 BasePage:97 - camera_person_text_view ---->>>Camera person
+[Android_Pixel 2 INFO ] 2020-06-09 23:39:58.892 ProTipsPage:61 - camera_person_text_view is enabled----->true
+[Android_Pixel 2 INFO ] 2020-06-09 23:39:58.964 BasePage:97 - position_device_text_view ---->>>Position yourself about 4-5 feet away from the CEO or Executive. Don’t zoom in. Stay in the same spot for all your recordings.
+[Android_Pixel 2 INFO ] 2020-06-09 23:39:58.990 ProTipsPage:66 - position_device_text_view is enabled----->true
+[Android_Pixel 2 INFO ] 2020-06-09 23:39:59.063 BasePage:97 - Record_horizontally_text_view ---->>>Record Horizontally only
+[Android_Pixel 2 INFO ] 2020-06-09 23:39:59.088 ProTipsPage:71 - Record_horizontally_text_view is enabled----->true
+[Android_Pixel 2 INFO ] 2020-06-09 23:39:59.185 BasePage:97 - make_sure_device_is_horizon_text_view  ---->>>Make sure your device is horizontal.
+[Android_Pixel 2 INFO ] 2020-06-09 23:39:59.210 ProTipsPage:75 - Rmake_sure_device_is_horizon_text_viewview is enabled----->true
+[Android_Pixel 2 INFO ] 2020-06-09 23:39:59.282 BasePage:97 - video_length_text_view  ---->>>Video Length
+[Android_Pixel 2 INFO ] 2020-06-09 23:39:59.306 ProTipsPage:80 - video_length_text_view is enabled----->true
+[Android_Pixel 2 INFO ] 2020-06-09 23:39:59.379 BasePage:97 - statistics_show_text_view  ---->>>Statistics show that the optimal length of video is about 2 minutes long.
+[Android_Pixel 2 INFO ] 2020-06-09 23:40:00.683 VideoManager:35 - video path: Android_Pixel 2/Videos/Verify Pro Tip screen.mp4
+[Android_Pixel 2 INFO ] 2020-06-09 23:41:09.957 ServerManager:21 - STARTING APPIUM SEVER
+[Android_Pixel 2 INFO ] 2020-06-09 23:41:10.701 ServerManager:31 - APPIUM SEVER STARTED
+[Android_Pixel 2 INFO ] 2020-06-09 23:41:10.716 DriverManager:26 - initializing Appium driver
+[Android_Pixel 2 INFO ] 2020-06-09 23:41:10.728 PropertyManager:18 - Loading config properties
+[Android_Pixel 2 INFO ] 2020-06-09 23:41:10.729 CapabilitiesManager:16 - getting capabilities
+[Android_Pixel 2 INFO ] 2020-06-09 23:41:10.731 CapabilitiesManager:32 - appUrl is/Users/sharadgupta/Documents/automation/AppiumCucumburFramework-testng/src/test/resources/app/btv.apk
+[Android_Pixel 2 INFO ] 2020-06-09 23:41:18.758 DriverManager:40 - driver is initialize
+[Android_Pixel 2 INFO ] 2020-06-09 23:41:20.897 ProTipsPage:90 - Pro Tip Button Clicked
+[Android_Pixel 2 INFO ] 2020-06-09 23:41:22.351 BasePage:97 - toolbar_title ---->>>PRO TIP
+[Android_Pixel 2 INFO ] 2020-06-09 23:41:22.389 ProTipsPage:36 - toolbar_title is enabled----->true
+[Android_Pixel 2 INFO ] 2020-06-09 23:41:22.484 BasePage:97 - lighting_text_view ---->>>Lighting
+[Android_Pixel 2 INFO ] 2020-06-09 23:41:22.512 ProTipsPage:41 - lighting_text_view is enabled----->true
+[Android_Pixel 2 INFO ] 2020-06-09 23:41:22.597 BasePage:97 - make_sure_text_view ---->>>Make sure there is adequate light in front of your subject, not behind them.
+[Android_Pixel 2 INFO ] 2020-06-09 23:41:22.625 ProTipsPage:46 - lighting_Description_view is enabled----->true
+[Android_Pixel 2 INFO ] 2020-06-09 23:41:22.705 BasePage:97 - professional_text_view - -->>>Professional looking Office
+[Android_Pixel 2 INFO ] 2020-06-09 23:41:22.732 ProTipsPage:51 - professional_text_view is enabled----->true
+[Android_Pixel 2 INFO ] 2020-06-09 23:41:22.804 BasePage:97 - make_sure_subject_text_view  ---->>>Make sure your subject has a neat and tidy background.
+[Android_Pixel 2 INFO ] 2020-06-09 23:41:22.829 ProTipsPage:56 - make_sure_subject_text_view is enabled----->true
+[Android_Pixel 2 INFO ] 2020-06-09 23:41:22.902 BasePage:97 - camera_person_text_view ---->>>Camera person
+[Android_Pixel 2 INFO ] 2020-06-09 23:41:22.928 ProTipsPage:61 - camera_person_text_view is enabled----->true
+[Android_Pixel 2 INFO ] 2020-06-09 23:41:23.000 BasePage:97 - position_device_text_view ---->>>Position yourself about 4-5 feet away from the CEO or Executive. Don’t zoom in. Stay in the same spot for all your recordings.
+[Android_Pixel 2 INFO ] 2020-06-09 23:41:23.026 ProTipsPage:66 - position_device_text_view is enabled----->true
+[Android_Pixel 2 INFO ] 2020-06-09 23:41:23.100 BasePage:97 - Record_horizontally_text_view ---->>>Record Horizontally only
+[Android_Pixel 2 INFO ] 2020-06-09 23:41:23.124 ProTipsPage:71 - Record_horizontally_text_view is enabled----->true
+[Android_Pixel 2 INFO ] 2020-06-09 23:41:23.201 BasePage:97 - make_sure_device_is_horizon_text_view  ---->>>Make sure your device is horizontal.
+[Android_Pixel 2 INFO ] 2020-06-09 23:41:23.224 ProTipsPage:75 - Rmake_sure_device_is_horizon_text_viewview is enabled----->true
+[Android_Pixel 2 INFO ] 2020-06-09 23:41:23.294 BasePage:97 - video_length_text_view  ---->>>Video Length
+[Android_Pixel 2 INFO ] 2020-06-09 23:41:23.329 ProTipsPage:80 - video_length_text_view is enabled----->true
+[Android_Pixel 2 INFO ] 2020-06-09 23:41:23.402 BasePage:97 - statistics_show_text_view  ---->>>Statistics show that the optimal length of video is about 2 minutes long.
+[Android_Pixel 2 INFO ] 2020-06-09 23:41:23.424 ProTipsPage:80 - video_length_text_view is enabled----->true
+[Android_Pixel 2 INFO ] 2020-06-09 23:41:23.447 ProTipsPage:96 - Pro Tip back button clicked
+[Android_Pixel 2 INFO ] 2020-06-09 23:41:24.644 BasePage:97 - rotate_pro_tip_text_view -->>PRO TIP
+[Android_Pixel 2 INFO ] 2020-06-09 23:41:24.670 ProTipsPage:31 - rotate_pro_tip_text_view is enabled----->true
+[Android_Pixel 2 INFO ] 2020-06-09 23:41:25.589 VideoManager:35 - video path: Android_Pixel 2/Videos/Verify Pro Tip screen.mp4
+[Android_Pixel 2 INFO ] 2020-06-09 23:42:13.502 ServerManager:21 - STARTING APPIUM SEVER
+[Android_Pixel 2 INFO ] 2020-06-09 23:42:14.252 ServerManager:31 - APPIUM SEVER STARTED
+[Android_Pixel 2 INFO ] 2020-06-09 23:42:14.269 DriverManager:26 - initializing Appium driver
+[Android_Pixel 2 INFO ] 2020-06-09 23:42:14.282 PropertyManager:18 - Loading config properties
+[Android_Pixel 2 INFO ] 2020-06-09 23:42:14.283 CapabilitiesManager:16 - getting capabilities
+[Android_Pixel 2 INFO ] 2020-06-09 23:42:14.285 CapabilitiesManager:32 - appUrl is/Users/sharadgupta/Documents/automation/AppiumCucumburFramework-testng/src/test/resources/app/btv.apk
+[Android_Pixel 2 INFO ] 2020-06-09 23:42:22.415 DriverManager:40 - driver is initialize
+[Android_Pixel 2 INFO ] 2020-06-09 23:43:01.247 BasePage:97 - Login page title is - Please login to save your recordings.
+[Android_Pixel 2 INFO ] 2020-06-09 23:43:02.473 VideoManager:35 - video path: Android_Pixel 2/Videos/Verify marketing screen.mp4
+[Android_Pixel 2 INFO ] 2020-06-09 23:43:37.152 ServerManager:21 - STARTING APPIUM SEVER
+[Android_Pixel 2 INFO ] 2020-06-09 23:43:39.199 ServerManager:31 - APPIUM SEVER STARTED
+[Android_Pixel 2 INFO ] 2020-06-09 23:43:39.217 DriverManager:26 - initializing Appium driver
+[Android_Pixel 2 INFO ] 2020-06-09 23:43:39.231 PropertyManager:18 - Loading config properties
+[Android_Pixel 2 INFO ] 2020-06-09 23:43:39.232 CapabilitiesManager:16 - getting capabilities
+[Android_Pixel 2 INFO ] 2020-06-09 23:43:39.234 CapabilitiesManager:32 - appUrl is/Users/sharadgupta/Documents/automation/AppiumCucumburFramework-testng/src/test/resources/app/btv.apk
+[Android_Pixel 2 INFO ] 2020-06-09 23:43:47.650 DriverManager:40 - driver is initialize
+[Android_Pixel 2 INFO ] 2020-06-09 23:44:55.603 BasePage:97 - Login page title is - Please login to save your recordings.
+[Android_Pixel 2 INFO ] 2020-06-09 23:44:57.459 VideoManager:35 - video path: Android_Pixel 2/Videos/Verify marketing screen.mp4
+[Android_Pixel 2 INFO ] 2020-06-09 23:46:00.371 VideoManager:35 - video path: Android_Pixel 2/Videos/Verify Pro Tip screen.mp4
