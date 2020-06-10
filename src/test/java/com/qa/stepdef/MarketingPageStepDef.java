@@ -9,8 +9,8 @@ import org.junit.Assert;
 public class MarketingPageStepDef {
     @When("^I tap on the Recording Screen button$")
     public void iTapOnTheRecordingScreenButton() {
-        //Assert.assertTrue(new MarketingPages().startRecordingTextFound());
-        //new MarketingPages().recordingButton();
+        Assert.assertTrue(new MarketingPages().startRecordingTextFound());
+        new MarketingPages().recordingButton();
     }
     @When("^I tap on the start recording button$")
     public void iTapOnTheStartRecordingButton() {

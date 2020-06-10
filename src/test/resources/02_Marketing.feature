@@ -1,3 +1,4 @@
+@test
 Feature: Marketing scenarios
   Scenario Outline: Verify marketing screen
     When I tap on the Recording Screen button

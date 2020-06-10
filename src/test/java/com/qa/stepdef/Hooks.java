@@ -1,5 +1,6 @@
 package com.qa.stepdef;
 
+import com.qa.pages.BasePage;
 import com.qa.utils.DriverManager;
 import com.qa.utils.VideoManager;
 import io.cucumber.java.After;
@@ -25,6 +26,8 @@ public class Hooks {
 
         }
         new VideoManager().stopRecording(scenario.getName());
+        new BasePage().closeApp();
+        new BasePage().launchApp();
         }
 
     }

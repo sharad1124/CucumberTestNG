@@ -10,7 +10,7 @@
       <class name="com.qa.runners.MyTestNGRunnerTest">
         <methods>
           <include name="setUpClass"/>
-          <include name="scenario" invocation-numbers="0 1"/>
+          <include name="scenario" invocation-numbers="2"/>
           <include name="tearDownClass"/>
         </methods>
       </class> <!-- com.qa.runners.MyTestNGRunnerTest -->

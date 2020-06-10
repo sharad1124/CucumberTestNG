@@ -1,0 +1,466 @@
+[Android_Pixel 2 INFO ] 2020-06-10 00:09:11.499 ServerManager:21 - STARTING APPIUM SEVER
+[Android_Pixel 2 INFO ] 2020-06-10 00:09:13.886 ServerManager:31 - APPIUM SEVER STARTED
+[Android_Pixel 2 INFO ] 2020-06-10 00:09:13.903 DriverManager:26 - initializing Appium driver
+[Android_Pixel 2 INFO ] 2020-06-10 00:09:13.920 PropertyManager:18 - Loading config properties
+[Android_Pixel 2 INFO ] 2020-06-10 00:09:13.921 CapabilitiesManager:16 - getting capabilities
+[Android_Pixel 2 INFO ] 2020-06-10 00:09:13.923 CapabilitiesManager:32 - appUrl is/Users/sharadgupta/Documents/automation/AppiumCucumburFramework-testng/src/test/resources/app/btv.apk
+[Android_Pixel 2 INFO ] 2020-06-10 00:09:22.445 DriverManager:40 - driver is initialize
+[Android_Pixel 2 INFO ] 2020-06-10 00:09:28.762 VideoManager:35 - video path: Android_Pixel 2/Videos/Verify marketing screen.mp4
+[Android_Pixel 2 INFO ] 2020-06-10 00:09:58.885 ProTipsPage:90 - Pro Tip Button Clicked
+[Android_Pixel 2 INFO ] 2020-06-10 00:11:04.316 VideoManager:35 - video path: Android_Pixel 2/Videos/Verify Pro Tip screen.mp4
+[Android_Pixel 2 INFO ] 2020-06-10 00:11:40.179 ServerManager:21 - STARTING APPIUM SEVER
+[Android_Pixel 2 INFO ] 2020-06-10 00:11:41.914 ServerManager:31 - APPIUM SEVER STARTED
+[Android_Pixel 2 INFO ] 2020-06-10 00:11:41.933 DriverManager:26 - initializing Appium driver
+[Android_Pixel 2 INFO ] 2020-06-10 00:11:41.948 PropertyManager:18 - Loading config properties
+[Android_Pixel 2 INFO ] 2020-06-10 00:11:41.949 CapabilitiesManager:16 - getting capabilities
+[Android_Pixel 2 INFO ] 2020-06-10 00:11:41.951 CapabilitiesManager:32 - appUrl is/Users/sharadgupta/Documents/automation/AppiumCucumburFramework-testng/src/test/resources/app/btv.apk
+[Android_Pixel 2 INFO ] 2020-06-10 00:11:50.382 DriverManager:40 - driver is initialize
+[Android_Pixel 2 INFO ] 2020-06-10 00:11:52.628 ProTipsPage:90 - Pro Tip Button Clicked
+[Android_Pixel 2 INFO ] 2020-06-10 00:11:53.989 BasePage:97 - toolbar_title ---->>>PRO TIP
+[Android_Pixel 2 INFO ] 2020-06-10 00:11:54.031 ProTipsPage:36 - toolbar_title is enabled----->true
+[Android_Pixel 2 INFO ] 2020-06-10 00:11:54.127 BasePage:97 - lighting_text_view ---->>>Lighting
+[Android_Pixel 2 INFO ] 2020-06-10 00:11:54.156 ProTipsPage:41 - lighting_text_view is enabled----->true
+[Android_Pixel 2 INFO ] 2020-06-10 00:11:54.242 BasePage:97 - make_sure_text_view ---->>>Make sure there is adequate light in front of your subject, not behind them.
+[Android_Pixel 2 INFO ] 2020-06-10 00:11:54.270 ProTipsPage:46 - lighting_Description_view is enabled----->true
+[Android_Pixel 2 INFO ] 2020-06-10 00:11:54.354 BasePage:97 - professional_text_view - -->>>Professional looking Office
+[Android_Pixel 2 INFO ] 2020-06-10 00:11:54.380 ProTipsPage:51 - professional_text_view is enabled----->true
+[Android_Pixel 2 INFO ] 2020-06-10 00:11:54.458 BasePage:97 - make_sure_subject_text_view  ---->>>Make sure your subject has a neat and tidy background.
+[Android_Pixel 2 INFO ] 2020-06-10 00:11:54.484 ProTipsPage:56 - make_sure_subject_text_view is enabled----->true
+[Android_Pixel 2 INFO ] 2020-06-10 00:11:54.562 BasePage:97 - camera_person_text_view ---->>>Camera person
+[Android_Pixel 2 INFO ] 2020-06-10 00:11:54.587 ProTipsPage:61 - camera_person_text_view is enabled----->true
+[Android_Pixel 2 INFO ] 2020-06-10 00:11:54.663 BasePage:97 - position_device_text_view ---->>>Position yourself about 4-5 feet away from the CEO or Executive. Don’t zoom in. Stay in the same spot for all your recordings.
+[Android_Pixel 2 INFO ] 2020-06-10 00:11:54.688 ProTipsPage:66 - position_device_text_view is enabled----->true
+[Android_Pixel 2 INFO ] 2020-06-10 00:11:54.767 BasePage:97 - Record_horizontally_text_view ---->>>Record Horizontally only
+[Android_Pixel 2 INFO ] 2020-06-10 00:11:54.791 ProTipsPage:71 - Record_horizontally_text_view is enabled----->true
+[Android_Pixel 2 INFO ] 2020-06-10 00:11:54.866 BasePage:97 - make_sure_device_is_horizon_text_view  ---->>>Make sure your device is horizontal.
+[Android_Pixel 2 INFO ] 2020-06-10 00:11:54.893 ProTipsPage:75 - Rmake_sure_device_is_horizon_text_viewview is enabled----->true
+[Android_Pixel 2 INFO ] 2020-06-10 00:11:54.968 BasePage:97 - video_length_text_view  ---->>>Video Length
+[Android_Pixel 2 INFO ] 2020-06-10 00:11:54.992 ProTipsPage:80 - video_length_text_view is enabled----->true
+[Android_Pixel 2 INFO ] 2020-06-10 00:11:55.068 BasePage:97 - statistics_show_text_view  ---->>>Statistics show that the optimal length of video is about 2 minutes long.
+[Android_Pixel 2 INFO ] 2020-06-10 00:11:55.092 ProTipsPage:80 - video_length_text_view is enabled----->true
+[Android_Pixel 2 INFO ] 2020-06-10 00:11:55.118 ProTipsPage:96 - Pro Tip back button clicked
+[Android_Pixel 2 INFO ] 2020-06-10 00:11:56.315 BasePage:97 - rotate_pro_tip_text_view -->>PRO TIP
+[Android_Pixel 2 INFO ] 2020-06-10 00:11:56.340 ProTipsPage:31 - rotate_pro_tip_text_view is enabled----->true
+[Android_Pixel 2 INFO ] 2020-06-10 00:11:57.251 VideoManager:35 - video path: Android_Pixel 2/Videos/Verify Pro Tip screen.mp4
+[Android_Pixel 2 INFO ] 2020-06-10 00:12:25.052 ServerManager:21 - STARTING APPIUM SEVER
+[Android_Pixel 2 INFO ] 2020-06-10 00:12:25.790 ServerManager:31 - APPIUM SEVER STARTED
+[Android_Pixel 2 INFO ] 2020-06-10 00:12:25.804 DriverManager:26 - initializing Appium driver
+[Android_Pixel 2 INFO ] 2020-06-10 00:12:25.817 PropertyManager:18 - Loading config properties
+[Android_Pixel 2 INFO ] 2020-06-10 00:12:25.817 CapabilitiesManager:16 - getting capabilities
+[Android_Pixel 2 INFO ] 2020-06-10 00:12:25.819 CapabilitiesManager:32 - appUrl is/Users/sharadgupta/Documents/automation/AppiumCucumburFramework-testng/src/test/resources/app/btv.apk
+[Android_Pixel 2 INFO ] 2020-06-10 00:12:34.085 DriverManager:40 - driver is initialize
+[Android_Pixel 2 INFO ] 2020-06-10 00:12:41.956 VideoManager:35 - video path: Android_Pixel 2/Videos/Verify marketing screen.mp4
+[Android_Pixel 2 INFO ] 2020-06-10 00:13:18.613 ServerManager:21 - STARTING APPIUM SEVER
+[Android_Pixel 2 INFO ] 2020-06-10 00:13:19.353 ServerManager:31 - APPIUM SEVER STARTED
+[Android_Pixel 2 INFO ] 2020-06-10 00:13:19.368 DriverManager:26 - initializing Appium driver
+[Android_Pixel 2 INFO ] 2020-06-10 00:13:19.380 PropertyManager:18 - Loading config properties
+[Android_Pixel 2 INFO ] 2020-06-10 00:13:19.381 CapabilitiesManager:16 - getting capabilities
+[Android_Pixel 2 INFO ] 2020-06-10 00:13:19.382 CapabilitiesManager:32 - appUrl is/Users/sharadgupta/Documents/automation/AppiumCucumburFramework-testng/src/test/resources/app/btv.apk
+[Android_Pixel 2 INFO ] 2020-06-10 00:13:27.487 DriverManager:40 - driver is initialize
+[Android_Pixel 2 INFO ] 2020-06-10 00:13:33.093 VideoManager:35 - video path: Android_Pixel 2/Videos/Verify marketing screen.mp4
+[Android_Pixel 2 INFO ] 2020-06-10 00:13:52.277 ServerManager:21 - STARTING APPIUM SEVER
+[Android_Pixel 2 INFO ] 2020-06-10 00:13:53.018 ServerManager:31 - APPIUM SEVER STARTED
+[Android_Pixel 2 INFO ] 2020-06-10 00:13:53.033 DriverManager:26 - initializing Appium driver
+[Android_Pixel 2 INFO ] 2020-06-10 00:13:53.045 PropertyManager:18 - Loading config properties
+[Android_Pixel 2 INFO ] 2020-06-10 00:13:53.046 CapabilitiesManager:16 - getting capabilities
+[Android_Pixel 2 INFO ] 2020-06-10 00:13:53.048 CapabilitiesManager:32 - appUrl is/Users/sharadgupta/Documents/automation/AppiumCucumburFramework-testng/src/test/resources/app/btv.apk
+[Android_Pixel 2 INFO ] 2020-06-10 00:14:01.098 DriverManager:40 - driver is initialize
+[Android_Pixel 2 INFO ] 2020-06-10 00:14:10.511 VideoManager:35 - video path: Android_Pixel 2/Videos/Verify marketing screen.mp4
+[Android_Pixel 2 INFO ] 2020-06-10 00:15:32.900 ServerManager:21 - STARTING APPIUM SEVER
+[Android_Pixel 2 INFO ] 2020-06-10 00:15:34.627 ServerManager:31 - APPIUM SEVER STARTED
+[Android_Pixel 2 INFO ] 2020-06-10 00:15:34.644 DriverManager:26 - initializing Appium driver
+[Android_Pixel 2 INFO ] 2020-06-10 00:15:34.660 PropertyManager:18 - Loading config properties
+[Android_Pixel 2 INFO ] 2020-06-10 00:15:34.661 CapabilitiesManager:16 - getting capabilities
+[Android_Pixel 2 INFO ] 2020-06-10 00:15:34.663 CapabilitiesManager:32 - appUrl is/Users/sharadgupta/Documents/automation/AppiumCucumburFramework-testng/src/test/resources/app/btv.apk
+[Android_Pixel 2 INFO ] 2020-06-10 00:15:43.418 DriverManager:40 - driver is initialize
+[Android_Pixel 2 INFO ] 2020-06-10 00:15:51.041 VideoManager:35 - video path: Android_Pixel 2/Videos/Verify marketing screen.mp4
+[Android_Pixel 2 INFO ] 2020-06-10 00:16:04.237 ServerManager:21 - STARTING APPIUM SEVER
+[Android_Pixel 2 INFO ] 2020-06-10 00:16:04.979 ServerManager:31 - APPIUM SEVER STARTED
+[Android_Pixel 2 INFO ] 2020-06-10 00:16:04.993 DriverManager:26 - initializing Appium driver
+[Android_Pixel 2 INFO ] 2020-06-10 00:16:05.007 PropertyManager:18 - Loading config properties
+[Android_Pixel 2 INFO ] 2020-06-10 00:16:05.008 CapabilitiesManager:16 - getting capabilities
+[Android_Pixel 2 INFO ] 2020-06-10 00:16:05.010 CapabilitiesManager:32 - appUrl is/Users/sharadgupta/Documents/automation/AppiumCucumburFramework-testng/src/test/resources/app/btv.apk
+[Android_Pixel 2 INFO ] 2020-06-10 00:16:14.223 DriverManager:40 - driver is initialize
+[Android_Pixel 2 INFO ] 2020-06-10 00:16:22.767 VideoManager:35 - video path: Android_Pixel 2/Videos/Verify marketing screen.mp4
+[Android_Pixel 2 INFO ] 2020-06-10 00:19:30.055 ServerManager:21 - STARTING APPIUM SEVER
+[Android_Pixel 2 INFO ] 2020-06-10 00:19:30.802 ServerManager:31 - APPIUM SEVER STARTED
+[Android_Pixel 2 INFO ] 2020-06-10 00:19:30.818 DriverManager:26 - initializing Appium driver
+[Android_Pixel 2 INFO ] 2020-06-10 00:19:30.835 PropertyManager:18 - Loading config properties
+[Android_Pixel 2 INFO ] 2020-06-10 00:19:30.836 CapabilitiesManager:16 - getting capabilities
+[Android_Pixel 2 INFO ] 2020-06-10 00:19:30.838 CapabilitiesManager:32 - appUrl is/Users/sharadgupta/Documents/automation/AppiumCucumburFramework-testng/src/test/resources/app/btv.apk
+[Android_Pixel 2 INFO ] 2020-06-10 00:19:40.986 DriverManager:40 - driver is initialize
+[Android_Pixel 2 INFO ] 2020-06-10 00:20:03.158 BasePage:97 - Login page title is - Please login to save your recordings.
+[Android_Pixel 2 INFO ] 2020-06-10 00:20:03.190 LoginPage:17 - Login Screen is enabled----->true
+[Android_Pixel 2 INFO ] 2020-06-10 00:20:04.237 VideoManager:35 - video path: Android_Pixel 2/Videos/Verify marketing screen.mp4
+[Android_Pixel 2 INFO ] 2020-06-10 00:21:46.809 ServerManager:21 - STARTING APPIUM SEVER
+[Android_Pixel 2 INFO ] 2020-06-10 00:21:48.215 ServerManager:31 - APPIUM SEVER STARTED
+[Android_Pixel 2 INFO ] 2020-06-10 00:21:48.238 DriverManager:26 - initializing Appium driver
+[Android_Pixel 2 INFO ] 2020-06-10 00:21:48.259 PropertyManager:18 - Loading config properties
+[Android_Pixel 2 INFO ] 2020-06-10 00:21:48.260 CapabilitiesManager:16 - getting capabilities
+[Android_Pixel 2 INFO ] 2020-06-10 00:21:48.263 CapabilitiesManager:32 - appUrl is/Users/sharadgupta/Documents/automation/AppiumCucumburFramework-testng/src/test/resources/app/btv.apk
+[Android_Pixel 2 INFO ] 2020-06-10 00:22:01.993 DriverManager:40 - driver is initialize
+[Android_Pixel 2 INFO ] 2020-06-10 00:22:04.181 MarketingPages:22 - Welcome  is enabled----->true
+[Android_Pixel 2 INFO ] 2020-06-10 00:22:42.924 BasePage:97 - Login page title is - Please login to save your recordings.
+[Android_Pixel 2 INFO ] 2020-06-10 00:22:42.973 LoginPage:17 - Login Screen is enabled----->true
+[Android_Pixel 2 INFO ] 2020-06-10 00:22:44.703 VideoManager:35 - video path: Android_Pixel 2/Videos/Verify marketing screen.mp4
+[Android_Pixel 2 INFO ] 2020-06-10 01:40:19.880 ServerManager:21 - STARTING APPIUM SEVER
+[Android_Pixel 2 INFO ] 2020-06-10 01:40:21.934 ServerManager:31 - APPIUM SEVER STARTED
+[Android_Pixel 2 INFO ] 2020-06-10 01:40:21.951 DriverManager:26 - initializing Appium driver
+[Android_Pixel 2 INFO ] 2020-06-10 01:40:21.967 PropertyManager:18 - Loading config properties
+[Android_Pixel 2 INFO ] 2020-06-10 01:40:21.968 CapabilitiesManager:16 - getting capabilities
+[Android_Pixel 2 INFO ] 2020-06-10 01:40:21.970 CapabilitiesManager:32 - appUrl is/Users/sharadgupta/Documents/automation/AppiumCucumburFramework-testng/src/test/resources/app/btv.apk
+[Android_Pixel 2 INFO ] 2020-06-10 01:40:32.314 DriverManager:40 - driver is initialize
+[Android_Pixel 2 INFO ] 2020-06-10 01:40:48.229 VideoManager:35 - video path: Android_Pixel 2/Videos/Verify Valid Login.mp4
+[Android_Pixel 2 INFO ] 2020-06-10 01:53:45.664 ServerManager:21 - STARTING APPIUM SEVER
+[Android_Pixel 2 INFO ] 2020-06-10 01:53:47.387 ServerManager:31 - APPIUM SEVER STARTED
+[Android_Pixel 2 INFO ] 2020-06-10 01:53:47.403 DriverManager:26 - initializing Appium driver
+[Android_Pixel 2 INFO ] 2020-06-10 01:53:47.420 PropertyManager:18 - Loading config properties
+[Android_Pixel 2 INFO ] 2020-06-10 01:53:47.421 CapabilitiesManager:16 - getting capabilities
+[Android_Pixel 2 INFO ] 2020-06-10 01:53:47.423 CapabilitiesManager:32 - appUrl is/Users/sharadgupta/Documents/automation/AppiumCucumburFramework-testng/src/test/resources/app/btv.apk
+[Android_Pixel 2 INFO ] 2020-06-10 01:53:55.719 DriverManager:40 - driver is initialize
+[Android_Pixel 2 INFO ] 2020-06-10 01:54:29.293 BasePage:54 - Press login button
+[Android_Pixel 2 INFO ] 2020-06-10 01:54:30.421 VideoManager:35 - video path: Android_Pixel 2/Videos/Verify Valid Login.mp4
+[Android_Pixel 2 INFO ] 2020-06-10 01:57:22.246 ServerManager:21 - STARTING APPIUM SEVER
+[Android_Pixel 2 INFO ] 2020-06-10 01:57:22.994 ServerManager:31 - APPIUM SEVER STARTED
+[Android_Pixel 2 INFO ] 2020-06-10 01:57:23.008 DriverManager:26 - initializing Appium driver
+[Android_Pixel 2 INFO ] 2020-06-10 01:57:23.021 PropertyManager:18 - Loading config properties
+[Android_Pixel 2 INFO ] 2020-06-10 01:57:23.022 CapabilitiesManager:16 - getting capabilities
+[Android_Pixel 2 INFO ] 2020-06-10 01:57:23.024 CapabilitiesManager:32 - appUrl is/Users/sharadgupta/Documents/automation/AppiumCucumburFramework-testng/src/test/resources/app/btv.apk
+[Android_Pixel 2 INFO ] 2020-06-10 01:57:30.926 DriverManager:40 - driver is initialize
+[Android_Pixel 2 INFO ] 2020-06-10 01:57:58.490 BasePage:54 - Press login button
+[Android_Pixel 2 INFO ] 2020-06-10 01:57:59.605 VideoManager:35 - video path: Android_Pixel 2/Videos/Verify Valid Login.mp4
+[Android_Pixel 2 INFO ] 2020-06-10 02:01:19.808 ServerManager:21 - STARTING APPIUM SEVER
+[Android_Pixel 2 INFO ] 2020-06-10 02:01:20.561 ServerManager:31 - APPIUM SEVER STARTED
+[Android_Pixel 2 INFO ] 2020-06-10 02:01:20.575 DriverManager:26 - initializing Appium driver
+[Android_Pixel 2 INFO ] 2020-06-10 02:01:20.588 PropertyManager:18 - Loading config properties
+[Android_Pixel 2 INFO ] 2020-06-10 02:01:20.589 CapabilitiesManager:16 - getting capabilities
+[Android_Pixel 2 INFO ] 2020-06-10 02:01:20.592 CapabilitiesManager:32 - appUrl is/Users/sharadgupta/Documents/automation/AppiumCucumburFramework-testng/src/test/resources/app/btv.apk
+[Android_Pixel 2 INFO ] 2020-06-10 02:01:28.766 DriverManager:40 - driver is initialize
+[Android_Pixel 2 INFO ] 2020-06-10 02:02:42.563 VideoManager:35 - video path: Android_Pixel 2/Videos/Verify Valid Login.mp4
+[Android_Pixel 2 INFO ] 2020-06-10 02:04:33.902 ServerManager:21 - STARTING APPIUM SEVER
+[Android_Pixel 2 INFO ] 2020-06-10 02:04:35.681 ServerManager:31 - APPIUM SEVER STARTED
+[Android_Pixel 2 INFO ] 2020-06-10 02:04:35.700 DriverManager:26 - initializing Appium driver
+[Android_Pixel 2 INFO ] 2020-06-10 02:04:35.719 PropertyManager:18 - Loading config properties
+[Android_Pixel 2 INFO ] 2020-06-10 02:04:35.720 CapabilitiesManager:16 - getting capabilities
+[Android_Pixel 2 INFO ] 2020-06-10 02:04:35.722 CapabilitiesManager:32 - appUrl is/Users/sharadgupta/Documents/automation/AppiumCucumburFramework-testng/src/test/resources/app/btv.apk
+[Android_Pixel 2 INFO ] 2020-06-10 02:04:45.715 DriverManager:40 - driver is initialize
+[Android_Pixel 2 INFO ] 2020-06-10 02:05:53.649 BasePage:54 - Press login button
+[Android_Pixel 2 INFO ] 2020-06-10 02:06:21.421 VideoManager:35 - video path: Android_Pixel 2/Videos/Verify Valid Login.mp4
+[Android_Pixel 2 INFO ] 2020-06-10 02:10:58.978 ServerManager:21 - STARTING APPIUM SEVER
+[Android_Pixel 2 INFO ] 2020-06-10 02:11:00.382 ServerManager:31 - APPIUM SEVER STARTED
+[Android_Pixel 2 INFO ] 2020-06-10 02:11:00.397 DriverManager:26 - initializing Appium driver
+[Android_Pixel 2 INFO ] 2020-06-10 02:11:00.414 PropertyManager:18 - Loading config properties
+[Android_Pixel 2 INFO ] 2020-06-10 02:11:00.415 CapabilitiesManager:16 - getting capabilities
+[Android_Pixel 2 INFO ] 2020-06-10 02:11:00.417 CapabilitiesManager:32 - appUrl is/Users/sharadgupta/Documents/automation/AppiumCucumburFramework-testng/src/test/resources/app/btv.apk
+[Android_Pixel 2 INFO ] 2020-06-10 02:11:08.667 DriverManager:40 - driver is initialize
+[Android_Pixel 2 INFO ] 2020-06-10 02:11:33.907 BasePage:54 - Press login button
+[Android_Pixel 2 INFO ] 2020-06-10 02:11:37.227 VideoManager:35 - video path: Android_Pixel 2/Videos/Verify Valid Login.mp4
+[Android_Pixel 2 INFO ] 2020-06-10 02:11:57.621 ServerManager:21 - STARTING APPIUM SEVER
+[Android_Pixel 2 INFO ] 2020-06-10 02:11:58.359 ServerManager:31 - APPIUM SEVER STARTED
+[Android_Pixel 2 INFO ] 2020-06-10 02:11:58.373 DriverManager:26 - initializing Appium driver
+[Android_Pixel 2 INFO ] 2020-06-10 02:11:58.386 PropertyManager:18 - Loading config properties
+[Android_Pixel 2 INFO ] 2020-06-10 02:11:58.387 CapabilitiesManager:16 - getting capabilities
+[Android_Pixel 2 INFO ] 2020-06-10 02:11:58.389 CapabilitiesManager:32 - appUrl is/Users/sharadgupta/Documents/automation/AppiumCucumburFramework-testng/src/test/resources/app/btv.apk
+[Android_Pixel 2 INFO ] 2020-06-10 02:12:06.303 DriverManager:40 - driver is initialize
+[Android_Pixel 2 INFO ] 2020-06-10 02:12:37.408 BasePage:54 - Press login button
+[Android_Pixel 2 INFO ] 2020-06-10 02:12:40.692 VideoManager:35 - video path: Android_Pixel 2/Videos/Verify Valid Login.mp4
+[Android_Pixel 2 INFO ] 2020-06-10 02:15:54.119 ServerManager:21 - STARTING APPIUM SEVER
+[Android_Pixel 2 INFO ] 2020-06-10 02:15:54.860 ServerManager:31 - APPIUM SEVER STARTED
+[Android_Pixel 2 INFO ] 2020-06-10 02:15:54.874 DriverManager:26 - initializing Appium driver
+[Android_Pixel 2 INFO ] 2020-06-10 02:15:54.887 PropertyManager:18 - Loading config properties
+[Android_Pixel 2 INFO ] 2020-06-10 02:15:54.888 CapabilitiesManager:16 - getting capabilities
+[Android_Pixel 2 INFO ] 2020-06-10 02:15:54.890 CapabilitiesManager:32 - appUrl is/Users/sharadgupta/Documents/automation/AppiumCucumburFramework-testng/src/test/resources/app/btv.apk
+[Android_Pixel 2 INFO ] 2020-06-10 02:16:02.870 DriverManager:40 - driver is initialize
+[Android_Pixel 2 INFO ] 2020-06-10 02:17:05.333 BasePage:54 - Press login button
+[Android_Pixel 2 INFO ] 2020-06-10 02:17:10.017 BasePage:97 - rotate_pro_tip_text_view -->>Earnings Videos
+[Android_Pixel 2 INFO ] 2020-06-10 02:17:12.330 VideoManager:35 - video path: Android_Pixel 2/Videos/Verify Valid Login.mp4
+[Android_Pixel 2 INFO ] 2020-06-10 02:17:59.570 ServerManager:21 - STARTING APPIUM SEVER
+[Android_Pixel 2 INFO ] 2020-06-10 02:18:00.314 ServerManager:31 - APPIUM SEVER STARTED
+[Android_Pixel 2 INFO ] 2020-06-10 02:18:00.328 DriverManager:26 - initializing Appium driver
+[Android_Pixel 2 INFO ] 2020-06-10 02:18:00.340 PropertyManager:18 - Loading config properties
+[Android_Pixel 2 INFO ] 2020-06-10 02:18:00.341 CapabilitiesManager:16 - getting capabilities
+[Android_Pixel 2 INFO ] 2020-06-10 02:18:00.344 CapabilitiesManager:32 - appUrl is/Users/sharadgupta/Documents/automation/AppiumCucumburFramework-testng/src/test/resources/app/btv.apk
+[Android_Pixel 2 INFO ] 2020-06-10 02:18:08.422 DriverManager:40 - driver is initialize
+[Android_Pixel 2 INFO ] 2020-06-10 02:19:17.975 BasePage:54 - Press login button
+[Android_Pixel 2 INFO ] 2020-06-10 02:19:22.698 BasePage:97 - rotate_pro_tip_text_view -->>Earnings Videos
+[Android_Pixel 2 INFO ] 2020-06-10 02:19:24.682 VideoManager:35 - video path: Android_Pixel 2/Videos/Verify Valid Login.mp4
+[Android_Pixel 2 INFO ] 2020-06-10 11:36:23.105 ServerManager:21 - STARTING APPIUM SEVER
+[Android_Pixel 2 INFO ] 2020-06-10 11:36:24.853 ServerManager:31 - APPIUM SEVER STARTED
+[Android_Pixel 2 INFO ] 2020-06-10 11:36:24.871 DriverManager:26 - initializing Appium driver
+[Android_Pixel 2 INFO ] 2020-06-10 11:36:24.889 PropertyManager:18 - Loading config properties
+[Android_Pixel 2 INFO ] 2020-06-10 11:36:24.890 CapabilitiesManager:16 - getting capabilities
+[Android_Pixel 2 INFO ] 2020-06-10 11:36:24.893 CapabilitiesManager:32 - appUrl is/Users/sharadgupta/Documents/automation/AppiumCucumburFramework-testng/src/test/resources/app/btv.apk
+[Android_Pixel 2 INFO ] 2020-06-10 11:36:34.539 DriverManager:40 - driver is initialize
+[Android_Pixel 2 INFO ] 2020-06-10 11:37:28.547 BasePage:54 - Press login button
+[Android_Pixel 2 INFO ] 2020-06-10 11:38:33.735 VideoManager:35 - video path: Android_Pixel 2/Videos/Verify Valid Login.mp4
+[Android_Pixel 2 INFO ] 2020-06-10 11:40:11.471 ServerManager:21 - STARTING APPIUM SEVER
+[Android_Pixel 2 INFO ] 2020-06-10 11:40:12.213 ServerManager:31 - APPIUM SEVER STARTED
+[Android_Pixel 2 INFO ] 2020-06-10 11:40:12.226 DriverManager:26 - initializing Appium driver
+[Android_Pixel 2 INFO ] 2020-06-10 11:40:12.239 PropertyManager:18 - Loading config properties
+[Android_Pixel 2 INFO ] 2020-06-10 11:40:12.240 CapabilitiesManager:16 - getting capabilities
+[Android_Pixel 2 INFO ] 2020-06-10 11:40:12.242 CapabilitiesManager:32 - appUrl is/Users/sharadgupta/Documents/automation/AppiumCucumburFramework-testng/src/test/resources/app/btv.apk
+[Android_Pixel 2 INFO ] 2020-06-10 11:40:20.558 DriverManager:40 - driver is initialize
+[Android_Pixel 2 INFO ] 2020-06-10 11:40:42.863 VideoManager:35 - video path: Android_Pixel 2/Videos/Verify Valid Login.mp4
+[Android_Pixel 2 INFO ] 2020-06-10 11:41:23.437 ServerManager:21 - STARTING APPIUM SEVER
+[Android_Pixel 2 INFO ] 2020-06-10 11:41:24.188 ServerManager:31 - APPIUM SEVER STARTED
+[Android_Pixel 2 INFO ] 2020-06-10 11:41:24.202 DriverManager:26 - initializing Appium driver
+[Android_Pixel 2 INFO ] 2020-06-10 11:41:24.215 PropertyManager:18 - Loading config properties
+[Android_Pixel 2 INFO ] 2020-06-10 11:41:24.216 CapabilitiesManager:16 - getting capabilities
+[Android_Pixel 2 INFO ] 2020-06-10 11:41:24.218 CapabilitiesManager:32 - appUrl is/Users/sharadgupta/Documents/automation/AppiumCucumburFramework-testng/src/test/resources/app/btv.apk
+[Android_Pixel 2 INFO ] 2020-06-10 11:41:32.371 DriverManager:40 - driver is initialize
+[Android_Pixel 2 INFO ] 2020-06-10 11:41:57.991 BasePage:54 - Press login button
+[Android_Pixel 2 INFO ] 2020-06-10 11:42:00.634 VideoManager:35 - video path: Android_Pixel 2/Videos/Verify Valid Login.mp4
+[Android_Pixel 2 INFO ] 2020-06-10 11:43:09.058 ServerManager:21 - STARTING APPIUM SEVER
+[Android_Pixel 2 INFO ] 2020-06-10 11:43:09.801 ServerManager:31 - APPIUM SEVER STARTED
+[Android_Pixel 2 INFO ] 2020-06-10 11:43:09.815 DriverManager:26 - initializing Appium driver
+[Android_Pixel 2 INFO ] 2020-06-10 11:43:09.828 PropertyManager:18 - Loading config properties
+[Android_Pixel 2 INFO ] 2020-06-10 11:43:09.829 CapabilitiesManager:16 - getting capabilities
+[Android_Pixel 2 INFO ] 2020-06-10 11:43:09.831 CapabilitiesManager:32 - appUrl is/Users/sharadgupta/Documents/automation/AppiumCucumburFramework-testng/src/test/resources/app/btv.apk
+[Android_Pixel 2 INFO ] 2020-06-10 11:43:18.301 DriverManager:40 - driver is initialize
+[Android_Pixel 2 INFO ] 2020-06-10 11:43:48.628 BasePage:54 - Press login button
+[Android_Pixel 2 INFO ] 2020-06-10 11:44:53.358 VideoManager:35 - video path: Android_Pixel 2/Videos/Verify Valid Login.mp4
+[Android_Pixel 2 INFO ] 2020-06-10 13:00:58.005 ServerManager:21 - STARTING APPIUM SEVER
+[Android_Pixel 2 INFO ] 2020-06-10 13:00:59.438 ServerManager:31 - APPIUM SEVER STARTED
+[Android_Pixel 2 INFO ] 2020-06-10 13:00:59.455 DriverManager:26 - initializing Appium driver
+[Android_Pixel 2 INFO ] 2020-06-10 13:00:59.469 PropertyManager:18 - Loading config properties
+[Android_Pixel 2 INFO ] 2020-06-10 13:00:59.471 CapabilitiesManager:16 - getting capabilities
+[Android_Pixel 2 INFO ] 2020-06-10 13:00:59.474 CapabilitiesManager:32 - appUrl is/Users/sharadgupta/Documents/automation/AppiumCucumburFramework-testng/src/test/resources/app/btv.apk
+[Android_Pixel 2 INFO ] 2020-06-10 13:01:14.411 DriverManager:40 - driver is initialize
+[Android_Pixel 2 INFO ] 2020-06-10 13:02:50.946 ServerManager:21 - STARTING APPIUM SEVER
+[Android_Pixel 2 INFO ] 2020-06-10 13:02:52.371 ServerManager:31 - APPIUM SEVER STARTED
+[Android_Pixel 2 INFO ] 2020-06-10 13:02:52.388 DriverManager:26 - initializing Appium driver
+[Android_Pixel 2 INFO ] 2020-06-10 13:02:52.405 PropertyManager:18 - Loading config properties
+[Android_Pixel 2 INFO ] 2020-06-10 13:02:52.407 CapabilitiesManager:16 - getting capabilities
+[Android_Pixel 2 INFO ] 2020-06-10 13:02:52.410 CapabilitiesManager:32 - appUrl is/Users/sharadgupta/Documents/automation/AppiumCucumburFramework-testng/src/test/resources/app/btv.apk
+[Android_Pixel 2 INFO ] 2020-06-10 13:03:01.055 DriverManager:40 - driver is initialize
+[Android_Pixel 2 INFO ] 2020-06-10 13:03:40.666 BasePage:54 - Press login button
+[Android_Pixel 2 INFO ] 2020-06-10 13:03:50.085 BasePage:97 - rotate_pro_tip_text_view -->>Earnings Videos
+[Android_Pixel 2 INFO ] 2020-06-10 13:03:51.455 VideoManager:35 - video path: Android_Pixel 2/Videos/Verify Valid Login.mp4
+[Android_Pixel 2 INFO ] 2020-06-10 13:03:54.897 VideoManager:35 - video path: Android_Pixel 2/Videos/Verify marketing screen.mp4
+[Android_Pixel 2 INFO ] 2020-06-10 13:04:57.425 VideoManager:35 - video path: Android_Pixel 2/Videos/Verify Pro Tip screen.mp4
+[Android_Pixel 2 INFO ] 2020-06-10 13:05:31.207 ServerManager:21 - STARTING APPIUM SEVER
+[Android_Pixel 2 INFO ] 2020-06-10 13:05:32.621 ServerManager:31 - APPIUM SEVER STARTED
+[Android_Pixel 2 INFO ] 2020-06-10 13:05:32.637 DriverManager:26 - initializing Appium driver
+[Android_Pixel 2 INFO ] 2020-06-10 13:05:32.654 PropertyManager:18 - Loading config properties
+[Android_Pixel 2 INFO ] 2020-06-10 13:05:32.655 CapabilitiesManager:16 - getting capabilities
+[Android_Pixel 2 INFO ] 2020-06-10 13:05:32.657 CapabilitiesManager:32 - appUrl is/Users/sharadgupta/Documents/automation/AppiumCucumburFramework-testng/src/test/resources/app/btv.apk
+[Android_Pixel 2 INFO ] 2020-06-10 13:05:41.033 DriverManager:40 - driver is initialize
+[Android_Pixel 2 INFO ] 2020-06-10 13:05:43.282 ProTipsPage:90 - Pro Tip Button Clicked
+[Android_Pixel 2 INFO ] 2020-06-10 13:05:44.833 BasePage:97 - toolbar_title ---->>>PRO TIP
+[Android_Pixel 2 INFO ] 2020-06-10 13:05:44.866 ProTipsPage:36 - toolbar_title is enabled----->true
+[Android_Pixel 2 INFO ] 2020-06-10 13:05:44.960 BasePage:97 - lighting_text_view ---->>>Lighting
+[Android_Pixel 2 INFO ] 2020-06-10 13:05:44.993 ProTipsPage:41 - lighting_text_view is enabled----->true
+[Android_Pixel 2 INFO ] 2020-06-10 13:05:45.079 BasePage:97 - make_sure_text_view ---->>>Make sure there is adequate light in front of your subject, not behind them.
+[Android_Pixel 2 INFO ] 2020-06-10 13:05:45.107 ProTipsPage:46 - lighting_Description_view is enabled----->true
+[Android_Pixel 2 INFO ] 2020-06-10 13:05:45.194 BasePage:97 - professional_text_view - -->>>Professional looking Office
+[Android_Pixel 2 INFO ] 2020-06-10 13:05:45.222 ProTipsPage:51 - professional_text_view is enabled----->true
+[Android_Pixel 2 INFO ] 2020-06-10 13:05:45.302 BasePage:97 - make_sure_subject_text_view  ---->>>Make sure your subject has a neat and tidy background.
+[Android_Pixel 2 INFO ] 2020-06-10 13:05:45.327 ProTipsPage:56 - make_sure_subject_text_view is enabled----->true
+[Android_Pixel 2 INFO ] 2020-06-10 13:05:45.407 BasePage:97 - camera_person_text_view ---->>>Camera person
+[Android_Pixel 2 INFO ] 2020-06-10 13:05:45.433 ProTipsPage:61 - camera_person_text_view is enabled----->true
+[Android_Pixel 2 INFO ] 2020-06-10 13:05:45.513 BasePage:97 - position_device_text_view ---->>>Position yourself about 4-5 feet away from the CEO or Executive. Don’t zoom in. Stay in the same spot for all your recordings.
+[Android_Pixel 2 INFO ] 2020-06-10 13:05:45.543 ProTipsPage:66 - position_device_text_view is enabled----->true
+[Android_Pixel 2 INFO ] 2020-06-10 13:05:45.626 BasePage:97 - Record_horizontally_text_view ---->>>Record Horizontally only
+[Android_Pixel 2 INFO ] 2020-06-10 13:05:45.654 ProTipsPage:71 - Record_horizontally_text_view is enabled----->true
+[Android_Pixel 2 INFO ] 2020-06-10 13:05:45.729 BasePage:97 - make_sure_device_is_horizon_text_view  ---->>>Make sure your device is horizontal.
+[Android_Pixel 2 INFO ] 2020-06-10 13:05:45.753 ProTipsPage:75 - Rmake_sure_device_is_horizon_text_viewview is enabled----->true
+[Android_Pixel 2 INFO ] 2020-06-10 13:05:45.829 BasePage:97 - video_length_text_view  ---->>>Video Length
+[Android_Pixel 2 INFO ] 2020-06-10 13:05:45.854 ProTipsPage:80 - video_length_text_view is enabled----->true
+[Android_Pixel 2 INFO ] 2020-06-10 13:05:45.933 BasePage:97 - statistics_show_text_view  ---->>>Statistics show that the optimal length of video is about 2 minutes long.
+[Android_Pixel 2 INFO ] 2020-06-10 13:05:45.958 ProTipsPage:80 - video_length_text_view is enabled----->true
+[Android_Pixel 2 INFO ] 2020-06-10 13:05:45.983 ProTipsPage:96 - Pro Tip back button clicked
+[Android_Pixel 2 INFO ] 2020-06-10 13:05:47.188 BasePage:97 - rotate_pro_tip_text_view -->>PRO TIP
+[Android_Pixel 2 INFO ] 2020-06-10 13:05:47.210 ProTipsPage:31 - rotate_pro_tip_text_view is enabled----->true
+[Android_Pixel 2 INFO ] 2020-06-10 13:05:48.153 VideoManager:35 - video path: Android_Pixel 2/Videos/Verify Pro Tip screen.mp4
+[Android_Pixel 2 INFO ] 2020-06-10 13:05:51.148 VideoManager:35 - video path: Android_Pixel 2/Videos/Verify marketing screen.mp4
+[Android_Pixel 2 INFO ] 2020-06-10 13:06:57.220 VideoManager:35 - video path: Android_Pixel 2/Videos/Verify Valid Login.mp4
+[Android_Pixel 2 INFO ] 2020-06-10 13:07:59.046 ServerManager:21 - STARTING APPIUM SEVER
+[Android_Pixel 2 INFO ] 2020-06-10 13:08:00.456 ServerManager:31 - APPIUM SEVER STARTED
+[Android_Pixel 2 INFO ] 2020-06-10 13:08:00.472 DriverManager:26 - initializing Appium driver
+[Android_Pixel 2 INFO ] 2020-06-10 13:08:00.488 PropertyManager:18 - Loading config properties
+[Android_Pixel 2 INFO ] 2020-06-10 13:08:00.489 CapabilitiesManager:16 - getting capabilities
+[Android_Pixel 2 INFO ] 2020-06-10 13:08:00.491 CapabilitiesManager:32 - appUrl is/Users/sharadgupta/Documents/automation/AppiumCucumburFramework-testng/src/test/resources/app/btv.apk
+[Android_Pixel 2 INFO ] 2020-06-10 13:08:08.791 DriverManager:40 - driver is initialize
+[Android_Pixel 2 INFO ] 2020-06-10 13:08:11.101 ProTipsPage:90 - Pro Tip Button Clicked
+[Android_Pixel 2 INFO ] 2020-06-10 13:08:12.586 BasePage:97 - toolbar_title ---->>>PRO TIP
+[Android_Pixel 2 INFO ] 2020-06-10 13:08:12.620 ProTipsPage:36 - toolbar_title is enabled----->true
+[Android_Pixel 2 INFO ] 2020-06-10 13:08:12.710 BasePage:97 - lighting_text_view ---->>>Lighting
+[Android_Pixel 2 INFO ] 2020-06-10 13:08:12.739 ProTipsPage:41 - lighting_text_view is enabled----->true
+[Android_Pixel 2 INFO ] 2020-06-10 13:08:12.820 BasePage:97 - make_sure_text_view ---->>>Make sure there is adequate light in front of your subject, not behind them.
+[Android_Pixel 2 INFO ] 2020-06-10 13:08:12.845 ProTipsPage:46 - lighting_Description_view is enabled----->true
+[Android_Pixel 2 INFO ] 2020-06-10 13:08:12.928 BasePage:97 - professional_text_view - -->>>Professional looking Office
+[Android_Pixel 2 INFO ] 2020-06-10 13:08:12.955 ProTipsPage:51 - professional_text_view is enabled----->true
+[Android_Pixel 2 INFO ] 2020-06-10 13:08:13.030 BasePage:97 - make_sure_subject_text_view  ---->>>Make sure your subject has a neat and tidy background.
+[Android_Pixel 2 INFO ] 2020-06-10 13:08:13.056 ProTipsPage:56 - make_sure_subject_text_view is enabled----->true
+[Android_Pixel 2 INFO ] 2020-06-10 13:08:13.133 BasePage:97 - camera_person_text_view ---->>>Camera person
+[Android_Pixel 2 INFO ] 2020-06-10 13:08:13.159 ProTipsPage:61 - camera_person_text_view is enabled----->true
+[Android_Pixel 2 INFO ] 2020-06-10 13:08:13.237 BasePage:97 - position_device_text_view ---->>>Position yourself about 4-5 feet away from the CEO or Executive. Don’t zoom in. Stay in the same spot for all your recordings.
+[Android_Pixel 2 INFO ] 2020-06-10 13:08:13.262 ProTipsPage:66 - position_device_text_view is enabled----->true
+[Android_Pixel 2 INFO ] 2020-06-10 13:08:13.339 BasePage:97 - Record_horizontally_text_view ---->>>Record Horizontally only
+[Android_Pixel 2 INFO ] 2020-06-10 13:08:13.364 ProTipsPage:71 - Record_horizontally_text_view is enabled----->true
+[Android_Pixel 2 INFO ] 2020-06-10 13:08:13.440 BasePage:97 - make_sure_device_is_horizon_text_view  ---->>>Make sure your device is horizontal.
+[Android_Pixel 2 INFO ] 2020-06-10 13:08:13.466 ProTipsPage:75 - Rmake_sure_device_is_horizon_text_viewview is enabled----->true
+[Android_Pixel 2 INFO ] 2020-06-10 13:08:13.540 BasePage:97 - video_length_text_view  ---->>>Video Length
+[Android_Pixel 2 INFO ] 2020-06-10 13:08:13.567 ProTipsPage:80 - video_length_text_view is enabled----->true
+[Android_Pixel 2 INFO ] 2020-06-10 13:08:13.647 BasePage:97 - statistics_show_text_view  ---->>>Statistics show that the optimal length of video is about 2 minutes long.
+[Android_Pixel 2 INFO ] 2020-06-10 13:08:13.669 ProTipsPage:80 - video_length_text_view is enabled----->true
+[Android_Pixel 2 INFO ] 2020-06-10 13:08:13.694 ProTipsPage:96 - Pro Tip back button clicked
+[Android_Pixel 2 INFO ] 2020-06-10 13:08:14.887 BasePage:97 - rotate_pro_tip_text_view -->>PRO TIP
+[Android_Pixel 2 INFO ] 2020-06-10 13:08:14.914 ProTipsPage:31 - rotate_pro_tip_text_view is enabled----->true
+[Android_Pixel 2 INFO ] 2020-06-10 13:08:15.983 VideoManager:35 - video path: Android_Pixel 2/Videos/Verify Pro Tip screen.mp4
+[Android_Pixel 2 INFO ] 2020-06-10 13:08:21.557 VideoManager:35 - video path: Android_Pixel 2/Videos/Verify marketing screen.mp4
+[Android_Pixel 2 INFO ] 2020-06-10 13:09:30.884 VideoManager:35 - video path: Android_Pixel 2/Videos/Verify Valid Login.mp4
+[Android_Pixel 2 INFO ] 2020-06-10 13:31:25.729 ServerManager:21 - STARTING APPIUM SEVER
+[Android_Pixel 2 INFO ] 2020-06-10 13:31:27.490 ServerManager:31 - APPIUM SEVER STARTED
+[Android_Pixel 2 INFO ] 2020-06-10 13:31:27.508 DriverManager:26 - initializing Appium driver
+[Android_Pixel 2 INFO ] 2020-06-10 13:31:27.525 PropertyManager:18 - Loading config properties
+[Android_Pixel 2 INFO ] 2020-06-10 13:31:27.526 CapabilitiesManager:16 - getting capabilities
+[Android_Pixel 2 INFO ] 2020-06-10 13:31:27.528 CapabilitiesManager:32 - appUrl is/Users/sharadgupta/Documents/automation/AppiumCucumburFramework-testng/src/test/resources/app/btv.apk
+[Android_Pixel 2 FATAL] 2020-06-10 13:31:48.434 DriverManager:45 - Driver init. failure abort !!!
+[Android_Pixel 2 INFO ] 2020-06-10 19:51:18.646 ServerManager:21 - STARTING APPIUM SEVER
+[Android_Pixel 2 INFO ] 2020-06-10 19:51:20.384 ServerManager:31 - APPIUM SEVER STARTED
+[Android_Pixel 2 INFO ] 2020-06-10 19:51:20.400 DriverManager:26 - initializing Appium driver
+[Android_Pixel 2 INFO ] 2020-06-10 19:51:20.418 PropertyManager:18 - Loading config properties
+[Android_Pixel 2 INFO ] 2020-06-10 19:51:20.419 CapabilitiesManager:16 - getting capabilities
+[Android_Pixel 2 INFO ] 2020-06-10 19:51:20.420 CapabilitiesManager:32 - appUrl is/Users/sharadgupta/Documents/automation/AppiumCucumburFramework-testng/src/test/resources/app/btv.apk
+[Android_Pixel 2 INFO ] 2020-06-10 19:51:34.940 DriverManager:40 - driver is initialize
+[Android_Pixel 2 INFO ] 2020-06-10 19:51:37.381 ProTipsPage:90 - Pro Tip Button Clicked
+[Android_Pixel 2 INFO ] 2020-06-10 19:51:38.890 BasePage:97 - toolbar_title ---->>>PRO TIP
+[Android_Pixel 2 INFO ] 2020-06-10 19:51:38.949 ProTipsPage:36 - toolbar_title is enabled----->true
+[Android_Pixel 2 INFO ] 2020-06-10 19:51:39.068 BasePage:97 - lighting_text_view ---->>>Lighting
+[Android_Pixel 2 INFO ] 2020-06-10 19:51:39.106 ProTipsPage:41 - lighting_text_view is enabled----->true
+[Android_Pixel 2 INFO ] 2020-06-10 19:51:39.219 BasePage:97 - make_sure_text_view ---->>>Make sure there is adequate light in front of your subject, not behind them.
+[Android_Pixel 2 INFO ] 2020-06-10 19:51:39.249 ProTipsPage:46 - lighting_Description_view is enabled----->true
+[Android_Pixel 2 INFO ] 2020-06-10 19:51:39.361 BasePage:97 - professional_text_view - -->>>Professional looking Office
+[Android_Pixel 2 INFO ] 2020-06-10 19:51:39.401 ProTipsPage:51 - professional_text_view is enabled----->true
+[Android_Pixel 2 INFO ] 2020-06-10 19:51:39.510 BasePage:97 - make_sure_subject_text_view  ---->>>Make sure your subject has a neat and tidy background.
+[Android_Pixel 2 INFO ] 2020-06-10 19:51:39.544 ProTipsPage:56 - make_sure_subject_text_view is enabled----->true
+[Android_Pixel 2 INFO ] 2020-06-10 19:51:39.653 BasePage:97 - camera_person_text_view ---->>>Camera person
+[Android_Pixel 2 INFO ] 2020-06-10 19:51:39.683 ProTipsPage:61 - camera_person_text_view is enabled----->true
+[Android_Pixel 2 INFO ] 2020-06-10 19:51:39.769 BasePage:97 - position_device_text_view ---->>>Position yourself about 4-5 feet away from the CEO or Executive. Don’t zoom in. Stay in the same spot for all your recordings.
+[Android_Pixel 2 INFO ] 2020-06-10 19:51:39.802 ProTipsPage:66 - position_device_text_view is enabled----->true
+[Android_Pixel 2 INFO ] 2020-06-10 19:51:39.891 BasePage:97 - Record_horizontally_text_view ---->>>Record Horizontally only
+[Android_Pixel 2 INFO ] 2020-06-10 19:51:39.922 ProTipsPage:71 - Record_horizontally_text_view is enabled----->true
+[Android_Pixel 2 INFO ] 2020-06-10 19:51:40.016 BasePage:97 - make_sure_device_is_horizon_text_view  ---->>>Make sure your device is horizontal.
+[Android_Pixel 2 INFO ] 2020-06-10 19:51:40.049 ProTipsPage:75 - Rmake_sure_device_is_horizon_text_viewview is enabled----->true
+[Android_Pixel 2 INFO ] 2020-06-10 19:51:40.143 BasePage:97 - video_length_text_view  ---->>>Video Length
+[Android_Pixel 2 INFO ] 2020-06-10 19:51:40.173 ProTipsPage:80 - video_length_text_view is enabled----->true
+[Android_Pixel 2 INFO ] 2020-06-10 19:51:40.282 BasePage:97 - statistics_show_text_view  ---->>>Statistics show that the optimal length of video is about 2 minutes long.
+[Android_Pixel 2 INFO ] 2020-06-10 19:51:40.315 ProTipsPage:80 - video_length_text_view is enabled----->true
+[Android_Pixel 2 INFO ] 2020-06-10 19:51:40.352 ProTipsPage:96 - Pro Tip back button clicked
+[Android_Pixel 2 INFO ] 2020-06-10 19:51:41.581 BasePage:97 - rotate_pro_tip_text_view -->>PRO TIP
+[Android_Pixel 2 INFO ] 2020-06-10 19:51:41.608 ProTipsPage:31 - rotate_pro_tip_text_view is enabled----->true
+[Android_Pixel 2 INFO ] 2020-06-10 19:51:42.584 VideoManager:35 - video path: Android_Pixel 2/Videos/Verify Pro Tip screen.mp4
+[Android_Pixel 2 INFO ] 2020-06-10 19:52:44.860 VideoManager:35 - video path: Android_Pixel 2/Videos/Verify marketing screen.mp4
+[Android_Pixel 2 INFO ] 2020-06-10 19:53:46.562 VideoManager:35 - video path: Android_Pixel 2/Videos/Verify Valid Login.mp4
+[Android_Pixel 2 INFO ] 2020-06-10 19:54:49.129 VideoManager:35 - video path: Android_Pixel 2/Videos/Verify Valid invalid Login.mp4
+[Android_Pixel 2 INFO ] 2020-06-10 20:02:37.592 ServerManager:21 - STARTING APPIUM SEVER
+[Android_Pixel 2 INFO ] 2020-06-10 20:02:39.340 ServerManager:31 - APPIUM SEVER STARTED
+[Android_Pixel 2 INFO ] 2020-06-10 20:02:39.360 DriverManager:26 - initializing Appium driver
+[Android_Pixel 2 INFO ] 2020-06-10 20:02:39.381 PropertyManager:18 - Loading config properties
+[Android_Pixel 2 INFO ] 2020-06-10 20:02:39.383 CapabilitiesManager:16 - getting capabilities
+[Android_Pixel 2 INFO ] 2020-06-10 20:02:39.386 CapabilitiesManager:32 - appUrl is/Users/sharadgupta/Documents/automation/AppiumCucumburFramework-testng/src/test/resources/app/btv.apk
+[Android_Pixel 2 INFO ] 2020-06-10 20:02:48.683 DriverManager:40 - driver is initialize
+[Android_Pixel 2 INFO ] 2020-06-10 20:03:17.629 VideoManager:35 - video path: Android_Pixel 2/Videos/Verify Valid Login.mp4
+[Android_Pixel 2 INFO ] 2020-06-10 20:04:20.170 VideoManager:35 - video path: Android_Pixel 2/Videos/Verify Valid invalid Login.mp4
+[Android_Pixel 2 INFO ] 2020-06-10 20:09:51.173 ServerManager:21 - STARTING APPIUM SEVER
+[Android_Pixel 2 INFO ] 2020-06-10 20:09:52.907 ServerManager:31 - APPIUM SEVER STARTED
+[Android_Pixel 2 INFO ] 2020-06-10 20:09:52.923 DriverManager:26 - initializing Appium driver
+[Android_Pixel 2 INFO ] 2020-06-10 20:09:52.939 PropertyManager:18 - Loading config properties
+[Android_Pixel 2 INFO ] 2020-06-10 20:09:52.940 CapabilitiesManager:16 - getting capabilities
+[Android_Pixel 2 INFO ] 2020-06-10 20:09:52.942 CapabilitiesManager:32 - appUrl is/Users/sharadgupta/Documents/automation/AppiumCucumburFramework-testng/src/test/resources/app/btv.apk
+[Android_Pixel 2 INFO ] 2020-06-10 20:10:01.718 DriverManager:40 - driver is initialize
+[Android_Pixel 2 INFO ] 2020-06-10 20:10:26.391 VideoManager:35 - video path: Android_Pixel 2/Videos/Verify Valid Login.mp4
+[Android_Pixel 2 INFO ] 2020-06-10 20:11:27.965 VideoManager:35 - video path: Android_Pixel 2/Videos/Verify Valid invalid Login.mp4
+[Android_Pixel 2 INFO ] 2020-06-10 20:12:45.289 ServerManager:21 - STARTING APPIUM SEVER
+[Android_Pixel 2 INFO ] 2020-06-10 20:12:46.700 ServerManager:31 - APPIUM SEVER STARTED
+[Android_Pixel 2 INFO ] 2020-06-10 20:12:46.716 DriverManager:26 - initializing Appium driver
+[Android_Pixel 2 INFO ] 2020-06-10 20:12:46.732 PropertyManager:18 - Loading config properties
+[Android_Pixel 2 INFO ] 2020-06-10 20:12:46.733 CapabilitiesManager:16 - getting capabilities
+[Android_Pixel 2 INFO ] 2020-06-10 20:12:46.735 CapabilitiesManager:32 - appUrl is/Users/sharadgupta/Documents/automation/AppiumCucumburFramework-testng/src/test/resources/app/btv.apk
+[Android_Pixel 2 INFO ] 2020-06-10 20:12:55.873 DriverManager:40 - driver is initialize
+[Android_Pixel 2 INFO ] 2020-06-10 20:13:28.244 VideoManager:35 - video path: Android_Pixel 2/Videos/Verify Valid Login.mp4
+[Android_Pixel 2 INFO ] 2020-06-10 20:14:30.639 VideoManager:35 - video path: Android_Pixel 2/Videos/Verify Valid invalid Login.mp4
+[Android_Pixel 2 INFO ] 2020-06-10 20:15:14.723 ServerManager:21 - STARTING APPIUM SEVER
+[Android_Pixel 2 INFO ] 2020-06-10 20:15:15.475 ServerManager:31 - APPIUM SEVER STARTED
+[Android_Pixel 2 INFO ] 2020-06-10 20:15:15.488 DriverManager:26 - initializing Appium driver
+[Android_Pixel 2 INFO ] 2020-06-10 20:15:15.501 PropertyManager:18 - Loading config properties
+[Android_Pixel 2 INFO ] 2020-06-10 20:15:15.502 CapabilitiesManager:16 - getting capabilities
+[Android_Pixel 2 INFO ] 2020-06-10 20:15:15.504 CapabilitiesManager:32 - appUrl is/Users/sharadgupta/Documents/automation/AppiumCucumburFramework-testng/src/test/resources/app/btv.apk
+[Android_Pixel 2 INFO ] 2020-06-10 20:15:24.044 DriverManager:40 - driver is initialize
+[Android_Pixel 2 INFO ] 2020-06-10 20:16:00.454 BasePage:54 - Press login button
+[Android_Pixel 2 INFO ] 2020-06-10 20:17:03.263 VideoManager:35 - video path: Android_Pixel 2/Videos/Verify Valid Login.mp4
+[Android_Pixel 2 INFO ] 2020-06-10 20:18:05.446 VideoManager:35 - video path: Android_Pixel 2/Videos/Verify Valid invalid Login.mp4
+[Android_Pixel 2 INFO ] 2020-06-10 20:18:16.999 ServerManager:21 - STARTING APPIUM SEVER
+[Android_Pixel 2 INFO ] 2020-06-10 20:18:18.721 ServerManager:31 - APPIUM SEVER STARTED
+[Android_Pixel 2 INFO ] 2020-06-10 20:18:18.737 DriverManager:26 - initializing Appium driver
+[Android_Pixel 2 INFO ] 2020-06-10 20:18:18.751 PropertyManager:18 - Loading config properties
+[Android_Pixel 2 INFO ] 2020-06-10 20:18:18.752 CapabilitiesManager:16 - getting capabilities
+[Android_Pixel 2 INFO ] 2020-06-10 20:18:18.754 CapabilitiesManager:32 - appUrl is/Users/sharadgupta/Documents/automation/AppiumCucumburFramework-testng/src/test/resources/app/btv.apk
+[Android_Pixel 2 INFO ] 2020-06-10 20:18:28.017 DriverManager:40 - driver is initialize
+[Android_Pixel 2 INFO ] 2020-06-10 20:19:30.700 BasePage:54 - Press login button
+[Android_Pixel 2 INFO ] 2020-06-10 20:19:38.206 BasePage:97 - rotate_pro_tip_text_view -->>Earnings Videos
+[Android_Pixel 2 INFO ] 2020-06-10 20:19:40.507 VideoManager:35 - video path: Android_Pixel 2/Videos/Verify Valid Login.mp4
+[Android_Pixel 2 INFO ] 2020-06-10 22:55:46.863 ServerManager:21 - STARTING APPIUM SEVER
+[Android_Pixel 2 INFO ] 2020-06-10 22:55:48.639 ServerManager:31 - APPIUM SEVER STARTED
+[Android_Pixel 2 INFO ] 2020-06-10 22:55:48.662 DriverManager:26 - initializing Appium driver
+[Android_Pixel 2 INFO ] 2020-06-10 22:55:48.680 PropertyManager:18 - Loading config properties
+[Android_Pixel 2 INFO ] 2020-06-10 22:55:48.682 CapabilitiesManager:16 - getting capabilities
+[Android_Pixel 2 INFO ] 2020-06-10 22:55:48.685 CapabilitiesManager:32 - appUrl is/Users/sharadgupta/Documents/automation/AppiumCucumburFramework-testng/src/test/resources/app/btv.apk
+[Android_Pixel 2 INFO ] 2020-06-10 22:55:59.985 DriverManager:40 - driver is initialize
+[Android_Pixel 2 INFO ] 2020-06-10 22:56:32.817 BasePage:54 - Press login button
+[Android_Pixel 2 INFO ] 2020-06-10 22:57:35.338 VideoManager:35 - video path: Android_Pixel 2/Videos/Verify Valid invalid Login.mp4
+[Android_Pixel 2 INFO ] 2020-06-10 22:58:36.758 VideoManager:35 - video path: Android_Pixel 2/Videos/Verify Valid Login.mp4
+[Android_Pixel 2 INFO ] 2020-06-10 23:00:40.438 ServerManager:21 - STARTING APPIUM SEVER
+[Android_Pixel 2 INFO ] 2020-06-10 23:00:42.167 ServerManager:31 - APPIUM SEVER STARTED
+[Android_Pixel 2 INFO ] 2020-06-10 23:00:42.194 DriverManager:26 - initializing Appium driver
+[Android_Pixel 2 INFO ] 2020-06-10 23:00:42.210 PropertyManager:18 - Loading config properties
+[Android_Pixel 2 INFO ] 2020-06-10 23:00:42.212 CapabilitiesManager:16 - getting capabilities
+[Android_Pixel 2 INFO ] 2020-06-10 23:00:42.214 CapabilitiesManager:32 - appUrl is/Users/sharadgupta/Documents/automation/AppiumCucumburFramework-testng/src/test/resources/app/btv.apk
+[Android_Pixel 2 INFO ] 2020-06-10 23:00:50.830 DriverManager:40 - driver is initialize
+[Android_Pixel 2 INFO ] 2020-06-10 23:02:02.071 BasePage:54 - Press login button
+[Android_Pixel 2 INFO ] 2020-06-10 23:02:04.294 LoginPage:22 - Login Screen is enabled----->true
+[Android_Pixel 2 INFO ] 2020-06-10 23:03:06.803 VideoManager:35 - video path: Android_Pixel 2/Videos/Verify Valid invalid Login.mp4
+[Android_Pixel 2 INFO ] 2020-06-10 23:04:08.207 VideoManager:35 - video path: Android_Pixel 2/Videos/Verify Valid Login.mp4
+[Android_Pixel 2 INFO ] 2020-06-10 23:06:17.940 ServerManager:21 - STARTING APPIUM SEVER
+[Android_Pixel 2 INFO ] 2020-06-10 23:06:19.349 ServerManager:31 - APPIUM SEVER STARTED
+[Android_Pixel 2 INFO ] 2020-06-10 23:06:19.364 DriverManager:26 - initializing Appium driver
+[Android_Pixel 2 INFO ] 2020-06-10 23:06:19.377 PropertyManager:18 - Loading config properties
+[Android_Pixel 2 INFO ] 2020-06-10 23:06:19.378 CapabilitiesManager:16 - getting capabilities
+[Android_Pixel 2 INFO ] 2020-06-10 23:06:19.380 CapabilitiesManager:32 - appUrl is/Users/sharadgupta/Documents/automation/AppiumCucumburFramework-testng/src/test/resources/app/btv.apk
+[Android_Pixel 2 INFO ] 2020-06-10 23:06:27.657 DriverManager:40 - driver is initialize
+[Android_Pixel 2 INFO ] 2020-06-10 23:06:46.658 BasePage:54 - Press login button
+[Android_Pixel 2 INFO ] 2020-06-10 23:06:48.398 LoginPage:22 - Login Screen is enabled----->true
+[Android_Pixel 2 INFO ] 2020-06-10 23:06:49.775 VideoManager:35 - video path: Android_Pixel 2/Videos/Verify Valid invalid Login.mp4
+[Android_Pixel 2 INFO ] 2020-06-10 23:07:51.473 VideoManager:35 - video path: Android_Pixel 2/Videos/Verify Valid Login.mp4
+[Android_Pixel 2 INFO ] 2020-06-10 23:28:25.043 ServerManager:21 - STARTING APPIUM SEVER
+[Android_Pixel 2 INFO ] 2020-06-10 23:28:26.445 ServerManager:31 - APPIUM SEVER STARTED
+[Android_Pixel 2 INFO ] 2020-06-10 23:28:26.460 DriverManager:26 - initializing Appium driver
+[Android_Pixel 2 INFO ] 2020-06-10 23:28:26.472 PropertyManager:18 - Loading config properties
+[Android_Pixel 2 INFO ] 2020-06-10 23:28:26.473 CapabilitiesManager:16 - getting capabilities
+[Android_Pixel 2 INFO ] 2020-06-10 23:28:26.475 CapabilitiesManager:32 - appUrl is/Users/sharadgupta/Documents/automation/AppiumCucumburFramework-testng/src/test/resources/app/btv.apk
+[Android_Pixel 2 INFO ] 2020-06-10 23:28:34.965 DriverManager:40 - driver is initialize
+[Android_Pixel 2 INFO ] 2020-06-10 23:28:56.311 BasePage:54 - Press login button
+[Android_Pixel 2 INFO ] 2020-06-10 23:28:57.946 LoginPage:22 - Login Screen is enabled----->true
+[Android_Pixel 2 INFO ] 2020-06-10 23:29:59.897 VideoManager:35 - video path: Android_Pixel 2/Videos/Verify Valid invalid Login.mp4
+[Android_Pixel 2 INFO ] 2020-06-10 23:31:03.600 VideoManager:35 - video path: Android_Pixel 2/Videos/Verify Valid Login.mp4
+[Android_Pixel 2 INFO ] 2020-06-10 23:35:25.463 ServerManager:21 - STARTING APPIUM SEVER
+[Android_Pixel 2 INFO ] 2020-06-10 23:35:26.859 ServerManager:31 - APPIUM SEVER STARTED
+[Android_Pixel 2 INFO ] 2020-06-10 23:35:26.875 DriverManager:26 - initializing Appium driver
+[Android_Pixel 2 INFO ] 2020-06-10 23:35:26.889 PropertyManager:18 - Loading config properties
+[Android_Pixel 2 INFO ] 2020-06-10 23:35:26.890 CapabilitiesManager:16 - getting capabilities
+[Android_Pixel 2 INFO ] 2020-06-10 23:35:26.892 CapabilitiesManager:32 - appUrl is/Users/sharadgupta/Documents/automation/AppiumCucumburFramework-testng/src/test/resources/app/btv.apk
+[Android_Pixel 2 INFO ] 2020-06-10 23:35:35.223 DriverManager:40 - driver is initialize
+[Android_Pixel 2 INFO ] 2020-06-10 23:35:59.660 BasePage:54 - Press login button
+[Android_Pixel 2 INFO ] 2020-06-10 23:36:02.085 VideoManager:35 - video path: Android_Pixel 2/Videos/Verify Valid invalid Login.mp4
+[Android_Pixel 2 INFO ] 2020-06-10 23:37:04.361 VideoManager:35 - video path: Android_Pixel 2/Videos/Verify Valid Login.mp4
+[Android_Pixel 2 INFO ] 2020-06-10 23:53:17.774 ServerManager:21 - STARTING APPIUM SEVER
+[Android_Pixel 2 INFO ] 2020-06-10 23:53:19.498 ServerManager:31 - APPIUM SEVER STARTED
+[Android_Pixel 2 INFO ] 2020-06-10 23:53:19.514 DriverManager:26 - initializing Appium driver
+[Android_Pixel 2 INFO ] 2020-06-10 23:53:19.527 PropertyManager:18 - Loading config properties
+[Android_Pixel 2 INFO ] 2020-06-10 23:53:19.528 CapabilitiesManager:16 - getting capabilities
+[Android_Pixel 2 INFO ] 2020-06-10 23:53:19.530 CapabilitiesManager:32 - appUrl is/Users/sharadgupta/Documents/automation/AppiumCucumburFramework-testng/src/test/resources/app/btv.apk
+[Android_Pixel 2 INFO ] 2020-06-10 23:53:27.868 DriverManager:40 - driver is initialize
+[Android_Pixel 2 INFO ] 2020-06-10 23:54:39.096 BasePage:54 - Press login button
+[Android_Pixel 2 INFO ] 2020-06-10 23:54:40.794 LoginPage:22 - Login Screen is enabled----->true
+[Android_Pixel 2 INFO ] 2020-06-10 23:55:43.069 VideoManager:35 - video path: Android_Pixel 2/Videos/Verify Valid invalid Login.mp4

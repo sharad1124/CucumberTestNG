@@ -1,3 +1,4 @@
+@test
 Feature: Pro Tip scenarios
   Scenario Outline: Verify Pro Tip screen
     Given I'm on Pro tip screen
