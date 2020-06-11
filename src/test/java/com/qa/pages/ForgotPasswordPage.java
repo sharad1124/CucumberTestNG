@@ -17,15 +17,18 @@ public class ForgotPasswordPage extends BasePage {
 
 
     public String getForgotScreenToolBar() {
-        return getAttribute(toolbar_title,"text");
+
+        return getText(toolbar_title,"Forgot_Screen_ToolBar_view -->>");
     }
 
     public String getForgotScreenHeading() {
-        return getAttribute(forget_password_text_view,"text");
+
+        return getText(forget_password_text_view,"Forgot_Screen_Heading_text_view -->>");
     }
 
     public String getButtonText() {
-        return getAttribute(forgot_text_view,"text");
+
+        return getText(forgot_text_view,"Forgot_Screen_Button_text_view -->>");
     }
 
     public boolean forgotButtonDisplayed() {
@@ -40,11 +43,12 @@ public class ForgotPasswordPage extends BasePage {
 
     public ForgotPasswordPage currentPassword(String currentEmailId) {
         clear(current_password_edit_text);
-        sendKeys(current_password_edit_text, currentEmailId, "yashimittal09+1@gmail.com");
+        sendKeys(current_password_edit_text, currentEmailId, currentEmailId);
         return this;
     }
 
     public String getReSendButtonText() {
+
         return getAttribute(resend_text_view,"text");
     }
 
@@ -57,6 +61,7 @@ public class ForgotPasswordPage extends BasePage {
         return this;
     }
     public String getSendButtonText() {
+
         return getAttribute(send_text_view,"text");
     }
 

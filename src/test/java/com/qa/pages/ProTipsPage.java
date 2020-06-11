@@ -98,6 +98,7 @@ public class ProTipsPage extends BasePage{
         return this;
     }
     public String getTextRotateScreen() {
+
         return getText(rotate_pro_tip_text_view,"rotate_pro_tip_text_view -->>");
     }
 

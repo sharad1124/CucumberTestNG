@@ -106,3 +106,106 @@
 [Android_Pixel 2 INFO ] 2020-06-11 00:38:00.079 LoginPage:22 - Login Screen is enabled----->true
 [Android_Pixel 2 INFO ] 2020-06-11 00:38:03.091 BasePage:97 - rotate_pro_tip_text_view -->>Earnings Videos
 [Android_Pixel 2 INFO ] 2020-06-11 00:38:04.402 VideoManager:35 - video path: Android_Pixel 2/Videos/Verify Valid Login.mp4
+[Android_Pixel 2 INFO ] 2020-06-11 13:50:14.697 ServerManager:21 - STARTING APPIUM SEVER
+[Android_Pixel 2 INFO ] 2020-06-11 13:50:16.454 ServerManager:31 - APPIUM SEVER STARTED
+[Android_Pixel 2 INFO ] 2020-06-11 13:50:16.470 DriverManager:26 - initializing Appium driver
+[Android_Pixel 2 INFO ] 2020-06-11 13:50:16.486 PropertyManager:18 - Loading config properties
+[Android_Pixel 2 INFO ] 2020-06-11 13:50:16.487 CapabilitiesManager:16 - getting capabilities
+[Android_Pixel 2 INFO ] 2020-06-11 13:50:16.490 CapabilitiesManager:32 - appUrl is/Users/sharadgupta/Documents/automation/AppiumCucumburFramework-testng/src/test/resources/app/btv.apk
+[Android_Pixel 2 INFO ] 2020-06-11 13:50:27.120 DriverManager:40 - driver is initialize
+[Android_Pixel 2 INFO ] 2020-06-11 13:50:29.375 MarketingPages:22 - Welcome  is enabled----->true
+[Android_Pixel 2 INFO ] 2020-06-11 13:51:08.093 VideoManager:35 - video path: Android_Pixel 2/Videos/Verify user is able to recover password by using forgot password.mp4
+[Android_Pixel 2 INFO ] 2020-06-11 13:53:24.201 ServerManager:21 - STARTING APPIUM SEVER
+[Android_Pixel 2 INFO ] 2020-06-11 13:53:25.622 ServerManager:31 - APPIUM SEVER STARTED
+[Android_Pixel 2 INFO ] 2020-06-11 13:53:25.637 DriverManager:26 - initializing Appium driver
+[Android_Pixel 2 INFO ] 2020-06-11 13:53:25.655 PropertyManager:18 - Loading config properties
+[Android_Pixel 2 INFO ] 2020-06-11 13:53:25.656 CapabilitiesManager:16 - getting capabilities
+[Android_Pixel 2 INFO ] 2020-06-11 13:53:25.659 CapabilitiesManager:32 - appUrl is/Users/sharadgupta/Documents/automation/AppiumCucumburFramework-testng/src/test/resources/app/btv.apk
+[Android_Pixel 2 INFO ] 2020-06-11 13:53:33.887 DriverManager:40 - driver is initialize
+[Android_Pixel 2 INFO ] 2020-06-11 13:53:36.071 MarketingPages:22 - Welcome  is enabled----->true
+[Android_Pixel 2 INFO ] 2020-06-11 13:54:42.200 BasePage:97 - Forgot_Screen_ToolBar_view -->>Forgot Password
+[Android_Pixel 2 INFO ] 2020-06-11 13:54:44.376 VideoManager:35 - video path: Android_Pixel 2/Videos/Verify user is able to recover password by using forgot password.mp4
+[Android_Pixel 2 INFO ] 2020-06-11 13:55:42.826 ServerManager:21 - STARTING APPIUM SEVER
+[Android_Pixel 2 INFO ] 2020-06-11 13:55:44.252 ServerManager:31 - APPIUM SEVER STARTED
+[Android_Pixel 2 INFO ] 2020-06-11 13:55:44.271 DriverManager:26 - initializing Appium driver
+[Android_Pixel 2 INFO ] 2020-06-11 13:55:44.290 PropertyManager:18 - Loading config properties
+[Android_Pixel 2 INFO ] 2020-06-11 13:55:44.291 CapabilitiesManager:16 - getting capabilities
+[Android_Pixel 2 INFO ] 2020-06-11 13:55:44.294 CapabilitiesManager:32 - appUrl is/Users/sharadgupta/Documents/automation/AppiumCucumburFramework-testng/src/test/resources/app/btv.apk
+[Android_Pixel 2 INFO ] 2020-06-11 13:55:53.473 DriverManager:40 - driver is initialize
+[Android_Pixel 2 INFO ] 2020-06-11 13:55:55.719 MarketingPages:22 - Welcome  is enabled----->true
+[Android_Pixel 2 INFO ] 2020-06-11 13:56:16.056 VideoManager:35 - video path: Android_Pixel 2/Videos/Verify user is able to recover password by using forgot password.mp4
+[Android_Pixel 2 INFO ] 2020-06-11 16:47:53.872 ServerManager:21 - STARTING APPIUM SEVER
+[Android_Pixel 2 INFO ] 2020-06-11 16:47:55.930 ServerManager:31 - APPIUM SEVER STARTED
+[Android_Pixel 2 INFO ] 2020-06-11 16:47:55.947 DriverManager:26 - initializing Appium driver
+[Android_Pixel 2 INFO ] 2020-06-11 16:47:55.962 PropertyManager:18 - Loading config properties
+[Android_Pixel 2 INFO ] 2020-06-11 16:47:55.963 CapabilitiesManager:16 - getting capabilities
+[Android_Pixel 2 INFO ] 2020-06-11 16:47:55.965 CapabilitiesManager:32 - appUrl is/Users/sharadgupta/Documents/automation/AppiumCucumburFramework-testng/src/test/resources/app/btv.apk
+[Android_Pixel 2 INFO ] 2020-06-11 16:48:07.689 DriverManager:40 - driver is initialize
+[Android_Pixel 2 INFO ] 2020-06-11 16:48:09.923 MarketingPages:22 - Welcome  is enabled----->true
+[Android_Pixel 2 INFO ] 2020-06-11 16:48:30.788 VideoManager:35 - video path: Android_Pixel 2/Videos/Verify user is able to recover password by using forgot password.mp4
+[Android_Pixel 2 INFO ] 2020-06-11 16:49:01.810 ServerManager:21 - STARTING APPIUM SEVER
+[Android_Pixel 2 INFO ] 2020-06-11 16:49:03.538 ServerManager:31 - APPIUM SEVER STARTED
+[Android_Pixel 2 INFO ] 2020-06-11 16:49:03.556 DriverManager:26 - initializing Appium driver
+[Android_Pixel 2 INFO ] 2020-06-11 16:49:03.571 PropertyManager:18 - Loading config properties
+[Android_Pixel 2 INFO ] 2020-06-11 16:49:03.572 CapabilitiesManager:16 - getting capabilities
+[Android_Pixel 2 INFO ] 2020-06-11 16:49:03.574 CapabilitiesManager:32 - appUrl is/Users/sharadgupta/Documents/automation/AppiumCucumburFramework-testng/src/test/resources/app/btv.apk
+[Android_Pixel 2 INFO ] 2020-06-11 16:49:11.549 DriverManager:40 - driver is initialize
+[Android_Pixel 2 INFO ] 2020-06-11 16:49:13.722 MarketingPages:22 - Welcome  is enabled----->true
+[Android_Pixel 2 INFO ] 2020-06-11 16:49:34.168 VideoManager:35 - video path: Android_Pixel 2/Videos/Verify user is able to recover password by using forgot password.mp4
+[Android_Pixel 2 INFO ] 2020-06-11 16:50:15.464 ServerManager:21 - STARTING APPIUM SEVER
+[Android_Pixel 2 INFO ] 2020-06-11 16:50:16.879 ServerManager:31 - APPIUM SEVER STARTED
+[Android_Pixel 2 INFO ] 2020-06-11 16:50:16.896 DriverManager:26 - initializing Appium driver
+[Android_Pixel 2 INFO ] 2020-06-11 16:50:16.912 PropertyManager:18 - Loading config properties
+[Android_Pixel 2 INFO ] 2020-06-11 16:50:16.913 CapabilitiesManager:16 - getting capabilities
+[Android_Pixel 2 INFO ] 2020-06-11 16:50:16.915 CapabilitiesManager:32 - appUrl is/Users/sharadgupta/Documents/automation/AppiumCucumburFramework-testng/src/test/resources/app/btv.apk
+[Android_Pixel 2 INFO ] 2020-06-11 16:50:26.221 DriverManager:40 - driver is initialize
+[Android_Pixel 2 INFO ] 2020-06-11 16:50:28.366 MarketingPages:22 - Welcome  is enabled----->true
+[Android_Pixel 2 INFO ] 2020-06-11 16:51:44.128 BasePage:97 - Forgot_Screen_ToolBar_view -->>Forgot Password
+[Android_Pixel 2 INFO ] 2020-06-11 16:51:48.349 VideoManager:35 - video path: Android_Pixel 2/Videos/Verify user is able to recover password by using forgot password.mp4
+[Android_Pixel 2 INFO ] 2020-06-11 16:52:44.672 ServerManager:21 - STARTING APPIUM SEVER
+[Android_Pixel 2 INFO ] 2020-06-11 16:52:46.109 ServerManager:31 - APPIUM SEVER STARTED
+[Android_Pixel 2 INFO ] 2020-06-11 16:52:46.125 DriverManager:26 - initializing Appium driver
+[Android_Pixel 2 INFO ] 2020-06-11 16:52:46.141 PropertyManager:18 - Loading config properties
+[Android_Pixel 2 INFO ] 2020-06-11 16:52:46.142 CapabilitiesManager:16 - getting capabilities
+[Android_Pixel 2 INFO ] 2020-06-11 16:52:46.144 CapabilitiesManager:32 - appUrl is/Users/sharadgupta/Documents/automation/AppiumCucumburFramework-testng/src/test/resources/app/btv.apk
+[Android_Pixel 2 INFO ] 2020-06-11 16:52:54.739 DriverManager:40 - driver is initialize
+[Android_Pixel 2 INFO ] 2020-06-11 16:52:56.946 MarketingPages:22 - Welcome  is enabled----->true
+[Android_Pixel 2 INFO ] 2020-06-11 16:53:15.936 VideoManager:35 - video path: Android_Pixel 2/Videos/Verify user is able to recover password by using forgot password.mp4
+[Android_Pixel 2 INFO ] 2020-06-11 16:58:59.146 ServerManager:21 - STARTING APPIUM SEVER
+[Android_Pixel 2 INFO ] 2020-06-11 16:59:00.877 ServerManager:31 - APPIUM SEVER STARTED
+[Android_Pixel 2 INFO ] 2020-06-11 16:59:00.892 DriverManager:26 - initializing Appium driver
+[Android_Pixel 2 INFO ] 2020-06-11 16:59:00.907 PropertyManager:18 - Loading config properties
+[Android_Pixel 2 INFO ] 2020-06-11 16:59:00.908 CapabilitiesManager:16 - getting capabilities
+[Android_Pixel 2 INFO ] 2020-06-11 16:59:00.911 CapabilitiesManager:32 - appUrl is/Users/sharadgupta/Documents/automation/AppiumCucumburFramework-testng/src/test/resources/app/btv.apk
+[Android_Pixel 2 INFO ] 2020-06-11 16:59:09.122 DriverManager:40 - driver is initialize
+[Android_Pixel 2 INFO ] 2020-06-11 16:59:11.294 MarketingPages:22 - Welcome  is enabled----->true
+[Android_Pixel 2 INFO ] 2020-06-11 17:00:16.067 VideoManager:35 - video path: Android_Pixel 2/Videos/Verify user is able to recover password by using forgot password.mp4
+[Android_Pixel 2 INFO ] 2020-06-11 17:05:08.456 ServerManager:21 - STARTING APPIUM SEVER
+[Android_Pixel 2 INFO ] 2020-06-11 17:05:09.865 ServerManager:31 - APPIUM SEVER STARTED
+[Android_Pixel 2 INFO ] 2020-06-11 17:05:09.880 DriverManager:26 - initializing Appium driver
+[Android_Pixel 2 INFO ] 2020-06-11 17:05:09.896 PropertyManager:18 - Loading config properties
+[Android_Pixel 2 INFO ] 2020-06-11 17:05:09.897 CapabilitiesManager:16 - getting capabilities
+[Android_Pixel 2 INFO ] 2020-06-11 17:05:09.900 CapabilitiesManager:32 - appUrl is/Users/sharadgupta/Documents/automation/AppiumCucumburFramework-testng/src/test/resources/app/btv.apk
+[Android_Pixel 2 INFO ] 2020-06-11 17:05:18.812 DriverManager:40 - driver is initialize
+[Android_Pixel 2 INFO ] 2020-06-11 17:05:20.985 MarketingPages:22 - Welcome  is enabled----->true
+[Android_Pixel 2 INFO ] 2020-06-11 17:06:20.392 BasePage:97 - Forgot_Screen_Button_text_view -->>Forgot password?
+[Android_Pixel 2 INFO ] 2020-06-11 17:06:22.228 VideoManager:35 - video path: Android_Pixel 2/Videos/Verify user is able to recover password by using forgot password.mp4
+[Android_Pixel 2 INFO ] 2020-06-11 17:07:06.339 ServerManager:21 - STARTING APPIUM SEVER
+[Android_Pixel 2 INFO ] 2020-06-11 17:07:08.081 ServerManager:31 - APPIUM SEVER STARTED
+[Android_Pixel 2 INFO ] 2020-06-11 17:07:08.100 DriverManager:26 - initializing Appium driver
+[Android_Pixel 2 INFO ] 2020-06-11 17:07:08.118 PropertyManager:18 - Loading config properties
+[Android_Pixel 2 INFO ] 2020-06-11 17:07:08.119 CapabilitiesManager:16 - getting capabilities
+[Android_Pixel 2 INFO ] 2020-06-11 17:07:08.121 CapabilitiesManager:32 - appUrl is/Users/sharadgupta/Documents/automation/AppiumCucumburFramework-testng/src/test/resources/app/btv.apk
+[Android_Pixel 2 INFO ] 2020-06-11 17:07:16.573 DriverManager:40 - driver is initialize
+[Android_Pixel 2 INFO ] 2020-06-11 17:07:20.035 VideoManager:35 - video path: Android_Pixel 2/Videos/Verify user is able to recover password by using forgot password.mp4
+[Android_Pixel 2 INFO ] 2020-06-11 17:08:22.103 ServerManager:21 - STARTING APPIUM SEVER
+[Android_Pixel 2 INFO ] 2020-06-11 17:08:22.853 ServerManager:31 - APPIUM SEVER STARTED
+[Android_Pixel 2 INFO ] 2020-06-11 17:08:22.867 DriverManager:26 - initializing Appium driver
+[Android_Pixel 2 INFO ] 2020-06-11 17:08:22.880 PropertyManager:18 - Loading config properties
+[Android_Pixel 2 INFO ] 2020-06-11 17:08:22.881 CapabilitiesManager:16 - getting capabilities
+[Android_Pixel 2 INFO ] 2020-06-11 17:08:22.883 CapabilitiesManager:32 - appUrl is/Users/sharadgupta/Documents/automation/AppiumCucumburFramework-testng/src/test/resources/app/btv.apk
+[Android_Pixel 2 INFO ] 2020-06-11 17:08:30.781 DriverManager:40 - driver is initialize
+[Android_Pixel 2 INFO ] 2020-06-11 17:08:33.014 MarketingPages:22 - Welcome  is enabled----->true
+[Android_Pixel 2 INFO ] 2020-06-11 17:09:28.453 BasePage:97 - Forgot_Screen_Button_text_view -->>Forgot password?
+[Android_Pixel 2 INFO ] 2020-06-11 17:09:29.207 BasePage:97 - Forgot_Screen_ToolBar_view -->>Forgot Password
+[Android_Pixel 2 INFO ] 2020-06-11 17:09:32.970 VideoManager:35 - video path: Android_Pixel 2/Videos/Verify user is able to recover password by using forgot password.mp4

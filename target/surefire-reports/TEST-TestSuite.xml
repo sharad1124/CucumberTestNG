@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="TestSuite" time="259.189" tests="4" errors="0" skipped="0" failures="1">
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="TestSuite" time="79.472" tests="1" errors="0" skipped="0" failures="0">
   <properties>
     <property name="gopherProxySet" value="false"/>
     <property name="awt.toolkit" value="sun.lwawt.macosx.LWCToolkit"/>
@@ -16,7 +16,7 @@
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="user.country" value="US"/>
     <property name="sun.boot.library.path" value="/Library/Java/JavaVirtualMachines/jdk-11.0.1.jdk/Contents/Home/lib"/>
-    <property name="sun.java.command" value="/Users/sharadgupta/Documents/automation/AppiumCucumburFramework-testng/target/surefire/surefirebooter10487816306525541005.jar /Users/sharadgupta/Documents/automation/AppiumCucumburFramework-testng/target/surefire 2020-06-11T00-33-53_072-jvmRun1 surefire7737283237689092796tmp surefire_08212431637696698446tmp"/>
+    <property name="sun.java.command" value="/Users/sharadgupta/Documents/automation/AppiumCucumburFramework-testng/target/surefire/surefirebooter13478768844165142503.jar /Users/sharadgupta/Documents/automation/AppiumCucumburFramework-testng/target/surefire 2020-06-11T17-08-21_138-jvmRun1 surefire1174886886932899279tmp surefire_011209687491808723319tmp"/>
     <property name="http.nonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
     <property name="jdk.debug" value="release"/>
     <property name="surefire.test.class.path" value="/Users/sharadgupta/Documents/automation/AppiumCucumburFramework-testng/target/test-classes:/Users/sharadgupta/Documents/automation/AppiumCucumburFramework-testng/target/classes:/Users/sharadgupta/.m2/repository/io/cucumber/cucumber-java/5.6.0/cucumber-java-5.6.0.jar:/Users/sharadgupta/.m2/repository/io/cucumber/cucumber-core/5.6.0/cucumber-core-5.6.0.jar:/Users/sharadgupta/.m2/repository/io/cucumber/cucumber-gherkin/5.6.0/cucumber-gherkin-5.6.0.jar:/Users/sharadgupta/.m2/repository/io/cucumber/cucumber-gherkin-vintage/5.6.0/cucumber-gherkin-vintage-5.6.0.jar:/Users/sharadgupta/.m2/repository/io/cucumber/tag-expressions/2.0.4/tag-expressions-2.0.4.jar:/Users/sharadgupta/.m2/repository/io/cucumber/cucumber-expressions/8.3.1/cucumber-expressions-8.3.1.jar:/Users/sharadgupta/.m2/repository/io/cucumber/datatable/3.3.1/datatable-3.3.1.jar:/Users/sharadgupta/.m2/repository/io/cucumber/cucumber-plugin/5.6.0/cucumber-plugin-5.6.0.jar:/Users/sharadgupta/.m2/repository/io/cucumber/docstring/5.6.0/docstring-5.6.0.jar:/Users/sharadgupta/.m2/repository/org/apiguardian/apiguardian-api/1.1.0/apiguardian-api-1.1.0.jar:/Users/sharadgupta/.m2/repository/io/cucumber/cucumber-junit/5.6.0/cucumber-junit-5.6.0.jar:/Users/sharadgupta/.m2/repository/org/json/json/20190722/json-20190722.jar:/Users/sharadgupta/.m2/repository/org/apache/logging/log4j/log4j-core/2.13.1/log4j-core-2.13.1.jar:/Users/sharadgupta/.m2/repository/org/apache/logging/log4j/log4j-api/2.13.1/log4j-api-2.13.1.jar:/Users/sharadgupta/.m2/repository/io/appium/java-client/7.3.0/java-client-7.3.0.jar:/Users/sharadgupta/.m2/repository/org/seleniumhq/selenium/selenium-java/3.141.59/selenium-java-3.141.59.jar:/Users/sharadgupta/.m2/repository/org/seleniumhq/selenium/selenium-chrome-driver/3.141.59/selenium-chrome-driver-3.141.59.jar:/Users/sharadgupta/.m2/repository/org/seleniumhq/selenium/selenium-edge-driver/3.141.59/selenium-edge-driver-3.141.59.jar:/Users/sharadgupta/.m2/repository/org/seleniumhq/selenium/selenium-firefox-driver/3.141.59/selenium-firefox-driver-3.141.59.jar:/Users/sharadgupta/.m2/repository/org/seleniumhq/selenium/selenium-ie-driver/3.141.59/selenium-ie-driver-3.141.59.jar:/Users/sharadgupta/.m2/repository/org/seleniumhq/selenium/selenium-opera-driver/3.141.59/selenium-opera-driver-3.141.59.jar:/Users/sharadgupta/.m2/repository/org/seleniumhq/selenium/selenium-remote-driver/3.141.59/selenium-remote-driver-3.141.59.jar:/Users/sharadgupta/.m2/repository/org/seleniumhq/selenium/selenium-safari-driver/3.141.59/selenium-safari-driver-3.141.59.jar:/Users/sharadgupta/.m2/repository/net/bytebuddy/byte-buddy/1.8.15/byte-buddy-1.8.15.jar:/Users/sharadgupta/.m2/repository/org/apache/commons/commons-exec/1.3/commons-exec-1.3.jar:/Users/sharadgupta/.m2/repository/com/google/guava/guava/25.0-jre/guava-25.0-jre.jar:/Users/sharadgupta/.m2/repository/com/google/code/findbugs/jsr305/1.3.9/jsr305-1.3.9.jar:/Users/sharadgupta/.m2/repository/org/checkerframework/checker-compat-qual/2.0.0/checker-compat-qual-2.0.0.jar:/Users/sharadgupta/.m2/repository/com/google/errorprone/error_prone_annotations/2.1.3/error_prone_annotations-2.1.3.jar:/Users/sharadgupta/.m2/repository/com/google/j2objc/j2objc-annotations/1.1/j2objc-annotations-1.1.jar:/Users/sharadgupta/.m2/repository/org/codehaus/mojo/animal-sniffer-annotations/1.14/animal-sniffer-annotations-1.14.jar:/Users/sharadgupta/.m2/repository/com/squareup/okhttp3/okhttp/3.11.0/okhttp-3.11.0.jar:/Users/sharadgupta/.m2/repository/com/squareup/okio/okio/1.14.0/okio-1.14.0.jar:/Users/sharadgupta/.m2/repository/org/seleniumhq/selenium/selenium-support/3.141.59/selenium-support-3.141.59.jar:/Users/sharadgupta/.m2/repository/org/seleniumhq/selenium/selenium-api/3.141.59/selenium-api-3.141.59.jar:/Users/sharadgupta/.m2/repository/com/google/code/gson/gson/2.8.5/gson-2.8.5.jar:/Users/sharadgupta/.m2/repository/org/apache/httpcomponents/httpclient/4.5.9/httpclient-4.5.9.jar:/Users/sharadgupta/.m2/repository/org/apache/httpcomponents/httpcore/4.4.11/httpcore-4.4.11.jar:/Users/sharadgupta/.m2/repository/commons-logging/commons-logging/1.2/commons-logging-1.2.jar:/Users/sharadgupta/.m2/repository/commons-codec/commons-codec/1.11/commons-codec-1.11.jar:/Users/sharadgupta/.m2/repository/cglib/cglib/3.2.12/cglib-3.2.12.jar:/Users/sharadgupta/.m2/repository/org/ow2/asm/asm/7.1/asm-7.1.jar:/Users/sharadgupta/.m2/repository/commons-validator/commons-validator/1.6/commons-validator-1.6.jar:/Users/sharadgupta/.m2/repository/commons-beanutils/commons-beanutils/1.9.2/commons-beanutils-1.9.2.jar:/Users/sharadgupta/.m2/repository/commons-digester/commons-digester/1.8.1/commons-digester-1.8.1.jar:/Users/sharadgupta/.m2/repository/commons-collections/commons-collections/3.2.2/commons-collections-3.2.2.jar:/Users/sharadgupta/.m2/repository/org/apache/commons/commons-lang3/3.9/commons-lang3-3.9.jar:/Users/sharadgupta/.m2/repository/commons-io/commons-io/2.6/commons-io-2.6.jar:/Users/sharadgupta/.m2/repository/org/springframework/spring-context/5.1.8.RELEASE/spring-context-5.1.8.RELEASE.jar:/Users/sharadgupta/.m2/repository/org/springframework/spring-aop/5.1.8.RELEASE/spring-aop-5.1.8.RELEASE.jar:/Users/sharadgupta/.m2/repository/org/springframework/spring-beans/5.1.8.RELEASE/spring-beans-5.1.8.RELEASE.jar:/Users/sharadgupta/.m2/repository/org/springframework/spring-core/5.1.8.RELEASE/spring-core-5.1.8.RELEASE.jar:/Users/sharadgupta/.m2/repository/org/springframework/spring-jcl/5.1.8.RELEASE/spring-jcl-5.1.8.RELEASE.jar:/Users/sharadgupta/.m2/repository/org/springframework/spring-expression/5.1.8.RELEASE/spring-expression-5.1.8.RELEASE.jar:/Users/sharadgupta/.m2/repository/org/aspectj/aspectjweaver/1.9.4/aspectjweaver-1.9.4.jar:/Users/sharadgupta/.m2/repository/org/slf4j/slf4j-api/1.7.26/slf4j-api-1.7.26.jar:/Users/sharadgupta/.m2/repository/junit/junit/4.12/junit-4.12.jar:/Users/sharadgupta/.m2/repository/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3.jar:/Users/sharadgupta/.m2/repository/de/monochromata/cucumber/reporting-plugin/4.0.52/reporting-plugin-4.0.52.jar:/Users/sharadgupta/.m2/repository/io/cucumber/gherkin/13.0.0/gherkin-13.0.0.jar:/Users/sharadgupta/.m2/repository/io/cucumber/messages/12.0.0/messages-12.0.0.jar:/Users/sharadgupta/.m2/repository/net/masterthought/cucumber-reporting/5.3.0/cucumber-reporting-5.3.0.jar:/Users/sharadgupta/.m2/repository/com/fasterxml/jackson/core/jackson-databind/2.10.1/jackson-databind-2.10.1.jar:/Users/sharadgupta/.m2/repository/com/fasterxml/jackson/core/jackson-annotations/2.10.1/jackson-annotations-2.10.1.jar:/Users/sharadgupta/.m2/repository/com/fasterxml/jackson/core/jackson-core/2.10.1/jackson-core-2.10.1.jar:/Users/sharadgupta/.m2/repository/com/fasterxml/jackson/datatype/jackson-datatype-jsr310/2.10.1/jackson-datatype-jsr310-2.10.1.jar:/Users/sharadgupta/.m2/repository/org/apache/velocity/velocity-engine-core/2.1/velocity-engine-core-2.1.jar:/Users/sharadgupta/.m2/repository/joda-time/joda-time/2.10.5/joda-time-2.10.5.jar:/Users/sharadgupta/.m2/repository/org/codehaus/plexus/plexus-utils/3.3.0/plexus-utils-3.3.0.jar:/Users/sharadgupta/.m2/repository/org/jsoup/jsoup/1.12.1/jsoup-1.12.1.jar:/Users/sharadgupta/.m2/repository/com/googlecode/owasp-java-html-sanitizer/owasp-java-html-sanitizer/20191001.1/owasp-java-html-sanitizer-20191001.1.jar:/Users/sharadgupta/.m2/repository/commons-configuration/commons-configuration/1.10/commons-configuration-1.10.jar:/Users/sharadgupta/.m2/repository/commons-lang/commons-lang/2.6/commons-lang-2.6.jar:/Users/sharadgupta/.m2/repository/io/cucumber/cucumber-testng/5.6.0/cucumber-testng-5.6.0.jar:/Users/sharadgupta/.m2/repository/org/testng/testng/7.1.0/testng-7.1.0.jar:/Users/sharadgupta/.m2/repository/com/beust/jcommander/1.72/jcommander-1.72.jar:/Users/sharadgupta/.m2/repository/com/google/inject/guice/4.1.0/guice-4.1.0-no_aop.jar:/Users/sharadgupta/.m2/repository/javax/inject/javax.inject/1/javax.inject-1.jar:/Users/sharadgupta/.m2/repository/aopalliance/aopalliance/1.0/aopalliance-1.0.jar:/Users/sharadgupta/.m2/repository/org/yaml/snakeyaml/1.21/snakeyaml-1.21.jar:/Users/sharadgupta/.m2/repository/org/apache/maven/surefire/surefire-testng-utils/2.22.0/surefire-testng-utils-2.22.0.jar:/Users/sharadgupta/.m2/repository/org/apache/maven/surefire/surefire-grouper/2.22.0/surefire-grouper-2.22.0.jar:"/>
@@ -33,7 +33,7 @@
     <property name="java.specification.name" value="Java Platform API Specification"/>
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="java.awt.graphicsenv" value="sun.awt.CGraphicsEnvironment"/>
-    <property name="surefire.real.class.path" value="/Users/sharadgupta/Documents/automation/AppiumCucumburFramework-testng/target/surefire/surefirebooter10487816306525541005.jar"/>
+    <property name="surefire.real.class.path" value="/Users/sharadgupta/Documents/automation/AppiumCucumburFramework-testng/target/surefire/surefirebooter13478768844165142503.jar"/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
     <property name="ftp.nonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
     <property name="java.runtime.version" value="11.0.1+13-LTS"/>
@@ -61,121 +61,5 @@
     <property name="java.class.version" value="55.0"/>
     <property name="socksNonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
   </properties>
-  <testcase name="scenario" classname="com.qa.runners.MyTestNGRunnerTest" time="19.362"/>
-  <testcase name="scenario" classname="com.qa.runners.MyTestNGRunnerTest" time="64.959"/>
-  <testcase name="scenario" classname="com.qa.runners.MyTestNGRunnerTest" time="130.628">
-    <failure message="Expected condition failed: waiting for visibility of Located by By.chained({By.id: com.earningvideo:id/toolbar_title}) (tried for 60 second(s) with 500 milliseconds interval)" type="org.openqa.selenium.TimeoutException">org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of Located by By.chained({By.id: com.earningvideo:id/toolbar_title}) (tried for 60 second(s) with 500 milliseconds interval)
-Caused by: org.openqa.selenium.NoSuchElementException: Can't locate an element by this strategy: By.chained({By.id: com.earningvideo:id/toolbar_title})
-Caused by: org.openqa.selenium.TimeoutException: Expected condition failed: waiting for io.appium.java_client.pagefactory.AppiumElementLocator$WaitingFunction@173417a (tried for 1 second(s) with 500 milliseconds interval)
-Caused by: org.openqa.selenium.NoSuchElementException: 
-Cannot locate an element using By.chained({By.id: com.earningvideo:id/toolbar_title})
-For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
-Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
-System info: host: 'INLaptop140.local', ip: 'fe80:0:0:0:1c2b:550d:90fa:162%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.14.6', java.version: '11.0.1'
-Driver info: driver.version: AndroidDriver
-</failure>
-    <system-out><![CDATA[
-@test
-Scenario Outline: Verify Valid invalid Login               # src/test/resources/03_Login.feature:12
-  When I am on login page                                  # com.qa.stepdef.LoginPageStepDef.i_am_on_login_page()
-  And I enter email as "yashimittal09@gmail.com"           # com.qa.stepdef.LoginPageStepDef.iEnterEmailAs(java.lang.String)
-  And I enter password as "Password1124!"                  # com.qa.stepdef.LoginPageStepDef.iEnterPasswordAs(java.lang.String)
-[INFO ] 2020-06-11 00:36:29.810 com.qa.pages.BasePage:54 - Press login button
-[INFO ] 2020-06-11 00:36:31.583 com.qa.pages.LoginPage:22 - Login Screen is enabled----->true
-  And I tap on Sing in button                              # com.qa.stepdef.LoginPageStepDef.iITapOnSingInButton()
-  Then I should view the dashboard title "Earnings Videos" # com.qa.stepdef.LoginPageStepDef.i_should_view_the_dashboard_title(java.lang.String)
-      org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of Located by By.chained({By.id: com.earningvideo:id/toolbar_title}) (tried for 60 second(s) with 500 milliseconds interval)
-	at org.openqa.selenium.support.ui.WebDriverWait.timeoutException(WebDriverWait.java:95)
-	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:272)
-	at com.qa.pages.BasePage.waitForVisibility(BasePage.java:34)
-	at com.qa.pages.BasePage.getAttribute(BasePage.java:76)
-	at com.qa.pages.BasePage.getText(BasePage.java:89)
-	at com.qa.pages.DashboardPage.getHeadingText(DashboardPage.java:48)
-	at com.qa.stepdef.LoginPageStepDef.i_should_view_the_dashboard_title(LoginPageStepDef.java:37)
-	at ✽.I should view the dashboard title "Earnings Videos"(file:///Users/sharadgupta/Documents/automation/AppiumCucumburFramework-testng/src/test/resources/03_Login.feature:9)
-Caused by: org.openqa.selenium.NoSuchElementException: Can't locate an element by this strategy: By.chained({By.id: com.earningvideo:id/toolbar_title})
-	at io.appium.java_client.pagefactory.AppiumElementLocator.findElement(AppiumElementLocator.java:126)
-	at io.appium.java_client.pagefactory.interceptors.InterceptorOfASingleElement.intercept(InterceptorOfASingleElement.java:59)
-	at io.appium.java_client.android.AndroidElement$$EnhancerByCGLIB$$b598166c.isDisplayed(<generated>)
-	at org.openqa.selenium.support.ui.ExpectedConditions.elementIfVisible(ExpectedConditions.java:314)
-	at org.openqa.selenium.support.ui.ExpectedConditions.access$000(ExpectedConditions.java:43)
-	at org.openqa.selenium.support.ui.ExpectedConditions$10.apply(ExpectedConditions.java:300)
-	at org.openqa.selenium.support.ui.ExpectedConditions$10.apply(ExpectedConditions.java:297)
-	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:249)
-	at com.qa.pages.BasePage.waitForVisibility(BasePage.java:34)
-	at com.qa.pages.BasePage.getAttribute(BasePage.java:76)
-	at com.qa.pages.BasePage.getText(BasePage.java:89)
-	at com.qa.pages.DashboardPage.getHeadingText(DashboardPage.java:48)
-	at com.qa.stepdef.LoginPageStepDef.i_should_view_the_dashboard_title(LoginPageStepDef.java:37)
-	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
-	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
-	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
-	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
-	at io.cucumber.java.Invoker.invoke(Invoker.java:27)
-	at io.cucumber.java.JavaStepDefinition.execute(JavaStepDefinition.java:27)
-	at io.cucumber.core.runner.PickleStepDefinitionMatch.runStep(PickleStepDefinitionMatch.java:63)
-	at io.cucumber.core.runner.TestStep.executeStep(TestStep.java:64)
-	at io.cucumber.core.runner.TestStep.run(TestStep.java:49)
-	at io.cucumber.core.runner.PickleStepTestStep.run(PickleStepTestStep.java:46)
-	at io.cucumber.core.runner.TestCase.run(TestCase.java:51)
-	at io.cucumber.core.runner.Runner.runPickle(Runner.java:67)
-	at io.cucumber.testng.TestNGCucumberRunner.runScenario(TestNGCucumberRunner.java:124)
-	at com.qa.runners.RunnerBase.scenario(RunnerBase.java:47)
-	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
-	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
-	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
-	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
-	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:134)
-	at org.testng.internal.TestInvoker.invokeMethod(TestInvoker.java:597)
-	at org.testng.internal.TestInvoker.invokeTestMethod(TestInvoker.java:173)
-	at org.testng.internal.MethodRunner.runInSequence(MethodRunner.java:46)
-	at org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:816)
-	at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:146)
-	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
-	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128)
-	at java.base/java.util.ArrayList.forEach(ArrayList.java:1540)
-	at org.testng.TestRunner.privateRun(TestRunner.java:766)
-	at org.testng.TestRunner.run(TestRunner.java:587)
-	at org.testng.SuiteRunner.runTest(SuiteRunner.java:384)
-	at org.testng.SuiteRunner.access$000(SuiteRunner.java:28)
-	at org.testng.SuiteRunner$SuiteWorker.run(SuiteRunner.java:425)
-	at org.testng.internal.thread.ThreadUtil.lambda$execute$0(ThreadUtil.java:68)
-	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
-	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
-	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
-	at java.base/java.lang.Thread.run(Thread.java:834)
-Caused by: org.openqa.selenium.TimeoutException: Expected condition failed: waiting for io.appium.java_client.pagefactory.AppiumElementLocator$WaitingFunction@173417a (tried for 1 second(s) with 500 milliseconds interval)
-	at org.openqa.selenium.support.ui.FluentWait.timeoutException(FluentWait.java:304)
-	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:272)
-	at io.appium.java_client.pagefactory.AppiumElementLocator.waitFor(AppiumElementLocator.java:99)
-	at io.appium.java_client.pagefactory.AppiumElementLocator.findElement(AppiumElementLocator.java:119)
-	... 49 more
-Caused by: org.openqa.selenium.NoSuchElementException: Cannot locate an element using By.chained({By.id: com.earningvideo:id/toolbar_title})
-For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
-Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
-System info: host: 'INLaptop140.local', ip: 'fe80:0:0:0:1c2b:550d:90fa:162%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.14.6', java.version: '11.0.1'
-Driver info: driver.version: AndroidDriver
-	at io.appium.java_client.pagefactory.bys.builder.ByChained.findElement(ByChained.java:74)
-	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:315)
-	at io.appium.java_client.DefaultGenericMobileDriver.findElement(DefaultGenericMobileDriver.java:57)
-	at io.appium.java_client.AppiumDriver.findElement(AppiumDriver.java:1)
-	at io.appium.java_client.android.AndroidDriver.findElement(AndroidDriver.java:1)
-	at io.appium.java_client.pagefactory.bys.ContentMappedBy.findElement(ContentMappedBy.java:50)
-	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:315)
-	at io.appium.java_client.DefaultGenericMobileDriver.findElement(DefaultGenericMobileDriver.java:57)
-	at io.appium.java_client.AppiumDriver.findElement(AppiumDriver.java:1)
-	at io.appium.java_client.android.AndroidDriver.findElement(AndroidDriver.java:1)
-	at io.appium.java_client.pagefactory.AppiumElementLocator.lambda$0(AppiumElementLocator.java:120)
-	at io.appium.java_client.pagefactory.AppiumElementLocator$WaitingFunction.apply(AppiumElementLocator.java:172)
-	at io.appium.java_client.pagefactory.AppiumElementLocator$WaitingFunction.apply(AppiumElementLocator.java:1)
-	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:249)
-	... 51 more
-
-
-    Embedding Verify Valid invalid Login [image/png 79742 bytes]
-
-[INFO ] 2020-06-11 00:37:35.565 com.qa.utils.VideoManager:35 - video path: Android_Pixel 2/Videos/Verify Valid invalid Login.mp4
-]]></system-out>
-  </testcase>
-  <testcase name="scenario" classname="com.qa.runners.MyTestNGRunnerTest" time="29.225"/>
+  <testcase name="scenario" classname="com.qa.runners.MyTestNGRunnerTest" time="66.768"/>
 </testsuite>

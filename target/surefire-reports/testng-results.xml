@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results ignored="0" total="4" passed="3" failed="1" skipped="0">
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2020-06-11T00:33:53 IST" name="Suite" finished-at="2020-06-11T00:38:12 IST" duration-ms="258683">
+  <suite started-at="2020-06-11T17:08:21 IST" name="Suite" finished-at="2020-06-11T17:09:40 IST" duration-ms="79000">
     <groups>
       <group name="cucumber">
         <method signature="RunnerBase.scenario(io.cucumber.testng.PickleWrapper, io.cucumber.testng.FeatureWrapper)[pri:0, instance:com.qa.runners.MyTestNGRunnerTest@37ceb1df]" name="scenario" class="com.qa.runners.RunnerBase"/>
       </group> <!-- cucumber -->
     </groups>
-    <test started-at="2020-06-11T00:33:53 IST" name="Pixel 2" finished-at="2020-06-11T00:38:12 IST" duration-ms="258683">
+    <test started-at="2020-06-11T17:08:21 IST" name="Pixel 2" finished-at="2020-06-11T17:09:40 IST" duration-ms="79000">
       <class name="com.qa.runners.MyTestNGRunnerTest">
-        <test-method is-config="true" signature="setUpClass(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.qa.runners.MyTestNGRunnerTest@37ceb1df]" started-at="2020-06-11T00:33:53 IST" name="setUpClass" finished-at="2020-06-11T00:34:04 IST" duration-ms="11260" status="PASS">
+        <test-method is-config="true" signature="setUpClass(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.qa.runners.MyTestNGRunnerTest@37ceb1df]" started-at="2020-06-11T17:08:21 IST" name="setUpClass" finished-at="2020-06-11T17:08:30 IST" duration-ms="9175" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -36,165 +36,23 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUpClass -->
-        <test-method signature="scenario(io.cucumber.testng.PickleWrapper, io.cucumber.testng.FeatureWrapper)[pri:0, instance:com.qa.runners.MyTestNGRunnerTest@37ceb1df]" started-at="2020-06-11T00:34:04 IST" name="scenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2020-06-11T00:34:24 IST" duration-ms="19360" status="PASS">
+        <test-method signature="scenario(io.cucumber.testng.PickleWrapper, io.cucumber.testng.FeatureWrapper)[pri:0, instance:com.qa.runners.MyTestNGRunnerTest@37ceb1df]" started-at="2020-06-11T17:08:30 IST" name="scenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2020-06-11T17:09:37 IST" duration-ms="66767" status="PASS">
           <params>
             <param index="0">
               <value>
-                <![CDATA["Verify Pro Tip screen"]]>
+                <![CDATA["Verify user is able to recover password by using forgot password"]]>
               </value>
             </param>
             <param index="1">
               <value>
-                <![CDATA["Pro Tip scenarios"]]>
+                <![CDATA["Verify Forgot Password"]]>
               </value>
             </param>
           </params>
           <reporter-output>
           </reporter-output>
         </test-method> <!-- scenario -->
-        <test-method signature="scenario(io.cucumber.testng.PickleWrapper, io.cucumber.testng.FeatureWrapper)[pri:0, instance:com.qa.runners.MyTestNGRunnerTest@37ceb1df]" started-at="2020-06-11T00:34:24 IST" name="scenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2020-06-11T00:35:29 IST" duration-ms="64961" status="PASS">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA["Verify marketing screen"]]>
-              </value>
-            </param>
-            <param index="1">
-              <value>
-                <![CDATA["Marketing scenarios"]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- scenario -->
-        <test-method signature="scenario(io.cucumber.testng.PickleWrapper, io.cucumber.testng.FeatureWrapper)[pri:0, instance:com.qa.runners.MyTestNGRunnerTest@37ceb1df]" started-at="2020-06-11T00:35:29 IST" name="scenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2020-06-11T00:37:39 IST" duration-ms="130619" status="FAIL">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA["Verify Valid invalid Login"]]>
-              </value>
-            </param>
-            <param index="1">
-              <value>
-                <![CDATA["Login scenarios"]]>
-              </value>
-            </param>
-          </params>
-          <exception class="org.openqa.selenium.TimeoutException">
-            <message>
-              <![CDATA[Expected condition failed: waiting for visibility of Located by By.chained({By.id: com.earningvideo:id/toolbar_title}) (tried for 60 second(s) with 500 milliseconds interval)]]>
-            </message>
-            <full-stacktrace>
-              <![CDATA[org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of Located by By.chained({By.id: com.earningvideo:id/toolbar_title}) (tried for 60 second(s) with 500 milliseconds interval)
-at org.openqa.selenium.support.ui.WebDriverWait.timeoutException(WebDriverWait.java:95)
-at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:272)
-at com.qa.pages.BasePage.waitForVisibility(BasePage.java:34)
-at com.qa.pages.BasePage.getAttribute(BasePage.java:76)
-at com.qa.pages.BasePage.getText(BasePage.java:89)
-at com.qa.pages.DashboardPage.getHeadingText(DashboardPage.java:48)
-at com.qa.stepdef.LoginPageStepDef.i_should_view_the_dashboard_title(LoginPageStepDef.java:37)
-at ✽.I should view the dashboard title "Earnings Videos"(file:///Users/sharadgupta/Documents/automation/AppiumCucumburFramework-testng/src/test/resources/03_Login.feature:9)
-Caused by: org.openqa.selenium.NoSuchElementException: Can't locate an element by this strategy: By.chained({By.id: com.earningvideo:id/toolbar_title})
-at io.appium.java_client.pagefactory.AppiumElementLocator.findElement(AppiumElementLocator.java:126)
-at io.appium.java_client.pagefactory.interceptors.InterceptorOfASingleElement.intercept(InterceptorOfASingleElement.java:59)
-at io.appium.java_client.android.AndroidElement$$EnhancerByCGLIB$$b598166c.isDisplayed(<generated>)
-at org.openqa.selenium.support.ui.ExpectedConditions.elementIfVisible(ExpectedConditions.java:314)
-at org.openqa.selenium.support.ui.ExpectedConditions.access$000(ExpectedConditions.java:43)
-at org.openqa.selenium.support.ui.ExpectedConditions$10.apply(ExpectedConditions.java:300)
-at org.openqa.selenium.support.ui.ExpectedConditions$10.apply(ExpectedConditions.java:297)
-at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:249)
-at com.qa.pages.BasePage.waitForVisibility(BasePage.java:34)
-at com.qa.pages.BasePage.getAttribute(BasePage.java:76)
-at com.qa.pages.BasePage.getText(BasePage.java:89)
-at com.qa.pages.DashboardPage.getHeadingText(DashboardPage.java:48)
-at com.qa.stepdef.LoginPageStepDef.i_should_view_the_dashboard_title(LoginPageStepDef.java:37)
-at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
-at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
-at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
-at java.base/java.lang.reflect.Method.invoke(Method.java:566)
-at io.cucumber.java.Invoker.invoke(Invoker.java:27)
-at io.cucumber.java.JavaStepDefinition.execute(JavaStepDefinition.java:27)
-at io.cucumber.core.runner.PickleStepDefinitionMatch.runStep(PickleStepDefinitionMatch.java:63)
-at io.cucumber.core.runner.TestStep.executeStep(TestStep.java:64)
-at io.cucumber.core.runner.TestStep.run(TestStep.java:49)
-at io.cucumber.core.runner.PickleStepTestStep.run(PickleStepTestStep.java:46)
-at io.cucumber.core.runner.TestCase.run(TestCase.java:51)
-at io.cucumber.core.runner.Runner.runPickle(Runner.java:67)
-at io.cucumber.testng.TestNGCucumberRunner.runScenario(TestNGCucumberRunner.java:124)
-at com.qa.runners.RunnerBase.scenario(RunnerBase.java:47)
-at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
-at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
-at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
-at java.base/java.lang.reflect.Method.invoke(Method.java:566)
-at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:134)
-at org.testng.internal.TestInvoker.invokeMethod(TestInvoker.java:597)
-at org.testng.internal.TestInvoker.invokeTestMethod(TestInvoker.java:173)
-at org.testng.internal.MethodRunner.runInSequence(MethodRunner.java:46)
-at org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:816)
-at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:146)
-at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
-at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128)
-at java.base/java.util.ArrayList.forEach(ArrayList.java:1540)
-at org.testng.TestRunner.privateRun(TestRunner.java:766)
-at org.testng.TestRunner.run(TestRunner.java:587)
-at org.testng.SuiteRunner.runTest(SuiteRunner.java:384)
-at org.testng.SuiteRunner.access$000(SuiteRunner.java:28)
-at org.testng.SuiteRunner$SuiteWorker.run(SuiteRunner.java:425)
-at org.testng.internal.thread.ThreadUtil.lambda$execute$0(ThreadUtil.java:68)
-at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
-at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
-at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
-at java.base/java.lang.Thread.run(Thread.java:834)
-Caused by: org.openqa.selenium.TimeoutException: Expected condition failed: waiting for io.appium.java_client.pagefactory.AppiumElementLocator$WaitingFunction@173417a (tried for 1 second(s) with 500 milliseconds interval)
-at org.openqa.selenium.support.ui.FluentWait.timeoutException(FluentWait.java:304)
-at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:272)
-at io.appium.java_client.pagefactory.AppiumElementLocator.waitFor(AppiumElementLocator.java:99)
-at io.appium.java_client.pagefactory.AppiumElementLocator.findElement(AppiumElementLocator.java:119)
-... 49 more
-Caused by: org.openqa.selenium.NoSuchElementException: Cannot locate an element using By.chained({By.id: com.earningvideo:id/toolbar_title})
-For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
-Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
-System info: host: 'INLaptop140.local', ip: 'fe80:0:0:0:1c2b:550d:90fa:162%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.14.6', java.version: '11.0.1'
-Driver info: driver.version: AndroidDriver
-at io.appium.java_client.pagefactory.bys.builder.ByChained.findElement(ByChained.java:74)
-at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:315)
-at io.appium.java_client.DefaultGenericMobileDriver.findElement(DefaultGenericMobileDriver.java:57)
-at io.appium.java_client.AppiumDriver.findElement(AppiumDriver.java:1)
-at io.appium.java_client.android.AndroidDriver.findElement(AndroidDriver.java:1)
-at io.appium.java_client.pagefactory.bys.ContentMappedBy.findElement(ContentMappedBy.java:50)
-at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:315)
-at io.appium.java_client.DefaultGenericMobileDriver.findElement(DefaultGenericMobileDriver.java:57)
-at io.appium.java_client.AppiumDriver.findElement(AppiumDriver.java:1)
-at io.appium.java_client.android.AndroidDriver.findElement(AndroidDriver.java:1)
-at io.appium.java_client.pagefactory.AppiumElementLocator.lambda$0(AppiumElementLocator.java:120)
-at io.appium.java_client.pagefactory.AppiumElementLocator$WaitingFunction.apply(AppiumElementLocator.java:172)
-at io.appium.java_client.pagefactory.AppiumElementLocator$WaitingFunction.apply(AppiumElementLocator.java:1)
-at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:249)
-... 51 more
-]]>
-            </full-stacktrace>
-          </exception> <!-- org.openqa.selenium.TimeoutException -->
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- scenario -->
-        <test-method signature="scenario(io.cucumber.testng.PickleWrapper, io.cucumber.testng.FeatureWrapper)[pri:0, instance:com.qa.runners.MyTestNGRunnerTest@37ceb1df]" started-at="2020-06-11T00:37:39 IST" name="scenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2020-06-11T00:38:09 IST" duration-ms="29226" status="PASS">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA["Verify Valid Login"]]>
-              </value>
-            </param>
-            <param index="1">
-              <value>
-                <![CDATA["Login scenarios"]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- scenario -->
-        <test-method is-config="true" signature="tearDownClass()[pri:0, instance:com.qa.runners.MyTestNGRunnerTest@37ceb1df]" started-at="2020-06-11T00:38:09 IST" name="tearDownClass" finished-at="2020-06-11T00:38:12 IST" duration-ms="3221" status="PASS">
+        <test-method is-config="true" signature="tearDownClass()[pri:0, instance:com.qa.runners.MyTestNGRunnerTest@37ceb1df]" started-at="2020-06-11T17:09:37 IST" name="tearDownClass" finished-at="2020-06-11T17:09:40 IST" duration-ms="3035" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDownClass -->

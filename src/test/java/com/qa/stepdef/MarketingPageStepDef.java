@@ -14,10 +14,12 @@ public class MarketingPageStepDef {
     }
     @When("^I tap on the start recording button$")
     public void iTapOnTheStartRecordingButton() {
+
         new MarketingPages().startVideoButton();
     }
     @When("^I tap on the Stop recording button$")
     public void iTapOnTheStopRecordingButton() {
+
         new MarketingPages().stopVideoButton();
     }
     @Then("^I should see Login page with title \"([^\"]*)\"$")
